@@ -12,7 +12,7 @@
 \usepackage{calc}
 
 \usepackage[pdftex]{graphicx}
-\graphicspath{{PDF/}}
+\graphicspath{{pictuires/}}
 
 \usepackage{latexsym,amsfonts,amssymb,amsmath,eucal}
 \usepackage{exscale}

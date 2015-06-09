@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  8 JUN 2015 12:13
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  9 JUN 2015 14:49
 entering extended mode
 **D:/git_repositories/PhD/paper_1/content.tex
 (D:/git_repositories/PhD/paper_1/content.tex
@@ -14,8 +14,8 @@ ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
 ! Undefined control sequence.
-l.1 \section
-            {Энергетическое разрешение ФЭУ}
+l.1 \chapter
+            {Энергетическое разрешение детектора}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -29,8 +29,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1 \section{Э
-              нергетическое разрешение ФЭУ}
+l.1 \chapter{Э
+              нергетическое разрешение детектора}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -58,17 +58,477 @@ Missing character: There is no е in font nullfont!
 Missing character: There is no н in font nullfont!
 Missing character: There is no и in font nullfont!
 Missing character: There is no е in font nullfont!
-Missing character: There is no Ф in font nullfont!
-Missing character: There is no Э in font nullfont!
-Missing character: There is no У in font nullfont!
+Missing character: There is no д in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no т in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no к in font nullfont!
+Missing character: There is no т in font nullfont!
+Missing character: There is no о in font nullfont!
+Missing character: There is no р in font nullfont!
+Missing character: There is no а in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--2
+[][]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 О
+     дним из самых важных параметров детектора является энергетическое разре...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no О in font nullfont!
+Missing character: There is no д in font nullfont!
+Missing character: There is no н in font nullfont!
+Missing character: There is no и in font nullfont!
+Missing character: There is no м in font nullfont!
+Missing character: There is no и in font nullfont!
+Missing character: There is no з in font nullfont!
+Missing character: There is no с in font nullfont!
+Missing character: There is no а in font nullfont!
+Missing character: There is no м in font nullfont!
+Missing character: There is no ы in font nullfont!
+Missing character: There is no х in font nullfont!
+Missing character: There is no в in font nullfont!
+Missing character: There is no а in font nullfont!
+Missing character: There is no ж in font nullfont!
+Missing character: There is no н in font nullfont!
+Missing character: There is no ы in font nullfont!
+Missing character: There is no х in font nullfont!
+Missing character: There is no п in font nullfont!
+Missing character: There is no а in font nullfont!
+Missing character: There is no р in font nullfont!
+Missing character: There is no а in font nullfont!
+Missing character: There is no м in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no т in font nullfont!
+Missing character: There is no р in font nullfont!
+Missing character: There is no о in font nullfont!
+Missing character: There is no в in font nullfont!
+Missing character: There is no д in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no т in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no к in font nullfont!
+Missing character: There is no т in font nullfont!
+Missing character: There is no о in font nullfont!
+Missing character: There is no р in font nullfont!
+Missing character: There is no а in font nullfont!
+Missing character: There is no я in font nullfont!
+Missing character: There is no в in font nullfont!
+Missing character: There is no л in font nullfont!
+Missing character: There is no я in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no т in font nullfont!
+Missing character: There is no с in font nullfont!
+Missing character: There is no я in font nullfont!
+Missing character: There is no э in font nullfont!
+Missing character: There is no н in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no р in font nullfont!
+Missing character: There is no г in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no т in font nullfont!
+Missing character: There is no и in font nullfont!
+Missing character: There is no ч in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no с in font nullfont!
+Missing character: There is no к in font nullfont!
+Missing character: There is no о in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no р in font nullfont!
+Missing character: There is no а in font nullfont!
+Missing character: There is no з in font nullfont!
+Missing character: There is no р in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no ш in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no н in font nullfont!
+Missing character: There is no и in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no В in font nullfont!
+Missing character: There is no э in font nullfont!
+Missing character: There is no т in font nullfont!
+Missing character: There is no о in font nullfont!
+Missing character: There is no й in font nullfont!
+Missing character: There is no г in font nullfont!
+Missing character: There is no л in font nullfont!
+Missing character: There is no а in font nullfont!
+Missing character: There is no в in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no м in font nullfont!
+Missing character: There is no ы in font nullfont!
+Missing character: There is no н in font nullfont!
+Missing character: There is no а in font nullfont!
+Missing character: There is no й in font nullfont!
+Missing character: There is no д in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no м in font nullfont!
+Missing character: There is no п in font nullfont!
+Missing character: There is no р in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no д in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no л in font nullfont!
+Missing character: There is no ь in font nullfont!
+Missing character: There is no н in font nullfont!
+Missing character: There is no о in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no э in font nullfont!
+Missing character: There is no н in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no р in font nullfont!
+Missing character: There is no г in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no т in font nullfont!
+Missing character: There is no и in font nullfont!
+Missing character: There is no ч in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no с in font nullfont!
+Missing character: There is no к in font nullfont!
+Missing character: There is no о in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no р in font nullfont!
+Missing character: There is no а in font nullfont!
+Missing character: There is no з in font nullfont!
+Missing character: There is no р in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no ш in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no н in font nullfont!
+Missing character: There is no и in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no д in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no т in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no к in font nullfont!
+Missing character: There is no т in font nullfont!
+Missing character: There is no о in font nullfont!
+Missing character: There is no р in font nullfont!
+Missing character: There is no а in font nullfont!
+Missing character: There is no и in font nullfont!
+Missing character: There is no н in font nullfont!
+Missing character: There is no а in font nullfont!
+Missing character: There is no й in font nullfont!
+Missing character: There is no д in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no м in font nullfont!
+Missing character: There is no о in font nullfont!
+Missing character: There is no с in font nullfont!
+Missing character: There is no н in font nullfont!
+Missing character: There is no о in font nullfont!
+Missing character: There is no в in font nullfont!
+Missing character: There is no н in font nullfont!
+Missing character: There is no ы in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no ф in font nullfont!
+Missing character: There is no а in font nullfont!
+Missing character: There is no к in font nullfont!
+Missing character: There is no т in font nullfont!
+Missing character: There is no о in font nullfont!
+Missing character: There is no р in font nullfont!
+Missing character: There is no ы in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no п in font nullfont!
+Missing character: There is no р in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no п in font nullfont!
+Missing character: There is no я in font nullfont!
+Missing character: There is no т in font nullfont!
+Missing character: There is no с in font nullfont!
+Missing character: There is no т in font nullfont!
+Missing character: There is no в in font nullfont!
+Missing character: There is no у in font nullfont!
+Missing character: There is no ю in font nullfont!
+Missing character: There is no щ in font nullfont!
+Missing character: There is no и in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no г in font nullfont!
+Missing character: There is no о in font nullfont!
+Missing character: There is no у in font nullfont!
+Missing character: There is no л in font nullfont!
+Missing character: There is no у in font nullfont!
+Missing character: There is no ч in font nullfont!
+Missing character: There is no ш in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no н in font nullfont!
+Missing character: There is no и in font nullfont!
+Missing character: There is no ю in font nullfont!
+Missing character: There is no . in font nullfont!
 ! Undefined control sequence.
-l.2 \subsection
-               {Простейший случай}
+l.5 \section
+            {Детектор на основе ФЭУ и сцитиллятора}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
+
+Missing character: There is no Д in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no т in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no к in font nullfont!
+Missing character: There is no т in font nullfont!
+Missing character: There is no о in font nullfont!
+Missing character: There is no р in font nullfont!
+Missing character: There is no н in font nullfont!
+Missing character: There is no а in font nullfont!
+Missing character: There is no о in font nullfont!
+Missing character: There is no с in font nullfont!
+Missing character: There is no н in font nullfont!
+Missing character: There is no о in font nullfont!
+Missing character: There is no в in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no Ф in font nullfont!
+Missing character: There is no Э in font nullfont!
+Missing character: There is no У in font nullfont!
+Missing character: There is no и in font nullfont!
+Missing character: There is no с in font nullfont!
+Missing character: There is no ц in font nullfont!
+Missing character: There is no и in font nullfont!
+Missing character: There is no т in font nullfont!
+Missing character: There is no и in font nullfont!
+Missing character: There is no л in font nullfont!
+Missing character: There is no л in font nullfont!
+Missing character: There is no я in font nullfont!
+Missing character: There is no т in font nullfont!
+Missing character: There is no о in font nullfont!
+Missing character: There is no р in font nullfont!
+Missing character: There is no а in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 3--6
+[][]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 Д
+     етектор на основе ФЭУ и сцинтиллятора - одни из самых простых детекторо...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no Д in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no т in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no к in font nullfont!
+Missing character: There is no т in font nullfont!
+Missing character: There is no о in font nullfont!
+Missing character: There is no р in font nullfont!
+Missing character: There is no н in font nullfont!
+Missing character: There is no а in font nullfont!
+Missing character: There is no о in font nullfont!
+Missing character: There is no с in font nullfont!
+Missing character: There is no н in font nullfont!
+Missing character: There is no о in font nullfont!
+Missing character: There is no в in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no Ф in font nullfont!
+Missing character: There is no Э in font nullfont!
+Missing character: There is no У in font nullfont!
+Missing character: There is no и in font nullfont!
+Missing character: There is no с in font nullfont!
+Missing character: There is no ц in font nullfont!
+Missing character: There is no и in font nullfont!
+Missing character: There is no н in font nullfont!
+Missing character: There is no т in font nullfont!
+Missing character: There is no и in font nullfont!
+Missing character: There is no л in font nullfont!
+Missing character: There is no л in font nullfont!
+Missing character: There is no я in font nullfont!
+Missing character: There is no т in font nullfont!
+Missing character: There is no о in font nullfont!
+Missing character: There is no р in font nullfont!
+Missing character: There is no а in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no о in font nullfont!
+Missing character: There is no д in font nullfont!
+Missing character: There is no н in font nullfont!
+Missing character: There is no и in font nullfont!
+Missing character: There is no и in font nullfont!
+Missing character: There is no з in font nullfont!
+Missing character: There is no с in font nullfont!
+Missing character: There is no а in font nullfont!
+Missing character: There is no м in font nullfont!
+Missing character: There is no ы in font nullfont!
+Missing character: There is no х in font nullfont!
+Missing character: There is no п in font nullfont!
+Missing character: There is no р in font nullfont!
+Missing character: There is no о in font nullfont!
+Missing character: There is no с in font nullfont!
+Missing character: There is no т in font nullfont!
+Missing character: There is no ы in font nullfont!
+Missing character: There is no х in font nullfont!
+Missing character: There is no д in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no т in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no к in font nullfont!
+Missing character: There is no т in font nullfont!
+Missing character: There is no о in font nullfont!
+Missing character: There is no р in font nullfont!
+Missing character: There is no о in font nullfont!
+Missing character: There is no в in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no н in font nullfont!
+Missing character: There is no о in font nullfont!
+Missing character: There is no в in font nullfont!
+Missing character: There is no т in font nullfont!
+Missing character: There is no о in font nullfont!
+Missing character: There is no ж in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no в in font nullfont!
+Missing character: There is no р in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no м in font nullfont!
+Missing character: There is no я in font nullfont!
+Missing character: There is no о in font nullfont!
+Missing character: There is no б in font nullfont!
+Missing character: There is no л in font nullfont!
+Missing character: There is no а in font nullfont!
+Missing character: There is no д in font nullfont!
+Missing character: There is no а in font nullfont!
+Missing character: There is no ю in font nullfont!
+Missing character: There is no щ in font nullfont!
+Missing character: There is no и in font nullfont!
+Missing character: There is no й in font nullfont!
+Missing character: There is no в in font nullfont!
+Missing character: There is no ы in font nullfont!
+Missing character: There is no с in font nullfont!
+Missing character: There is no о in font nullfont!
+Missing character: There is no к in font nullfont!
+Missing character: There is no и in font nullfont!
+Missing character: There is no м in font nullfont!
+Missing character: There is no э in font nullfont!
+Missing character: There is no н in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no р in font nullfont!
+Missing character: There is no г in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no т in font nullfont!
+Missing character: There is no и in font nullfont!
+Missing character: There is no ч in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no с in font nullfont!
+Missing character: There is no к in font nullfont!
+Missing character: There is no и in font nullfont!
+Missing character: There is no м in font nullfont!
+Missing character: There is no и in font nullfont!
+Missing character: There is no в in font nullfont!
+Missing character: There is no р in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no м in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no н in font nullfont!
+Missing character: There is no н in font nullfont!
+Missing character: There is no ы in font nullfont!
+Missing character: There is no м in font nullfont!
+Missing character: There is no р in font nullfont!
+Missing character: There is no а in font nullfont!
+Missing character: There is no з in font nullfont!
+Missing character: There is no р in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no ш in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no н in font nullfont!
+Missing character: There is no и in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no м in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no П in font nullfont!
+Missing character: There is no р in font nullfont!
+Missing character: There is no о in font nullfont!
+Missing character: There is no ц in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no с in font nullfont!
+Missing character: There is no с in font nullfont!
+Missing character: There is no р in font nullfont!
+Missing character: There is no а in font nullfont!
+Missing character: There is no с in font nullfont!
+Missing character: There is no п in font nullfont!
+Missing character: There is no р in font nullfont!
+Missing character: There is no о in font nullfont!
+Missing character: There is no с in font nullfont!
+Missing character: There is no т in font nullfont!
+Missing character: There is no р in font nullfont!
+Missing character: There is no а in font nullfont!
+Missing character: There is no н in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no н in font nullfont!
+Missing character: There is no и in font nullfont!
+Missing character: There is no я in font nullfont!
+Missing character: There is no с in font nullfont!
+Missing character: There is no в in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no т in font nullfont!
+Missing character: There is no а in font nullfont!
+Missing character: There is no в in font nullfont!
+Missing character: There is no д in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no т in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no к in font nullfont!
+Missing character: There is no т in font nullfont!
+Missing character: There is no о in font nullfont!
+Missing character: There is no р in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no п in font nullfont!
+Missing character: There is no р in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no д in font nullfont!
+Missing character: There is no с in font nullfont!
+Missing character: There is no т in font nullfont!
+Missing character: There is no а in font nullfont!
+Missing character: There is no в in font nullfont!
+Missing character: There is no л in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no н in font nullfont!
+Missing character: There is no н in font nullfont!
+Missing character: There is no а in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 7--9
+[][]
+ []
+
+! Undefined control sequence.
+l.10 \subsection
+                {Простейший случай}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 \subsection{П
+                  ростейший случай}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 Missing character: There is no П in font nullfont!
 Missing character: There is no р in font nullfont!
@@ -87,9 +547,9 @@ Missing character: There is no ч in font nullfont!
 Missing character: There is no а in font nullfont!
 Missing character: There is no й in font nullfont!
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 3.
+(Font)              <7> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 3.
+(Font)              <5> on input line 11.
 Missing character: There is no - in font nullfont!
 Missing character: There is no ч in font nullfont!
 Missing character: There is no и in font nullfont!
@@ -138,12 +598,12 @@ Missing character: There is no р in font nullfont!
 Missing character: There is no е in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 1--4
+Overfull \hbox (20.0pt too wide) in paragraph at lines 10--12
 [][]
  []
 
 
-Overfull \hbox (24.87018pt too wide) in paragraph at lines 1--4
+Overfull \hbox (24.87018pt too wide) in paragraph at lines 10--12
 \OML/cmm/m/it/10 N[]$
  []
 
@@ -154,8 +614,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 $
-     N_{cath_abs}$ - число световых фотонов, поглощенных в фотокатоде
+l.13 $
+      N_{abs}$ - число световых фотонов, поглощенных в фотокатоде
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -204,7 +664,7 @@ Missing character: There is no о in font nullfont!
 Missing character: There is no д in font nullfont!
 Missing character: There is no е in font nullfont!
 
-Overfull \hbox (55.81183pt too wide) in paragraph at lines 5--6
+Overfull \hbox (40.16335pt too wide) in paragraph at lines 13--14
 [][]$\OML/cmm/m/it/10 N[]$
  []
 
@@ -215,8 +675,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.7 $
-     N_{p.e.}$ - число зарегистрированных фотоэлектронов
+l.15 $
+      N_{p.e.}$ - число зарегистрированных фотоэлектронов
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -259,7 +719,7 @@ Missing character: There is no н in font nullfont!
 Missing character: There is no о in font nullfont!
 Missing character: There is no в in font nullfont!
 
-Overfull \hbox (41.20117pt too wide) in paragraph at lines 7--8
+Overfull \hbox (41.20117pt too wide) in paragraph at lines 15--16
 [][]$\OML/cmm/m/it/10 N[]$
  []
 
@@ -270,8 +730,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.9 $
-     N_{e}$ - число электронов, собранных на последнем аноде ФЭУ
+l.17 $
+      N_{e}$ - число электронов, собранных на последнем аноде ФЭУ
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -321,7 +781,7 @@ Missing character: There is no Ф in font nullfont!
 Missing character: There is no Э in font nullfont!
 Missing character: There is no У in font nullfont!
 
-Overfull \hbox (32.32883pt too wide) in paragraph at lines 9--10
+Overfull \hbox (32.32883pt too wide) in paragraph at lines 17--18
 [][]$\OML/cmm/m/it/10 N[]$
  []
 
@@ -332,7 +792,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.11 В
+l.19 В
       се эти величины связаны следующими соотношениями:
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -383,7 +843,7 @@ Missing character: There is no м in font nullfont!
 Missing character: There is no и in font nullfont!
 Missing character: There is no : in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 11--12
+Overfull \hbox (20.0pt too wide) in paragraph at lines 19--20
 [][]
  []
 
@@ -394,18 +854,18 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.13 $
-      $N_{cath_abs} = \sum \limits_{i=0}^{N_{born}} n_{cath_abs}$$
+l.21 $
+      $N_{abs} = \sum \limits_{i=0}^{N_{born}} n_{abs_{i}}$$
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 13--13
+Overfull \hbox (20.0pt too wide) in paragraph at lines 21--21
 [][] 
  []
 
 
-Overfull \hbox (106.03992pt too wide) detected at line 13
+Overfull \hbox (77.9108pt too wide) detected at line 21
 \OML/cmm/m/it/10 N[] \OT1/cmr/m/n/10 = [] \OML/cmm/m/it/10 n[]
  []
 
@@ -416,18 +876,18 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 $
-      $N_{p.e.} = \sum \limits_{i=0}^{N_{cath_abs}} n_{p.e.}$$
+l.23 $
+      $N_{p.e.} = \sum \limits_{i=0}^{N_{abs}} n_{p.e._{i}}$$
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 15--15
+Overfull \hbox (20.0pt too wide) in paragraph at lines 23--23
 [][] 
  []
 
 
-Overfull \hbox (87.16881pt too wide) detected at line 15
+Overfull \hbox (75.76128pt too wide) detected at line 23
 \OML/cmm/m/it/10 N[] \OT1/cmr/m/n/10 = [] \OML/cmm/m/it/10 n[]
  []
 
@@ -438,19 +898,19 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.17 $
-      $N_{e} = \sum \limits_{i=0}^{N_{p.e.}} G$$
+l.25 $
+      $N_{e} = \sum \limits_{i=0}^{N_{p.e.}} G_{i}$$
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 17--17
+Overfull \hbox (20.0pt too wide) in paragraph at lines 25--25
 [][] 
  []
 
 
-Overfull \hbox (53.69223pt too wide) detected at line 17
-\OML/cmm/m/it/10 N[] \OT1/cmr/m/n/10 = [] \OML/cmm/m/it/10 G
+Overfull \hbox (57.02151pt too wide) detected at line 25
+\OML/cmm/m/it/10 N[] \OT1/cmr/m/n/10 = [] \OML/cmm/m/it/10 G[]
  []
 
 
@@ -460,8 +920,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.19 $
-      n_{cath_abs}$ - число световых фотонов, поглощенных в фотокатоде, если...
+l.27 $
+      n_{abs}$ - число световых фотонов, поглощенных в фотокатоде, если в сц...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -553,9 +1013,22 @@ Missing character: There is no о in font nullfont!
 Missing character: There is no т in font nullfont!
 Missing character: There is no о in font nullfont!
 Missing character: There is no н in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no . in font nullfont!
 
-Overfull \hbox (53.77946pt too wide) in paragraph at lines 19--20
+Overfull \hbox (38.13098pt too wide) in paragraph at lines 27--28
 [][]$\OML/cmm/m/it/10 n[]$
+ []
+
+
+Overfull \hbox (27.57538pt too wide) in paragraph at lines 27--28
+\OML/cmm/m/it/10 n[] \OMS/cmsy/m/n/10 2
+ []
+
+
+Overfull \hbox (24.44447pt too wide) in paragraph at lines 27--28
+\OMS/cmsy/m/n/10 f\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OMS/cms
+y/m/n/10 g$ 
  []
 
 
@@ -565,7 +1038,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.21 $
+l.29 $
       n_{p.e.}$ - число зарегистрированных фотоэлектронов, если в фотокатоде...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -652,9 +1125,22 @@ Missing character: There is no о in font nullfont!
 Missing character: There is no т in font nullfont!
 Missing character: There is no о in font nullfont!
 Missing character: There is no н in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no . in font nullfont!
 
-Overfull \hbox (39.16881pt too wide) in paragraph at lines 21--22
+Overfull \hbox (39.16881pt too wide) in paragraph at lines 29--30
 [][]$\OML/cmm/m/it/10 n[]$
+ []
+
+
+Overfull \hbox (28.6132pt too wide) in paragraph at lines 29--30
+\OML/cmm/m/it/10 n[] \OMS/cmsy/m/n/10 2
+ []
+
+
+Overfull \hbox (24.44447pt too wide) in paragraph at lines 29--30
+\OMS/cmsy/m/n/10 f\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1\OMS/cms
+y/m/n/10 g$ 
  []
 
 
@@ -664,7 +1150,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.23 $
+l.31 $
       G$ - число электронов, собранных на ФЭУ, при условии, что родился один...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -740,7 +1226,7 @@ Missing character: There is no р in font nullfont!
 Missing character: There is no о in font nullfont!
 Missing character: There is no н in font nullfont!
 
-Overfull \hbox (27.86249pt too wide) in paragraph at lines 23--24
+Overfull \hbox (27.86249pt too wide) in paragraph at lines 31--32
 [][]$\OML/cmm/m/it/10 G$
  []
 
@@ -751,7 +1237,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.25 В
+l.33 В
        процессе измерений мы регистрируем число электронов $N_{e}$. Энергети...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -864,33 +1350,25 @@ Missing character: There is no о in font nullfont!
 Missing character: There is no м in font nullfont!
 Missing character: There is no : in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 25--26
+Overfull \hbox (20.0pt too wide) in paragraph at lines 33--34
 [][]
  []
 
 
-Overfull \hbox (12.32883pt too wide) in paragraph at lines 25--26
+Overfull \hbox (12.32883pt too wide) in paragraph at lines 33--34
 \OML/cmm/m/it/10 N[]$
  []
 
 
-Overfull \hbox (74.52966pt too wide) detected at line 26
-\OML/cmm/m/it/10 E \OT1/cmr/m/n/10 = []
+Overfull \hbox (88.4186pt too wide) detected at line 34
+\OML/cmm/m/it/10 E \OT1/cmr/m/n/10 =  \OMS/cmsy/m/n/10  []\OML/cmm/m/it/10 ;
+
  []
 
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.28 В
-       дальнейшем более удобно будет использовать квадрат этой величины ${\d...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+Missing character: There is no г in font nullfont!
+Missing character: There is no д in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no . in font nullfont!
 Missing character: There is no В in font nullfont!
 Missing character: There is no д in font nullfont!
 Missing character: There is no а in font nullfont!
@@ -949,15 +1427,46 @@ Missing character: There is no ч in font nullfont!
 Missing character: There is no и in font nullfont!
 Missing character: There is no н in font nullfont!
 Missing character: There is no ы in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no д in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no л in font nullfont!
+Missing character: There is no е in font nullfont!
+Missing character: There is no н in font nullfont!
+Missing character: There is no н in font nullfont!
+Missing character: There is no ы in font nullfont!
+Missing character: There is no й in font nullfont!
+Missing character: There is no н in font nullfont!
+Missing character: There is no а in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 28--29
-[][]
+Overfull \hbox (18.88887pt too wide) in paragraph at lines 34--37
+\OT1/cmr/m/n/10  =
  []
 
 
-Overfull \hbox (17.26735pt too wide) in paragraph at lines 28--29
-[][]$ 
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 34--37
+\OT1/cmr/m/n/10 2 \OMS/cmsy/m/n/10 
+ []
+
+
+Overfull \hbox (53.88884pt too wide) in paragraph at lines 34--37
+[] \OMS/cmsy/m/n/10 
+ []
+
+
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 34--37
+\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 36$
+ []
+
+
+Overfull \hbox (17.26735pt too wide) in paragraph at lines 34--37
+[][]$
+ []
+
+
+Overfull \hbox (12.81949pt too wide) in paragraph at lines 34--37
+\OT1/cmr/m/n/10 []$ 
  []
 
 
@@ -967,7 +1476,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.30 С
+l.38 С
       цинтиллятор имеет некий спектр излучения с плотностью вероятности $P(\...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -1078,18 +1587,18 @@ Missing character: There is no у in font nullfont!
 Missing character: There is no м in font nullfont!
 Missing character: There is no : in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 30--31
+Overfull \hbox (20.0pt too wide) in paragraph at lines 38--39
 [][]
  []
 
 
-Overfull \hbox (21.4202pt too wide) in paragraph at lines 30--31
+Overfull \hbox (21.4202pt too wide) in paragraph at lines 38--39
 \OML/cmm/m/it/10 P\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 \OT1/cmr/m/n/10 )$
  []
 
 
-Overfull \hbox (119.25185pt too wide) detected at line 31
-\OML/cmm/m/it/10 E[] \OT1/cmr/m/n/10 = []
+Overfull \hbox (139.33525pt too wide) detected at line 39
+\OML/cmm/m/it/10 E[]=\OT1/cmr/m/n/10 [] = []
  []
 
 
@@ -1099,7 +1608,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.33 Р
+l.41 Р
       ассмотрим для простоты случай, когда сцинтиллятор излучает свет на одн...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -1181,7 +1690,7 @@ Missing character: There is no н in font nullfont!
 Missing character: There is no ы in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 33--34
+Overfull \hbox (20.0pt too wide) in paragraph at lines 41--42
 [][]
  []
 
@@ -1192,7 +1701,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.35 Ч
+l.43 Ч
       тобы посчитать мат. ожидание и дисперсию величины, представляющей собо...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -1414,14 +1923,14 @@ Missing character: There is no е in font nullfont!
 Missing character: There is no е in font nullfont!
 Missing character: There is no : in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 35--37
+Overfull \hbox (20.0pt too wide) in paragraph at lines 43--45
 [][]
  []
 
 
-Overfull \hbox (112.57217pt too wide) detected at line 37
+Overfull \hbox (110.34995pt too wide) detected at line 45
 \OML/cmm/m/it/10 E [] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 E\OT1/cmr/m/n/10 [\OML
-/cmm/m/it/10 N\OT1/cmr/m/n/10 ] \OMS/cmsy/m/n/10  \OML/cmm/m/it/10 E\OT1/cmr/m
+/cmm/m/it/10 N\OT1/cmr/m/n/10 ] \OMS/cmsy/m/n/10  \OML/cmm/m/it/10 E\OT1/cmr/m
 /n/10 [\OML/cmm/m/it/10 X\OT1/cmr/m/n/10 ]
  []
 
@@ -1432,7 +1941,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.39 К
+l.47 К
       ак следствие этого тождества получаем выражение для дисперсии:
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1494,17 +2003,17 @@ Missing character: There is no и in font nullfont!
 Missing character: There is no и in font nullfont!
 Missing character: There is no : in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 39--40
+Overfull \hbox (20.0pt too wide) in paragraph at lines 47--48
 [][]
  []
 
 
-Overfull \hbox (213.35359pt too wide) detected at line 40
+Overfull \hbox (208.90913pt too wide) detected at line 48
 \OML/cmm/m/it/10 Var [] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 Var\OT1/cmr/m/n/10 [
-\OML/cmm/m/it/10 N\OT1/cmr/m/n/10 ] \OMS/cmsy/m/n/10  \OT1/cmr/m/n/10 (\OML/cm
+\OML/cmm/m/it/10 N\OT1/cmr/m/n/10 ] \OMS/cmsy/m/n/10  \OT1/cmr/m/n/10 (\OML/cm
 m/m/it/10 E\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 X\OT1/cmr/m/n/10 ])[] + \OML/cmm/m
 /it/10 Var\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 X\OT1/cmr/m/n/10 ] \OMS/cmsy/m/n/10
-  \OML/cmm/m/it/10 E\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 N\OT1/cmr/m/n/10 ]
+  \OML/cmm/m/it/10 E\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 N\OT1/cmr/m/n/10 ]
  []
 
 
@@ -1514,8 +2023,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.42 В
-      оспользовавшись этими двумя выражениями, выразим квадрат энергетическо...
+l.50 В
+      оспользовавшись этими двумя выражениями, выразим величину ${\delta E}^...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1565,38 +2074,14 @@ Missing character: There is no а in font nullfont!
 Missing character: There is no з in font nullfont!
 Missing character: There is no и in font nullfont!
 Missing character: There is no м in font nullfont!
-Missing character: There is no к in font nullfont!
 Missing character: There is no в in font nullfont!
-Missing character: There is no а in font nullfont!
-Missing character: There is no д in font nullfont!
-Missing character: There is no р in font nullfont!
-Missing character: There is no а in font nullfont!
-Missing character: There is no т in font nullfont!
-Missing character: There is no э in font nullfont!
-Missing character: There is no н in font nullfont!
 Missing character: There is no е in font nullfont!
-Missing character: There is no р in font nullfont!
-Missing character: There is no г in font nullfont!
-Missing character: There is no е in font nullfont!
-Missing character: There is no т in font nullfont!
+Missing character: There is no л in font nullfont!
 Missing character: There is no и in font nullfont!
 Missing character: There is no ч in font nullfont!
-Missing character: There is no е in font nullfont!
-Missing character: There is no с in font nullfont!
-Missing character: There is no к in font nullfont!
-Missing character: There is no о in font nullfont!
-Missing character: There is no г in font nullfont!
-Missing character: There is no о in font nullfont!
-Missing character: There is no р in font nullfont!
-Missing character: There is no а in font nullfont!
-Missing character: There is no з in font nullfont!
-Missing character: There is no р in font nullfont!
-Missing character: There is no е in font nullfont!
-Missing character: There is no ш in font nullfont!
-Missing character: There is no е in font nullfont!
-Missing character: There is no н in font nullfont!
 Missing character: There is no и in font nullfont!
-Missing character: There is no я in font nullfont!
+Missing character: There is no н in font nullfont!
+Missing character: There is no у in font nullfont!
 Missing character: There is no ч in font nullfont!
 Missing character: There is no е in font nullfont!
 Missing character: There is no р in font nullfont!
@@ -1647,32 +2132,32 @@ Missing character: There is no о in font nullfont!
 Missing character: There is no р in font nullfont!
 Missing character: There is no : in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 42--43
+Overfull \hbox (20.0pt too wide) in paragraph at lines 50--51
 [][]
  []
 
 
-Overfull \hbox (17.26735pt too wide) in paragraph at lines 42--43
-[][]$
+Overfull \hbox (35.08685pt too wide) in paragraph at lines 50--51
+[][]\OML/cmm/m/it/10 =\OT1/cmr/m/n/10 []$
  []
 
 
-Overfull \hbox (24.87018pt too wide) in paragraph at lines 42--43
+Overfull \hbox (24.87018pt too wide) in paragraph at lines 50--51
 \OML/cmm/m/it/10 N[]$
  []
 
 
-Overfull \hbox (33.77946pt too wide) in paragraph at lines 42--43
+Overfull \hbox (18.13098pt too wide) in paragraph at lines 50--51
 \OML/cmm/m/it/10 n[]$
  []
 
 
-Overfull \hbox (19.16881pt too wide) in paragraph at lines 42--43
+Overfull \hbox (19.16881pt too wide) in paragraph at lines 50--51
 \OML/cmm/m/it/10 n[]$
  []
 
 
-Overfull \hbox (7.86249pt too wide) in paragraph at lines 42--43
+Overfull \hbox (7.86249pt too wide) in paragraph at lines 50--51
 \OML/cmm/m/it/10 G$
  []
 
@@ -1683,18 +2168,18 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.44 \begin{eqnarray}
+l.52 \begin{eqnarray}
                      \label{eq:ener_resol_base}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 44--44
+Overfull \hbox (20.0pt too wide) in paragraph at lines 52--52
 [][] 
  []
 
 
-Overfull \hbox (220.27852pt too wide) in alignment at lines 44--47
+Overfull \hbox (220.22731pt too wide) in alignment at lines 52--55
  [][][] []
  []
 
@@ -1705,7 +2190,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.49 Р
+l.57 Р
       ассмотрим каждое из слагаемых подробнее.
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1748,7 +2233,7 @@ Missing character: There is no е in font nullfont!
 Missing character: There is no е in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 49--50
+Overfull \hbox (20.0pt too wide) in paragraph at lines 57--58
 [][]
  []
 
@@ -1759,7 +2244,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.51 С
+l.59 С
       лагаемое $\frac{Var[N_{born}]}{(E[N_{born}])^2}$ описывает вклад флукт...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -1996,7 +2481,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.51 ...е сцинтиллятора можно найти в \cite{Qi_Li}
+l.59 ...е сцинтиллятора можно найти в \cite{Qi_Li}
                                                   .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2005,33 +2490,33 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Citation `Qi_Li' on page  undefined on input line 51.
+LaTeX Warning: Citation `Qi_Li' on page  undefined on input line 59.
 
 Missing character: There is no ] in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 51--52
+Overfull \hbox (20.0pt too wide) in paragraph at lines 59--60
 [][]
  []
 
 
-Overfull \hbox (44.785pt too wide) in paragraph at lines 51--52
+Overfull \hbox (44.785pt too wide) in paragraph at lines 59--60
 []$
  []
 
 
-Overfull \hbox (59.11208pt too wide) in paragraph at lines 51--52
+Overfull \hbox (59.11208pt too wide) in paragraph at lines 59--60
 \OML/cmm/m/it/10 Var\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 N[]\OT1/cmr/m/n/10 ] \OMS
 /cmsy/m/n/10 6\OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (38.38406pt too wide) in paragraph at lines 51--52
+Overfull \hbox (38.38406pt too wide) in paragraph at lines 59--60
 \OML/cmm/m/it/10 E\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 N[]\OT1/cmr/m/n/10 ]$
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 51--52
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 59--60
 [] 
  []
 
@@ -2042,8 +2527,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.53 В
-      ыражение $\frac{Var[n_{cath_abs}]}{(E[n_{cath_abs}])^2} \ast \frac{1}{...
+l.61 В
+      ыражение $\frac{Var[n_{abs}]}{(E[n_{abs}])^2} \cdot \frac{1}{E[N_{born...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -2509,22 +2994,22 @@ Missing character: There is no и in font nullfont!
 Missing character: There is no е in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 53--54
+Overfull \hbox (20.0pt too wide) in paragraph at lines 61--62
 [][]
  []
 
 
-Overfull \hbox (58.74449pt too wide) in paragraph at lines 53--54
-[] \OMS/cmsy/m/n/10 
+Overfull \hbox (41.94688pt too wide) in paragraph at lines 61--62
+[] \OMS/cmsy/m/n/10 
  []
 
 
-Overfull \hbox (34.63214pt too wide) in paragraph at lines 53--54
+Overfull \hbox (34.63214pt too wide) in paragraph at lines 61--62
 []$
  []
 
 
-Overfull \hbox (34.63214pt too wide) in paragraph at lines 53--54
+Overfull \hbox (34.63214pt too wide) in paragraph at lines 61--62
 []$
  []
 
@@ -2535,8 +3020,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.55 С
-      ледующее слагаемое $\frac{Var[n_{p.e.}]}{(E[n_{p.e.}])^2} \ast \frac{1...
+l.63 С
+      ледующее слагаемое $\frac{Var[n_{p.e.}]}{(E[n_{p.e.}])^2} \cdot \frac{...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -2880,7 +3365,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.57 ...отона, как было показано в \cite{M.D. Lay}
+l.65 ...отона, как было показано в \cite{M.D. Lay}
                                                   .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2889,7 +3374,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Citation `M.D. Lay' on page  undefined on input line 57.
+LaTeX Warning: Citation `M.D. Lay' on page  undefined on input line 65.
 
 Missing character: There is no ] in font nullfont!
 Missing character: There is no . in font nullfont!
@@ -3033,62 +3518,62 @@ Missing character: There is no о in font nullfont!
 Missing character: There is no : in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 55--60
+Overfull \hbox (20.0pt too wide) in paragraph at lines 63--68
 [][]
  []
 
 
-Overfull \hbox (45.44658pt too wide) in paragraph at lines 55--60
-[] \OMS/cmsy/m/n/10 
+Overfull \hbox (43.22435pt too wide) in paragraph at lines 63--68
+[] \OMS/cmsy/m/n/10 
  []
 
 
-Overfull \hbox (44.98235pt too wide) in paragraph at lines 55--60
+Overfull \hbox (30.40697pt too wide) in paragraph at lines 63--68
 []$
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 55--60
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 63--68
 []
  []
 
 
-Overfull \hbox (19.16881pt too wide) in paragraph at lines 55--60
+Overfull \hbox (19.16881pt too wide) in paragraph at lines 63--68
 \OML/cmm/m/it/10 n[]$
  []
 
 
-Overfull \hbox (43.2382pt too wide) in paragraph at lines 55--60
+Overfull \hbox (43.2382pt too wide) in paragraph at lines 63--68
 \OML/cmm/m/it/10 E\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 n[]\OT1/cmr/m/n/10 ] =
  []
 
 
-Overfull \hbox (23.91808pt too wide) in paragraph at lines 55--60
+Overfull \hbox (23.91808pt too wide) in paragraph at lines 63--68
 \OML/cmm/m/it/10 Conv$
  []
 
 
-Overfull \hbox (53.4107pt too wide) in paragraph at lines 55--60
+Overfull \hbox (53.4107pt too wide) in paragraph at lines 63--68
 \OML/cmm/m/it/10 Var\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 n[]\OT1/cmr/m/n/10 ] =
  []
 
 
-Overfull \hbox (40.5848pt too wide) in paragraph at lines 55--60
+Overfull \hbox (40.5848pt too wide) in paragraph at lines 63--68
 \OML/cmm/m/it/10 Conv\OT1/cmr/m/n/10 (1 \OMS/cmsy/m/n/10  
  []
 
 
-Overfull \hbox (27.80698pt too wide) in paragraph at lines 55--60
+Overfull \hbox (27.80698pt too wide) in paragraph at lines 63--68
 \OML/cmm/m/it/10 Conv\OT1/cmr/m/n/10 )$
  []
 
 
-Overfull \hbox (37.00388pt too wide) in paragraph at lines 55--60
-[] \OMS/cmsy/m/n/10 
+Overfull \hbox (34.78165pt too wide) in paragraph at lines 63--68
+[] \OMS/cmsy/m/n/10 
  []
 
 
-Overfull \hbox (44.98235pt too wide) in paragraph at lines 55--60
+Overfull \hbox (30.40697pt too wide) in paragraph at lines 63--68
 []$ 
  []
 
@@ -3099,8 +3584,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.61 П
-      оследнее слагаемое $\frac{Var[G]}{(E[G])^2} \ast \frac{1}{E[N_{p.e.}]}...
+l.69 П
+      оследнее слагаемое $\frac{Var[G]}{(E[G])^2} \cdot \frac{1}{E[N_{p.e.}]...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3191,7 +3676,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.61 ...terization and Simulation of the Response}
+l.69 ...terization and Simulation of the Response}
                                                   , а наличие фактора подавл...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3201,7 +3686,7 @@ and I'll forget about whatever was undefined.
 
 
 LaTeX Warning: Citation `Characterization and Simulation of the Response' on pa
-ge  undefined on input line 61.
+ge  undefined on input line 69.
 
 Missing character: There is no ] in font nullfont!
 Missing character: There is no , in font nullfont!
@@ -3294,42 +3779,42 @@ Missing character: There is no ш in font nullfont!
 Missing character: There is no е in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 61--62
+Overfull \hbox (20.0pt too wide) in paragraph at lines 69--70
 [][]
  []
 
 
-Overfull \hbox (34.56223pt too wide) in paragraph at lines 61--62
-[] \OMS/cmsy/m/n/10 
+Overfull \hbox (32.34pt too wide) in paragraph at lines 69--70
+[] \OMS/cmsy/m/n/10 
  []
 
 
-Overfull \hbox (31.68443pt too wide) in paragraph at lines 61--62
+Overfull \hbox (31.68443pt too wide) in paragraph at lines 69--70
 []$
  []
 
 
-Overfull \hbox (17.77783pt too wide) in paragraph at lines 61--62
+Overfull \hbox (17.77783pt too wide) in paragraph at lines 69--70
 \OT1/cmr/m/n/10 10 \OMS/cmsy/m/n/10  
  []
 
 
-Overfull \hbox (18.33339pt too wide) in paragraph at lines 61--62
+Overfull \hbox (18.33339pt too wide) in paragraph at lines 69--70
 \OT1/cmr/m/n/10 20%$
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 61--62
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 69--70
 []
  []
 
 
-Overfull \hbox (34.71506pt too wide) in paragraph at lines 61--62
+Overfull \hbox (34.71506pt too wide) in paragraph at lines 69--70
 \OML/cmm/m/it/10 E\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 N[]\OT1/cmr/m/n/10 ]$
  []
 
 ! Undefined control sequence.
-l.64 \subsection
+l.72 \subsection
                 {Учет собственных шумов ФЭУ и шумов электроники}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3344,7 +3829,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.64 \subsection{У
+l.72 \subsection{У
                   чет собственных шумов ФЭУ и шумов электроники}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3526,7 +4011,7 @@ Missing character: There is no к in font nullfont!
 Missing character: There is no и in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 64--67
+Overfull \hbox (20.0pt too wide) in paragraph at lines 72--75
 [][]
  []
 
@@ -3537,7 +4022,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.68 Е
+l.76 Е
       сли раньше предполагалось бесконечное время интегрирования сигнала,то ...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -4006,27 +4491,27 @@ Missing character: There is no о in font nullfont!
 Missing character: There is no в in font nullfont!
 Missing character: There is no : in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 68--71
+Overfull \hbox (20.0pt too wide) in paragraph at lines 76--79
 [][]
  []
 
 
-Overfull \hbox (19.41617pt too wide) in paragraph at lines 68--71
+Overfull \hbox (19.41617pt too wide) in paragraph at lines 76--79
 \OML/cmm/m/it/10 t[]$
  []
 
 
-Overfull \hbox (21.51447pt too wide) in paragraph at lines 68--71
+Overfull \hbox (21.51447pt too wide) in paragraph at lines 76--79
 \OML/cmm/m/it/10 N[]$
  []
 
 
-Overfull \hbox (19.41617pt too wide) in paragraph at lines 68--71
+Overfull \hbox (19.41617pt too wide) in paragraph at lines 76--79
 \OML/cmm/m/it/10 t[]$
  []
 
 
-Overfull \hbox (18.41957pt too wide) in paragraph at lines 68--71
+Overfull \hbox (18.41957pt too wide) in paragraph at lines 76--79
 \OML/cmm/m/it/10 []$ 
  []
 
@@ -4037,18 +4522,18 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.72 \begin{eqnarray}
+l.80 \begin{eqnarray}
                      
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 72--72
+Overfull \hbox (20.0pt too wide) in paragraph at lines 80--80
 [][] 
  []
 
 
-Overfull \hbox (120.90541pt too wide) in alignment at lines 72--74
+Overfull \hbox (109.49788pt too wide) in alignment at lines 80--82
  [][][] []
  []
 
@@ -4059,7 +4544,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.76 П
+l.84 П
       ри наличии шумов формулу для энергетического разрешения уже не получит...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -4168,7 +4653,7 @@ Missing character: There is no ш in font nullfont!
 Missing character: There is no е in font nullfont!
 Missing character: There is no : in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 76--77
+Overfull \hbox (20.0pt too wide) in paragraph at lines 84--85
 [][]
  []
 
@@ -4179,18 +4664,18 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.78 \begin{eqnarray}
+l.86 \begin{eqnarray}
                      
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 78--78
+Overfull \hbox (20.0pt too wide) in paragraph at lines 86--86
 [][] 
  []
 
 
-Overfull \hbox (165.35704pt too wide) in alignment at lines 78--80
+Overfull \hbox (193.17645pt too wide) in alignment at lines 86--88
  [][][] []
  []
 
@@ -4201,8 +4686,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.82 п
-      ричем $E[N_{DC}] = Var[N_{DC}] = t_{gate} \ast \nu_{DC}$
+l.90 п
+      ричем $E[N_{DC}] = Var[N_{DC}] = t_{gate} \cdot \nu_{DC}$
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -4213,27 +4698,27 @@ Missing character: There is no ч in font nullfont!
 Missing character: There is no е in font nullfont!
 Missing character: There is no м in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 82--83
+Overfull \hbox (20.0pt too wide) in paragraph at lines 90--91
 [][]
  []
 
 
-Overfull \hbox (45.58386pt too wide) in paragraph at lines 82--83
+Overfull \hbox (45.58386pt too wide) in paragraph at lines 90--91
 \OML/cmm/m/it/10 E\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 N[]\OT1/cmr/m/n/10 ] =
  []
 
 
-Overfull \hbox (55.75636pt too wide) in paragraph at lines 82--83
+Overfull \hbox (55.75636pt too wide) in paragraph at lines 90--91
 \OML/cmm/m/it/10 Var\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 N[]\OT1/cmr/m/n/10 ] =
  []
 
 
-Overfull \hbox (24.41618pt too wide) in paragraph at lines 82--83
-\OML/cmm/m/it/10 t[] \OMS/cmsy/m/n/10 
+Overfull \hbox (22.19395pt too wide) in paragraph at lines 90--91
+\OML/cmm/m/it/10 t[] \OMS/cmsy/m/n/10 
  []
 
 
-Overfull \hbox (18.41957pt too wide) in paragraph at lines 82--83
+Overfull \hbox (18.41957pt too wide) in paragraph at lines 90--91
 \OML/cmm/m/it/10 []$ 
  []
 
@@ -4244,18 +4729,18 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.84 \begin{eqnarray}
+l.92 \begin{eqnarray}
                      
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 84--84
+Overfull \hbox (20.0pt too wide) in paragraph at lines 92--92
 [][] 
  []
 
 
-Overfull \hbox (186.75153pt too wide) in alignment at lines 84--86
+Overfull \hbox (168.88081pt too wide) in alignment at lines 92--94
  [][][] []
  []
 
@@ -4266,24 +4751,24 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.88 \begin{eqnarray}
+l.96 \begin{eqnarray}
                      
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 88--88
+Overfull \hbox (20.0pt too wide) in paragraph at lines 96--96
 [][] 
  []
 
 
-Overfull \hbox (220.08861pt too wide) in alignment at lines 88--90
+Overfull \hbox (211.66225pt too wide) in alignment at lines 96--98
  [][][] []
  []
 
 ! Undefined control sequence.
-l.92 \section
-             {Энергетическое разрешение SiPM}
+l.100 \section
+              {Энергетическое разрешение SiPM}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -4297,8 +4782,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.92 \section{Э
-               нергетическое разрешение SiPM}
+l.100 \section{Э
+                нергетическое разрешение SiPM}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -4464,13 +4949,13 @@ Missing character: There is no м in font nullfont!
 Missing character: There is no и in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 92--94
+Overfull \hbox (20.0pt too wide) in paragraph at lines 100--102
 [][]
  []
 
 ! Undefined control sequence.
-l.95 \subsection
-                {Учет кросстоков}
+l.103 \subsection
+                 {Учет кросстоков}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -4484,8 +4969,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.95 \subsection{У
-                  чет кросстоков}
+l.103 \subsection{У
+                   чет кросстоков}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -4504,7 +4989,7 @@ Missing character: There is no к in font nullfont!
 Missing character: There is no о in font nullfont!
 Missing character: There is no в in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 95--96
+Overfull \hbox (20.0pt too wide) in paragraph at lines 103--104
 [][]
  []
 
@@ -4515,8 +5000,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.97 К
-      россток или оптический кроссток - это эффект срабатывания соседних яче...
+l.105 К
+       россток или оптический кроссток - это эффект срабатывания соседних яч...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -5259,7 +5744,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.103 ...ng crosstalk in silicon photomultipliers}
+l.111 ...ng crosstalk in silicon photomultipliers}
                                                   .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5269,7 +5754,7 @@ and I'll forget about whatever was undefined.
 
 
 LaTeX Warning: Citation `Modeling crosstalk in silicon photomultipliers' on pag
-e  undefined on input line 103.
+e  undefined on input line 111.
 
 Missing character: There is no ] in font nullfont!
 Missing character: There is no . in font nullfont!
@@ -5797,85 +6282,113 @@ Missing character: There is no е in font nullfont!
 Missing character: There is no й in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 97--109
+Overfull \hbox (20.0pt too wide) in paragraph at lines 105--117
 [][]
  []
 
 
-Overfull \hbox (19.16881pt too wide) in paragraph at lines 97--109
+Overfull \hbox (19.16881pt too wide) in paragraph at lines 105--117
 \OML/cmm/m/it/10 n[]$
  []
 
 
-Overfull \hbox (32.6827pt too wide) in paragraph at lines 97--109
+Overfull \hbox (32.6827pt too wide) in paragraph at lines 105--117
 \OML/cmm/m/it/10 E\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 n[]\OT1/cmr/m/n/10 ]$
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 97--109
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 105--117
 []
  []
 
 
-Overfull \hbox (5.03125pt too wide) in paragraph at lines 97--109
+Overfull \hbox (5.03125pt too wide) in paragraph at lines 105--117
 \OML/cmm/m/it/10 p$
  []
 
 
-Overfull \hbox (5.03125pt too wide) in paragraph at lines 97--109
+Overfull \hbox (5.03125pt too wide) in paragraph at lines 105--117
 \OML/cmm/m/it/10 p$
  []
 
 
-Overfull \hbox (22.42726pt too wide) in paragraph at lines 97--109
+Overfull \hbox (22.42726pt too wide) in paragraph at lines 105--117
 \OML/cmm/m/it/10 p[]$
  []
 
 
-Overfull \hbox (16.66672pt too wide) in paragraph at lines 97--109
+Overfull \hbox (16.66672pt too wide) in paragraph at lines 105--117
 \OT1/cmr/m/n/10 (1 \OMS/cmsy/m/n/10  
  []
 
 
-Overfull \hbox (23.96179pt too wide) in paragraph at lines 97--109
+Overfull \hbox (23.96179pt too wide) in paragraph at lines 105--117
 \OML/cmm/m/it/10 p\OT1/cmr/m/n/10 )[] =
  []
 
 
-Overfull \hbox (12.77782pt too wide) in paragraph at lines 97--109
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 105--117
 \OT1/cmr/m/n/10 1 \OMS/cmsy/m/n/10  
  []
 
 
-Overfull \hbox (22.42726pt too wide) in paragraph at lines 97--109
+Overfull \hbox (22.42726pt too wide) in paragraph at lines 105--117
 \OML/cmm/m/it/10 p[]$
  []
 
 
-Overfull \hbox (15.37842pt too wide) in paragraph at lines 97--109
+Overfull \hbox (15.37842pt too wide) in paragraph at lines 105--117
 \OML/cmm/m/it/10 q \OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (12.77782pt too wide) in paragraph at lines 97--109
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 105--117
 \OT1/cmr/m/n/10 1 \OMS/cmsy/m/n/10  
  []
 
 
-Overfull \hbox (5.03125pt too wide) in paragraph at lines 97--109
+Overfull \hbox (5.03125pt too wide) in paragraph at lines 105--117
 \OML/cmm/m/it/10 p$
  []
 
 
-Overfull \hbox (4.66318pt too wide) in paragraph at lines 97--109
+Overfull \hbox (4.66318pt too wide) in paragraph at lines 105--117
 \OML/cmm/m/it/10 "$
  []
 
 
-Overfull \hbox (5.03125pt too wide) in paragraph at lines 97--109
+Overfull \hbox (5.03125pt too wide) in paragraph at lines 105--117
 \OML/cmm/m/it/10 p$
  []
 
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.117 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1{D:/LaTex/Full_TeX/texmf/pdftex/config/pdftex.map}
+! Undefined control sequence.
+<write> ...label{eq:ener_resol_base}{{1}{\thepage 
+                                                  }}
+l.117 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{eq:ener_resol_base}{{1}{}}
+]
 
 ! LaTeX Error: Missing \begin{document}.
 
@@ -5883,7 +6396,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.111 \begin{tabular}
+l.119 \begin{tabular}
                      {|c|c|}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -5944,39 +6457,10 @@ Missing character: There is no 3 in font nullfont!
 Missing character: There is no 4 in font nullfont!
 Missing character: There is no 5 in font nullfont!
 
-Overfull \hbox (186.00429pt too wide) in paragraph at lines 111--131
+Overfull \hbox (183.78206pt too wide) in paragraph at lines 119--139
 [][][] 
  []
 
-
-! LaTeX Error: The font size command \normalsize is not defined:
-               there is probably something wrong with the class file.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.132 Ч
-       тобы учесть вклад кросстоков в энергетическое разрешение необходимо п...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[1{D:/LaTex/Full_TeX/texmf/pdftex/config/pdftex.map}
-! Undefined control sequence.
-<write> ...label{eq:ener_resol_base}{{1}{\thepage 
-                                                  }}
-l.132 Ч
-       тобы учесть вклад кросстоков в энергетическое разрешение необходимо п...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-\newlabel{eq:ener_resol_base}{{1}{}}
-]
 
 ! LaTeX Error: Missing \begin{document}.
 
@@ -5984,7 +6468,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.132 Ч
+l.140 Ч
        тобы учесть вклад кросстоков в энергетическое разрешение необходимо п...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -6188,7 +6672,7 @@ Missing character: There is no ( in font nullfont!
 ! Undefined control sequence.
 <write> ... `eq:ener_resol_base' on page \thepage 
                                                   \space undefined\on@line .
-l.133 ...танется прежней (\ref{eq:ener_resol_base}
+l.141 ...танется прежней (\ref{eq:ener_resol_base}
                                                   ).
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -6198,27 +6682,27 @@ and I'll forget about whatever was undefined.
 
 
 LaTeX Warning: Reference `eq:ener_resol_base' on page  undefined on input line 
-133.
+141.
 
 Missing character: There is no ) in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 132--134
+Overfull \hbox (20.0pt too wide) in paragraph at lines 140--142
 [][]
  []
 
 
-Overfull \hbox (30.3077pt too wide) in paragraph at lines 132--134
+Overfull \hbox (30.3077pt too wide) in paragraph at lines 140--142
 \OML/cmm/m/it/10 E\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 n[]\OT1/cmr/m/n/10 ]$
  []
 
 
-Overfull \hbox (42.8552pt too wide) in paragraph at lines 132--134
+Overfull \hbox (42.8552pt too wide) in paragraph at lines 140--142
 \OML/cmm/m/it/10 Var\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 n[]\OT1/cmr/m/n/10 ]$
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 132--134
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 140--142
 [] 
  []
 
@@ -6229,7 +6713,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.136 Е
+l.144 Е
        сли учесть еще и собственные шумы SiPM, то необходимо изменить величи...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -6299,17 +6783,17 @@ Missing character: There is no н in font nullfont!
 Missing character: There is no у in font nullfont!
 Missing character: There is no : in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 136--137
+Overfull \hbox (20.0pt too wide) in paragraph at lines 144--145
 [][]
  []
 
 
-Overfull \hbox (21.20117pt too wide) in paragraph at lines 136--137
+Overfull \hbox (21.20117pt too wide) in paragraph at lines 144--145
 \OML/cmm/m/it/10 N[]$ 
  []
 
 
-Overfull \hbox (141.19472pt too wide) in alignment at lines 137--139
+Overfull \hbox (132.64174pt too wide) in alignment at lines 145--147
  [][][] []
  []
 
@@ -6320,7 +6804,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.141 г
+l.149 г
        де величина $n_{p.e.}^{DC}$ - число зарегистрированных фотоэлектронов...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -6547,27 +7031,27 @@ Missing character: There is no и in font nullfont!
 Missing character: There is no и in font nullfont!
 Missing character: There is no : in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 141--144
+Overfull \hbox (20.0pt too wide) in paragraph at lines 149--152
 [][]
  []
 
 
-Overfull \hbox (19.4821pt too wide) in paragraph at lines 141--144
+Overfull \hbox (19.4821pt too wide) in paragraph at lines 149--152
 \OML/cmm/m/it/10 n[]$
  []
 
 
-Overfull \hbox (19.16881pt too wide) in paragraph at lines 141--144
+Overfull \hbox (19.16881pt too wide) in paragraph at lines 149--152
 \OML/cmm/m/it/10 n[]$
  []
 
 
-Overfull \hbox (15.21869pt too wide) in paragraph at lines 141--144
+Overfull \hbox (15.21869pt too wide) in paragraph at lines 149--152
 \OML/cmm/m/it/10 " \OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 141--144
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 149--152
 \OT1/cmr/m/n/10 1$
  []
 
@@ -6578,18 +7062,18 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.145 \begin{eqnarray}
+l.153 \begin{eqnarray}
                       \label{eq:E[N]}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 145--145
+Overfull \hbox (20.0pt too wide) in paragraph at lines 153--153
 [][] 
  []
 
 
-Overfull \hbox (191.73152pt too wide) in alignment at lines 145--147
+Overfull \hbox (191.07944pt too wide) in alignment at lines 153--155
  [][][] []
  []
 
@@ -6600,23 +7084,23 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.149 \begin{eqnarray}
+l.157 \begin{eqnarray}
                       \label{eq:Var[N]}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 149--149
+Overfull \hbox (20.0pt too wide) in paragraph at lines 157--157
 [][] 
  []
 
 
-Overfull \hbox (321.28874pt too wide) in alignment at lines 149--152
+Overfull \hbox (291.10281pt too wide) in alignment at lines 157--160
  [][][] []
  []
 
 ! Undefined control sequence.
-l.155 \subsection
+l.163 \subsection
                  {Учет послеимпульсов}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -6631,7 +7115,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.155 \subsection{У
+l.163 \subsection{У
                    чет послеимпульсов}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -6655,7 +7139,7 @@ Missing character: There is no с in font nullfont!
 Missing character: There is no о in font nullfont!
 Missing character: There is no в in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 155--156
+Overfull \hbox (20.0pt too wide) in paragraph at lines 163--164
 [][]
  []
 
@@ -6666,7 +7150,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.157 П
+l.165 П
        ослеимпульс - сигнал, появляющийся через некоторый промежуток времени...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -6951,7 +7435,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.159 ...tion Studies of Silicon Photomultipliers}
+l.167 ...tion Studies of Silicon Photomultipliers}
                                                   .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -6961,7 +7445,7 @@ and I'll forget about whatever was undefined.
 
 
 LaTeX Warning: Citation `Characterisation Studies of Silicon Photomultipliers' 
-on page  undefined on input line 159.
+on page  undefined on input line 167.
 
 Missing character: There is no ] in font nullfont!
 Missing character: There is no . in font nullfont!
@@ -7340,7 +7824,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.163 ...andcross-talkinmulti-pixelphotoncounters}
+l.171 ...andcross-talkinmulti-pixelphotoncounters}
                                                   :
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7350,61 +7834,61 @@ and I'll forget about whatever was undefined.
 
 
 LaTeX Warning: Citation `After-pulsingandcross-talkinmulti-pixelphotoncounters'
- on page  undefined on input line 163.
+ on page  undefined on input line 171.
 
 Missing character: There is no ] in font nullfont!
 Missing character: There is no : in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 157--164
+Overfull \hbox (20.0pt too wide) in paragraph at lines 165--172
 [][]
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 157--164
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 165--172
 []
  []
 
 
-Overfull \hbox (8.79979pt too wide) in paragraph at lines 157--164
+Overfull \hbox (8.79979pt too wide) in paragraph at lines 165--172
 \OML/cmm/m/it/10 []$
  []
 
 
-Overfull \hbox (11.94447pt too wide) in paragraph at lines 157--164
+Overfull \hbox (11.94447pt too wide) in paragraph at lines 165--172
 \OT1/cmr/m/n/10 \OML/cmm/m/it/10 t$
  []
 
 
-Overfull \hbox (35.11287pt too wide) in paragraph at lines 157--164
+Overfull \hbox (35.11287pt too wide) in paragraph at lines 165--172
 \OML/cmm/m/it/10 \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 ) =
  []
 
 
-Overfull \hbox (12.77782pt too wide) in paragraph at lines 157--164
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 165--172
 \OT1/cmr/m/n/10 1 \OMS/cmsy/m/n/10  
  []
 
 
-Overfull \hbox (58.24432pt too wide) in paragraph at lines 157--164
+Overfull \hbox (58.24432pt too wide) in paragraph at lines 165--172
 [] []$
  []
 
 
-Overfull \hbox (11.94447pt too wide) in paragraph at lines 157--164
+Overfull \hbox (11.94447pt too wide) in paragraph at lines 165--172
 \OT1/cmr/m/n/10 \OML/cmm/m/it/10 t$
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 157--164
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 165--172
 [] 
  []
 
 
-Overfull \hbox (197.7991pt too wide) detected at line 164
+Overfull \hbox (193.35464pt too wide) detected at line 172
 \OML/cmm/m/it/10 f\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 ) = \OML/
-cmm/m/it/10 A[] \OMS/cmsy/m/n/10  []\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10  \OT1/cm
+cmm/m/it/10 A[] \OMS/cmsy/m/n/10  []\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10  \OT1/cm
 r/m/n/10 \OML/cmm/m/it/10 t=[]\OT1/cmr/m/n/10 ) + \OML/cmm/m/it/10 A[] \OMS/c
-msy/m/n/10  []\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10  \OT1/cmr/m/n/10 \OML/cmm/m/i
+msy/m/n/10  []\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10  \OT1/cmr/m/n/10 \OML/cmm/m/i
 t/10 t=[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ;
  []
 
@@ -7513,22 +7997,22 @@ Missing character: There is no т in font nullfont!
 Missing character: There is no ы in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (8.64586pt too wide) in paragraph at lines 164--166
+Overfull \hbox (8.64586pt too wide) in paragraph at lines 172--174
 \OML/cmm/m/it/10 []$
  []
 
 
-Overfull \hbox (9.55562pt too wide) in paragraph at lines 164--166
+Overfull \hbox (9.55562pt too wide) in paragraph at lines 172--174
 \OML/cmm/m/it/10 []$
  []
 
 
-Overfull \hbox (11.77434pt too wide) in paragraph at lines 164--166
+Overfull \hbox (11.77434pt too wide) in paragraph at lines 172--174
 \OML/cmm/m/it/10 A[]$
  []
 
 
-Overfull \hbox (12.6841pt too wide) in paragraph at lines 164--166
+Overfull \hbox (12.6841pt too wide) in paragraph at lines 172--174
 \OML/cmm/m/it/10 A[]$
  []
 
@@ -7539,7 +8023,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.167 В
+l.175 В
         большинстве приложений время интегрирования $t_{gate}$ выбирают в не...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -7827,27 +8311,27 @@ Missing character: There is no т in font nullfont!
 Missing character: There is no ы in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 167--170
+Overfull \hbox (20.0pt too wide) in paragraph at lines 175--178
 [][]
  []
 
 
-Overfull \hbox (19.41617pt too wide) in paragraph at lines 167--170
+Overfull \hbox (19.41617pt too wide) in paragraph at lines 175--178
 \OML/cmm/m/it/10 t[]$
  []
 
 
-Overfull \hbox (8.79979pt too wide) in paragraph at lines 167--170
+Overfull \hbox (8.79979pt too wide) in paragraph at lines 175--178
 \OML/cmm/m/it/10 []$
  []
 
 
-Overfull \hbox (19.41617pt too wide) in paragraph at lines 167--170
+Overfull \hbox (19.41617pt too wide) in paragraph at lines 175--178
 \OML/cmm/m/it/10 t[]$
  []
 
 
-Overfull \hbox (9.55562pt too wide) in paragraph at lines 167--170
+Overfull \hbox (9.55562pt too wide) in paragraph at lines 175--178
 \OML/cmm/m/it/10 []$
  []
 
@@ -7858,7 +8342,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.172 Ч
+l.180 Ч
        тобы учесть вклад послеимпульсов в энергетическое разрешение необходи...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -7980,14 +8464,14 @@ Missing character: There is no о in font nullfont!
 Missing character: There is no в in font nullfont!
 Missing character: There is no : in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 172--174
+Overfull \hbox (20.0pt too wide) in paragraph at lines 180--182
 [][]
  []
 
 
-Overfull \hbox (75.08122pt too wide) detected at line 174
-\OML/cmm/m/it/10 N[] \OT1/cmr/m/n/10 = [](\OML/cmm/m/it/10 G \OT1/cmr/m/n/10 + 
-\OML/cmm/m/it/10 A\OT1/cmr/m/n/10 )
+Overfull \hbox (81.73979pt too wide) detected at line 182
+\OML/cmm/m/it/10 N[] \OT1/cmr/m/n/10 = [](\OML/cmm/m/it/10 G[] \OT1/cmr/m/n/10 
++ \OML/cmm/m/it/10 A[]\OT1/cmr/m/n/10 )
  []
 
 
@@ -7997,7 +8481,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.176 С
+l.184 С
        лучайная величина $G$ имеет распределение Гаусса и описывает по-прежн...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -8247,37 +8731,37 @@ Missing character: There is no н in font nullfont!
 Missing character: There is no ы in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 176--178
+Overfull \hbox (20.0pt too wide) in paragraph at lines 184--186
 [][]
  []
 
 
-Overfull \hbox (7.86249pt too wide) in paragraph at lines 176--178
+Overfull \hbox (7.86249pt too wide) in paragraph at lines 184--186
 \OML/cmm/m/it/10 G$
  []
 
 
-Overfull \hbox (7.50002pt too wide) in paragraph at lines 176--178
+Overfull \hbox (7.50002pt too wide) in paragraph at lines 184--186
 \OML/cmm/m/it/10 A$
  []
 
 
-Overfull \hbox (7.50002pt too wide) in paragraph at lines 176--178
+Overfull \hbox (7.50002pt too wide) in paragraph at lines 184--186
 \OML/cmm/m/it/10 A$
  []
 
 
-Overfull \hbox (28.9069pt too wide) in paragraph at lines 176--178
+Overfull \hbox (28.9069pt too wide) in paragraph at lines 184--186
 \OML/cmm/m/it/10 G[] \OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (15.64029pt too wide) in paragraph at lines 176--178
+Overfull \hbox (15.64029pt too wide) in paragraph at lines 184--186
 \OML/cmm/m/it/10 G \OT1/cmr/m/n/10 +
  []
 
 
-Overfull \hbox (7.50002pt too wide) in paragraph at lines 176--178
+Overfull \hbox (7.50002pt too wide) in paragraph at lines 184--186
 \OML/cmm/m/it/10 A$ 
  []
 
@@ -8288,7 +8772,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.179 И
+l.187 И
        того, если сцинтиллятор излучает на одной длине волны, а в качестве д...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -8441,7 +8925,7 @@ Missing character: There is no и in font nullfont!
 Missing character: There is no я in font nullfont!
 Missing character: There is no : in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 179--180
+Overfull \hbox (20.0pt too wide) in paragraph at lines 187--188
 [][]
  []
 
@@ -8452,20 +8936,21 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.181 $
-       $\delta E^2 = \frac{Var[N_{p.e.}]}{(E[N_{p.e.}])^2} + \frac{Var[G_{to...
+l.189 $
+       $\delta E^2 / \Delta^2= \frac{Var[N_{p.e.}]}{(E[N_{p.e.}])^2} + \frac...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 181--181
+Overfull \hbox (20.0pt too wide) in paragraph at lines 189--189
 [][] 
  []
 
 
-Overfull \hbox (174.1794pt too wide) detected at line 181
-\OML/cmm/m/it/10 E[] \OT1/cmr/m/n/10 = [] + [][]\OML/cmm/m/it/10 ;
+Overfull \hbox (194.77669pt too wide) detected at line 189
+\OML/cmm/m/it/10 E[]=\OT1/cmr/m/n/10 [] = [] + [] \OMS/cmsy/m/n/10  []\OML/c
+mm/m/it/10 ;
  []
 
 
@@ -8475,7 +8960,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.183 г
+l.191 г
        де определения величин $E[N_{p.e.}]$ и $Var[N_{p.e.}]$ берутся из фор...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -8522,7 +9007,7 @@ Missing character: There is no ( in font nullfont!
 ! Undefined control sequence.
 <write> ...: Reference `eq:E[N]' on page \thepage 
                                                   \space undefined\on@line .
-l.183 ...{p.e.}]$ берутся из формул (\ref{eq:E[N]}
+l.191 ...{p.e.}]$ берутся из формул (\ref{eq:E[N]}
                                                   ) и (\ref{eq:Var[N]}).
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8531,7 +9016,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `eq:E[N]' on page  undefined on input line 183.
+LaTeX Warning: Reference `eq:E[N]' on page  undefined on input line 191.
 
 Missing character: There is no ) in font nullfont!
 Missing character: There is no и in font nullfont!
@@ -8539,7 +9024,7 @@ Missing character: There is no ( in font nullfont!
 ! Undefined control sequence.
 <write> ...Reference `eq:Var[N]' on page \thepage 
                                                   \space undefined\on@line .
-l.183 ...формул (\ref{eq:E[N]}) и (\ref{eq:Var[N]}
+l.191 ...формул (\ref{eq:E[N]}) и (\ref{eq:Var[N]}
                                                   ).
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -8548,7 +9033,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `eq:Var[N]' on page  undefined on input line 183.
+LaTeX Warning: Reference `eq:Var[N]' on page  undefined on input line 191.
 
 Missing character: There is no ) in font nullfont!
 Missing character: There is no . in font nullfont!
@@ -8562,9 +9047,9 @@ Missing character: There is no . in font nullfont!
 Here is how much of TeX's memory you used:
  23 strings out of 493921
  520 string characters out of 3150556
- 60031 words of memory out of 3000000
+ 59031 words of memory out of 3000000
  3413 multiletter control sequences out of 15000+200000
  3948 words of font info for 15 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 18i,10n,21p,667b,113s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 18i,10n,21p,658b,113s stack positions out of 5000i,500n,10000p,200000b,50000s
 !  ==> Fatal error occurred, no output PDF file produced!

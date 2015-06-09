@@ -1,22 +1,26 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: main.aux
 A level-1 auxiliary file: content.aux
-White space in argument---line 5 of file content.aux
+White space in argument---line 2 of file content.aux
+ : \citation{Optical
+ :                   properties of bialkali photocathodes}
+I'm skipping whatever remains of this command
+White space in argument---line 3 of file content.aux
  : \citation{M.D.
  :                Lay}
 I'm skipping whatever remains of this command
-White space in argument---line 6 of file content.aux
+White space in argument---line 10 of file content.aux
  : \citation{Characterization
  :                            and Simulation of the Response}
 I'm skipping whatever remains of this command
-White space in argument---line 8 of file content.aux
+White space in argument---line 12 of file content.aux
  : \citation{Modeling
  :                    crosstalk in silicon photomultipliers}
 I'm skipping whatever remains of this command
-White space in argument---line 12 of file content.aux
+White space in argument---line 15 of file content.aux
  : \citation{Characterisation
  :                            Studies of Silicon Photomultipliers}
 I'm skipping whatever remains of this command
 A level-1 auxiliary file: bibliography.aux
 I found no \bibdata command---while reading file main.aux
 I found no \bibstyle command---while reading file main.aux
-(There were 6 error messages)
+(There were 7 error messages)
