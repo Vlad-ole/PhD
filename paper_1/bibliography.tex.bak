@@ -13,7 +13,8 @@ M.D. Lay, Nucl. Instr. and Meth. A 383 (1996) 485;
 M.D. Lay, M.J. Lyon, Nucl. Instr. and Meth. A 383 (1996)
 495.
 
-\bibitem{M.D. Lay}
+\bibitem{Light output and energy resolution}
+Light output and energy resolution of $Lu_{0.7} Y_{0.3} AlO_{3}:Ce$ and $Lu_{1.95} Y_{0.05} SiO_{5}:Ce$ scintillators
 
 \bibitem{Characterisation Studies of Silicon Photomultipliers}
 Characterisation Studies of Silicon Photomultipliers
@@ -31,6 +32,8 @@ Y. Du, F. Retiere, Nucl. Instr. and Meth. A 596 (2008) 396-401
 \bibitem{Modeling crosstalk in silicon photomultipliers}
 Modeling crosstalk in silicon photomultipliers
 L. Gallego, J. Rosado, F. Blanco and F. Arqueros
+
+
 
 \end{thebibliography}
 

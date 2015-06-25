@@ -12,7 +12,7 @@
 \usepackage{calc}
 
 \usepackage[pdftex]{graphicx}
-\graphicspath{{pictuires/}}
+\graphicspath{{pictures/}}
 
 \usepackage{latexsym,amsfonts,amssymb,amsmath,eucal}
 \usepackage{exscale}
@@ -34,6 +34,9 @@
 \pagenumbering{arabic}
 \renewcommand{\baselinestretch}{1.25}
 \long\def\comment{}
+
+\setcounter{tocdepth}{n}
+
 
 \begin{document}
 
