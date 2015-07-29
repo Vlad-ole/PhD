@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  25 JUN 2015 15:00
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  29 JUL 2015 08:57
 entering extended mode
 **D:/git_repositories/PhD/paper_1/main.tex
 (D:/git_repositories/PhD/paper_1/main.tex
@@ -419,6 +419,9 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 
 LaTeX Warning: Label `eq:ener_resol_base' multiply defined.
 
+
+LaTeX Warning: Label `image:V_bd' multiply defined.
+
 ) (D:\git_repositories\PhD\paper_1\bibliography.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
 LaTeX Font Info:    ... okay on input line 40.
@@ -527,7 +530,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: pictures/ER_noise.pdf Graphic file (type pdf)
 
 <use pictures/ER_noise.pdf>
-Package pdftex.def Info: pictures/ER_noise.pdf used on input line 155.
+Package pdftex.def Info: pictures/ER_noise.pdf used on input line 162.
 (pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
 
 
@@ -538,43 +541,62 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: pictures/x-talk.pdf Graphic file (type pdf)
 
 <use pictures/x-talk.pdf>
-Package pdftex.def Info: pictures/x-talk.pdf used on input line 208.
+Package pdftex.def Info: pictures/x-talk.pdf used on input line 215.
 (pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
  [8 <D:/git_repositories/PhD/paper_1/pictures/x-talk.pdf>] <pictures/ER_x-talk.
 pdf, id=367, 821.0675pt x 572.1375pt>
 File: pictures/ER_x-talk.pdf Graphic file (type pdf)
 
 <use pictures/ER_x-talk.pdf>
-Package pdftex.def Info: pictures/ER_x-talk.pdf used on input line 236.
+Package pdftex.def Info: pictures/ER_x-talk.pdf used on input line 246.
 (pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
- [9 <D:/git_repositories/PhD/paper_1/pictures/ER_x-talk.pdf>]
-
-LaTeX Warning: Reference `eq:E[N]' on page 10 undefined on input line 271.
 
 
-LaTeX Warning: Reference `eq:Var[N]' on page 10 undefined on input line 271.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-[10] <pictures/sipm_spectrum.pdf, id=479, 821.0675pt x 572.1375pt>
+[9] [10 <D:/git_repositories/PhD/paper_1/pictures/ER_x-talk.pdf>]
+Overfull \hbox (1.7839pt too wide) in paragraph at lines 293--294
+[][]\T2A/cmr/m/n/12 Для из-ме-ре-ния на-пря-же-ния про-боя бы-ла со-бра-на сле-
+ду-ю-щая уста-нов-ка (рис. 6[]). 
+ []
+
+<pictures/install_V_bd.pdf, id=478, 963.6pt x 542.025pt>
+File: pictures/install_V_bd.pdf Graphic file (type pdf)
+
+<use pictures/install_V_bd.pdf>
+Package pdftex.def Info: pictures/install_V_bd.pdf used on input line 296.
+(pdftex.def)             Requested size: 441.01773pt x 248.0691pt.
+ [11 <D:/git_repositories/PhD/paper_1/pictures/install_V_bd.pdf>]
+<pictures/sipm_spectrum.pdf, id=497, 821.0675pt x 572.1375pt>
 File: pictures/sipm_spectrum.pdf Graphic file (type pdf)
 
 <use pictures/sipm_spectrum.pdf>
-Package pdftex.def Info: pictures/sipm_spectrum.pdf used on input line 290.
+Package pdftex.def Info: pictures/sipm_spectrum.pdf used on input line 307.
 (pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<pictures/V_bd.pdf, id=480, 821.0675pt x 572.1375pt>
+<pictures/V_bd.pdf, id=498, 821.0675pt x 572.1375pt>
 File: pictures/V_bd.pdf Graphic file (type pdf)
  <use pictures/V_bd.pdf>
-Package pdftex.def Info: pictures/V_bd.pdf used on input line 300.
+Package pdftex.def Info: pictures/V_bd.pdf used on input line 319.
 (pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [11] [12 <D:/git_repositories/PhD/paper_1/pictures/sipm_spectrum.pdf>]
-[13 <D:/git_repositories/PhD/paper_1/pictures/V_bd.pdf>]
+[12 <D:/git_repositories/PhD/paper_1/pictures/sipm_spectrum.pdf>]
+<pictures/hamamatsu_signal_275K_71V.pdf, id=573, 821.0675pt x 572.1375pt>
+File: pictures/hamamatsu_signal_275K_71V.pdf Graphic file (type pdf)
+
+<use pictures/hamamatsu_signal_275K_71V.pdf>
+Package pdftex.def Info: pictures/hamamatsu_signal_275K_71V.pdf used on input l
+ine 342.
+(pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[13 <D:/git_repositories/PhD/paper_1/pictures/V_bd.pdf>]) [14 <D:/git_repositor
+ies/PhD/paper_1/pictures/hamamatsu_signal_275K_71V.pdf>]
 (D:\git_repositories\PhD\paper_1\bibliography.tex
 Underfull \hbox (badness 10000) in paragraph at lines 9--10
 [][]\T2A/cmr/m/n/12 TOWARD A USER`S TOOLKIT FOR MODELING SCINTILLATOR
@@ -586,27 +608,24 @@ Underfull \hbox (badness 1708) in paragraph at lines 20--22
 k Eckert, Hans-
  []
 
-) [14
+) [15
 
 
 ] (D:\git_repositories\PhD\paper_1\main.aux
 (D:\git_repositories\PhD\paper_1\content.aux)
 (D:\git_repositories\PhD\paper_1\bibliography.aux))
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4590 strings out of 493921
- 60193 string characters out of 3150556
- 129101 words of memory out of 3000000
- 7709 multiletter control sequences out of 15000+200000
- 16909 words of font info for 45 fonts, out of 3000000 for 9000
+ 4597 strings out of 493921
+ 60510 string characters out of 3150556
+ 130119 words of memory out of 3000000
+ 7716 multiletter control sequences out of 15000+200000
+ 16090 words of font info for 44 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 28i,10n,28p,465b,275s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 28i,10n,28p,465b,277s stack positions out of 5000i,500n,10000p,200000b,50000s
 {D:/LaTex/Full_TeX/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<D:/LaTex/
 Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/LaTex/Full_TeX/tex
 mf/fonts/type1/public/amsfonts/cmextra/cmex8.pfb><D:/LaTex/Full_TeX/texmf/fonts
@@ -617,14 +636,13 @@ c/amsfonts/cm/cmmi6.pfb><D:/LaTex/Full_TeX/texmf/fonts/type1/public/amsfonts/cm
 eX/texmf/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/LaTex/Full_TeX/texmf/fonts
 /type1/public/amsfonts/cm/cmsy10.pfb><D:/LaTex/Full_TeX/texmf/fonts/type1/publi
 c/amsfonts/cm/cmsy8.pfb><D:/LaTex/Full_TeX/texmf/fonts/type1/public/cm-super/sf
-bx1200.pfb><D:/LaTex/Full_TeX/texmf/fonts/type1/public/cm-super/sfbx1440.pfb><D
-:/LaTex/Full_TeX/texmf/fonts/type1/public/cm-super/sfbx1728.pfb><D:/LaTex/Full_
-TeX/texmf/fonts/type1/public/cm-super/sfbx2488.pfb><D:/LaTex/Full_TeX/texmf/fon
-ts/type1/public/cm-super/sfrm1200.pfb><D:/LaTex/Full_TeX/texmf/fonts/type1/publ
-ic/cm-super/sfti1200.pfb>
-Output written on main.pdf (14 pages, 645424 bytes).
+bx1440.pfb><D:/LaTex/Full_TeX/texmf/fonts/type1/public/cm-super/sfbx1728.pfb><D
+:/LaTex/Full_TeX/texmf/fonts/type1/public/cm-super/sfbx2488.pfb><D:/LaTex/Full_
+TeX/texmf/fonts/type1/public/cm-super/sfrm1200.pfb><D:/LaTex/Full_TeX/texmf/fon
+ts/type1/public/cm-super/sfti1200.pfb>
+Output written on main.pdf (15 pages, 782457 bytes).
 PDF statistics:
- 703 PDF objects out of 1000 (max. 8388607)
+ 800 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
 
