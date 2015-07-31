@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  29 JUL 2015 08:57
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  31 JUL 2015 13:06
 entering extended mode
 **D:/git_repositories/PhD/paper_1/main.tex
 (D:/git_repositories/PhD/paper_1/main.tex
@@ -419,9 +419,6 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 
 LaTeX Warning: Label `eq:ener_resol_base' multiply defined.
 
-
-LaTeX Warning: Label `image:V_bd' multiply defined.
-
 ) (D:\git_repositories\PhD\paper_1\bibliography.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
 LaTeX Font Info:    ... okay on input line 40.
@@ -574,29 +571,37 @@ File: pictures/sipm_spectrum.pdf Graphic file (type pdf)
 Package pdftex.def Info: pictures/sipm_spectrum.pdf used on input line 307.
 (pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
 
-<pictures/V_bd.pdf, id=498, 821.0675pt x 572.1375pt>
-File: pictures/V_bd.pdf Graphic file (type pdf)
- <use pictures/V_bd.pdf>
-Package pdftex.def Info: pictures/V_bd.pdf used on input line 319.
+<pictures/V_bd_KETEK.pdf, id=498, 821.0675pt x 572.1375pt>
+File: pictures/V_bd_KETEK.pdf Graphic file (type pdf)
+
+<use pictures/V_bd_KETEK.pdf>
+Package pdftex.def Info: pictures/V_bd_KETEK.pdf used on input line 326.
+(pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
+ [12 <D:/git_repositories/PhD/paper_1/pictures/sipm_spectrum.pdf>]
+<pictures/V_bd_Hamamatsu.pdf, id=573, 821.0675pt x 572.1375pt>
+File: pictures/V_bd_Hamamatsu.pdf Graphic file (type pdf)
+
+<use pictures/V_bd_Hamamatsu.pdf>
+Package pdftex.def Info: pictures/V_bd_Hamamatsu.pdf used on input line 333.
 (pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[12 <D:/git_repositories/PhD/paper_1/pictures/sipm_spectrum.pdf>]
-<pictures/hamamatsu_signal_275K_71V.pdf, id=573, 821.0675pt x 572.1375pt>
+<pictures/hamamatsu_signal_275K_71V.pdf, id=574, 821.0675pt x 572.1375pt>
 File: pictures/hamamatsu_signal_275K_71V.pdf Graphic file (type pdf)
 
 <use pictures/hamamatsu_signal_275K_71V.pdf>
 Package pdftex.def Info: pictures/hamamatsu_signal_275K_71V.pdf used on input l
-ine 342.
+ine 355.
 (pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[13 <D:/git_repositories/PhD/paper_1/pictures/V_bd.pdf>]) [14 <D:/git_repositor
-ies/PhD/paper_1/pictures/hamamatsu_signal_275K_71V.pdf>]
+[13 <D:/git_repositories/PhD/paper_1/pictures/V_bd_KETEK.pdf>]) [14 <D:/git_rep
+ositories/PhD/paper_1/pictures/V_bd_Hamamatsu.pdf>] [15 <D:/git_repositories/Ph
+D/paper_1/pictures/hamamatsu_signal_275K_71V.pdf>]
 (D:\git_repositories\PhD\paper_1\bibliography.tex
 Underfull \hbox (badness 10000) in paragraph at lines 9--10
 [][]\T2A/cmr/m/n/12 TOWARD A USER`S TOOLKIT FOR MODELING SCINTILLATOR
@@ -608,7 +613,7 @@ Underfull \hbox (badness 1708) in paragraph at lines 20--22
 k Eckert, Hans-
  []
 
-) [15
+) [16
 
 
 ] (D:\git_repositories\PhD\paper_1\main.aux
@@ -619,10 +624,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4597 strings out of 493921
- 60510 string characters out of 3150556
- 130119 words of memory out of 3000000
- 7716 multiletter control sequences out of 15000+200000
+ 4604 strings out of 493921
+ 60725 string characters out of 3150556
+ 130140 words of memory out of 3000000
+ 7722 multiletter control sequences out of 15000+200000
  16090 words of font info for 44 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  28i,10n,28p,465b,277s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -640,9 +645,9 @@ bx1440.pfb><D:/LaTex/Full_TeX/texmf/fonts/type1/public/cm-super/sfbx1728.pfb><D
 :/LaTex/Full_TeX/texmf/fonts/type1/public/cm-super/sfbx2488.pfb><D:/LaTex/Full_
 TeX/texmf/fonts/type1/public/cm-super/sfrm1200.pfb><D:/LaTex/Full_TeX/texmf/fon
 ts/type1/public/cm-super/sfti1200.pfb>
-Output written on main.pdf (15 pages, 782457 bytes).
+Output written on main.pdf (16 pages, 821800 bytes).
 PDF statistics:
- 800 PDF objects out of 1000 (max. 8388607)
+ 875 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
 
