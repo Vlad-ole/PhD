@@ -35,7 +35,6 @@
 \renewcommand{\baselinestretch}{1.25}
 \long\def\comment{}
 
-\setcounter{tocdepth}{n}
 
 
 \begin{document}
