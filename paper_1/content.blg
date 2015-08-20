@@ -25,40 +25,28 @@ White space in argument---line 25 of file content.aux
 I'm skipping whatever remains of this command
 White space in argument---line 31 of file content.aux
  : \citation{Silicon
- :                   Photomultiplier's Gain Stabilization}
+ :                   Photomultiplier's Gain Stabilization,Temperature and Bias Voltage Dependence,Characterization of SiPM: temperature dependencies,Characterisation of a silicon photomultiplier device}
 I'm skipping whatever remains of this command
-White space in argument---line 32 of file content.aux
- : \citation{Temperature
- :                       and Bias Voltage Dependence}
-I'm skipping whatever remains of this command
-White space in argument---line 33 of file content.aux
+White space in argument---line 36 of file content.aux
  : \citation{Characterization
  :                            of SiPM: temperature dependencies}
-I'm skipping whatever remains of this command
-White space in argument---line 34 of file content.aux
- : \citation{Characterisation
- :                            of a silicon photomultiplier device}
 I'm skipping whatever remains of this command
 White space in argument---line 43 of file content.aux
  : \citation{Characterization
- :                            of SiPM: temperature dependencies}
-I'm skipping whatever remains of this command
-White space in argument---line 47 of file content.aux
- : \citation{Characterization
  :                            and Simulation of the Response}
 I'm skipping whatever remains of this command
-White space in argument---line 49 of file content.aux
+White space in argument---line 45 of file content.aux
  : \citation{Temperature
  :                       and Bias Voltage Dependence}
 I'm skipping whatever remains of this command
-White space in argument---line 63 of file content.aux
+White space in argument---line 61 of file content.aux
  : \citation{Determination
  :                         of the recovery time of silicon photomultipliers}
 I'm skipping whatever remains of this command
-White space in argument---line 64 of file content.aux
+White space in argument---line 62 of file content.aux
  : \citation{Temperature
  :                       and Bias Voltage Dependence}
 I'm skipping whatever remains of this command
 I found no \bibdata command---while reading file content.aux
 I found no \bibstyle command---while reading file content.aux
-(There were 17 error messages)
+(There were 14 error messages)

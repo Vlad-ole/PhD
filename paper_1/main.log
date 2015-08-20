@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  9 AUG 2015 03:16
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  20 AUG 2015 18:19
 entering extended mode
-**F:/git_repositories/PhD/paper_1/main.tex
-(F:/git_repositories/PhD/paper_1/main.tex
+**D:/git_repositories/PhD/paper_1/main.tex
+(D:/git_repositories/PhD/paper_1/main.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -13,9 +13,9 @@ german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
-(C:\Latex\Full_TeX\texmf\tex\latex\base\article.cls
+(D:\LaTex\Full_TeX\texmf\tex\latex\base\article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-(C:\Latex\Full_TeX\texmf\tex\latex\base\size12.clo
+(D:\LaTex\Full_TeX\texmf\tex\latex\base\size12.clo
 File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -30,26 +30,26 @@ File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(C:\Latex\Full_TeX\texmf\tex\latex\russ\russ.sty
+(D:\LaTex\Full_TeX\texmf\tex\latex\russ\russ.sty
 Package: russ 2012/01/26 Russian language
 
-(C:\Latex\Full_TeX\texmf\tex\latex\base\inputenc.sty
+(D:\LaTex\Full_TeX\texmf\tex\latex\base\inputenc.sty
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 
-(C:\Latex\Full_TeX\texmf\tex\latex\cyrillic\cp1251.def
+(D:\LaTex\Full_TeX\texmf\tex\latex\cyrillic\cp1251.def
 File: cp1251.def 1999/11/16 v1.0d Input encoding file
 ))
-(C:\Latex\Full_TeX\texmf\tex\latex\tools\xspace.sty
+(D:\LaTex\Full_TeX\texmf\tex\latex\tools\xspace.sty
 Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
 )
-(C:\Latex\Full_TeX\texmf\tex\latex\cyrillic\t2aenc.def
+(D:\LaTex\Full_TeX\texmf\tex\latex\cyrillic\t2aenc.def
 File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
 )
 LaTeX Font Info:    Try loading font information for T2A+cmr on input line 43.
 
-(C:\Latex\Full_TeX\texmf\tex\latex\cyrillic\t2acmr.fd
+(D:\LaTex\Full_TeX\texmf\tex\latex\cyrillic\t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
 \symrletters=\mathgroup4
@@ -78,29 +78,34 @@ LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
 captions, theorems, running heads, appendix, \cleardoublepage, quotes,
 ... finished.
 LaTeX Info: Redefining \ч on input line 687.
-) (C:\Latex\Full_TeX\texmf\tex\latex\cmap\cmap.sty
+) (D:\LaTex\Full_TeX\texmf\tex\latex\cmap\cmap.sty
 Package: cmap 2008/03/06 v1.0h CMap support: searchable PDF
 )
-(C:\Latex\Full_TeX\texmf\tex\latex\base\fontenc.sty
+(D:\LaTex\Full_TeX\texmf\tex\latex\cite\cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(D:\LaTex\Full_TeX\texmf\tex\latex\base\fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-(C:\Latex\Full_TeX\texmf\tex\latex\cyrillic\t2aenc.def
+(D:\LaTex\Full_TeX\texmf\tex\latex\cyrillic\t2aenc.def
 File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
 LaTeX Font Info:    Redeclaring font encoding T2A on input line 38.
 ))
-(C:\Latex\Full_TeX\texmf\tex\generic\babel\babel.sty
+(D:\LaTex\Full_TeX\texmf\tex\generic\babel\babel.sty
 Package: babel 2008/07/08 v3.8m The Babel package
 
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Latex\Full_TeX\texmf\tex\latex\00miktex\bblopts.cfg
+(D:\LaTex\Full_TeX\texmf\tex\latex\00miktex\bblopts.cfg
 File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
 )
-(C:\Latex\Full_TeX\texmf\tex\generic\babel\english.ldf
+(D:\LaTex\Full_TeX\texmf\tex\generic\babel\english.ldf
 Language: english 2005/03/30 v3.3o English support from the babel system
 
-(C:\Latex\Full_TeX\texmf\tex\generic\babel\babel.def
+(D:\LaTex\Full_TeX\texmf\tex\generic\babel\babel.def
 File: babel.def 2008/07/08 v3.8m Babel common definitions
 \babel@savecnt=\count88
 \U@D=\dimen103
@@ -109,16 +114,16 @@ File: babel.def 2008/07/08 v3.8m Babel common definitions
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 )
-(C:\Latex\Full_TeX\texmf\tex\generic\babel\germanb.ldf
+(D:\LaTex\Full_TeX\texmf\tex\generic\babel\germanb.ldf
 Language: germanb 2008/06/01 v2.6m German support from the babel system
 \l@austrian = a dialect from \language\l@german 
 Package babel Info: Making " an active character on input line 102.
 )
-(C:\Latex\Full_TeX\texmf\tex\generic\babel\russianb.ldf
+(D:\LaTex\Full_TeX\texmf\tex\generic\babel\russianb.ldf
 Language: russianb 2008/03/21 v1.1r Russian support from the babel system
 LaTeX Info: Redefining \No on input line 305.
 ))
-(C:\Latex\Full_TeX\texmf\tex\latex\tools\calc.sty
+(D:\LaTex\Full_TeX\texmf\tex\latex\tools\calc.sty
 Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count89
 \calc@Bcount=\count90
@@ -131,31 +136,31 @@ LaTeX Info: Redefining \addtolength on input line 77.
 \calc@Ccount=\count91
 \calc@Cskip=\skip45
 )
-(C:\Latex\Full_TeX\texmf\tex\latex\graphics\graphicx.sty
+(D:\LaTex\Full_TeX\texmf\tex\latex\graphics\graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:\Latex\Full_TeX\texmf\tex\latex\graphics\keyval.sty
+(D:\LaTex\Full_TeX\texmf\tex\latex\graphics\keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-(C:\Latex\Full_TeX\texmf\tex\latex\graphics\graphics.sty
+(D:\LaTex\Full_TeX\texmf\tex\latex\graphics\graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(C:\Latex\Full_TeX\texmf\tex\latex\graphics\trig.sty
+(D:\LaTex\Full_TeX\texmf\tex\latex\graphics\trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(C:\Latex\Full_TeX\texmf\tex\latex\00miktex\graphics.cfg
+(D:\LaTex\Full_TeX\texmf\tex\latex\00miktex\graphics.cfg
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(C:\Latex\Full_TeX\texmf\tex\latex\pdftex-def\pdftex.def
+(D:\LaTex\Full_TeX\texmf\tex\latex\pdftex-def\pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(C:\Latex\Full_TeX\texmf\tex\generic\oberdiek\infwarerr.sty
+(D:\LaTex\Full_TeX\texmf\tex\generic\oberdiek\infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-(C:\Latex\Full_TeX\texmf\tex\generic\oberdiek\ltxcmds.sty
+(D:\LaTex\Full_TeX\texmf\tex\generic\oberdiek\ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count92
@@ -163,13 +168,13 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen106
 \Gin@req@width=\dimen107
 )
-(C:\Latex\Full_TeX\texmf\tex\latex\base\latexsym.sty
+(D:\LaTex\Full_TeX\texmf\tex\latex\base\latexsym.sty
 Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
 \symlasy=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
 (Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
 )
-(C:\Latex\Full_TeX\texmf\tex\latex\amsfonts\amsfonts.sty
+(D:\LaTex\Full_TeX\texmf\tex\latex\amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks17
 LaTeX Font Info:    Redeclaring symbol font `AMSa' on input line 59.
@@ -185,30 +190,30 @@ LaTeX Font Info:    Overwriting symbol font `AMSb' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
-(C:\Latex\Full_TeX\texmf\tex\latex\amsfonts\amssymb.sty
+(D:\LaTex\Full_TeX\texmf\tex\latex\amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 LaTeX Font Info:    Redeclaring math symbol \leqslant on input line 101.
 LaTeX Font Info:    Redeclaring math symbol \geqslant on input line 108.
 LaTeX Font Info:    Redeclaring math symbol \varkappa on input line 260.
 )
-(C:\Latex\Full_TeX\texmf\tex\latex\amsmath\amsmath.sty
+(D:\LaTex\Full_TeX\texmf\tex\latex\amsmath\amsmath.sty
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip46
 
 For additional information on amsmath, use the `?' option.
-(C:\Latex\Full_TeX\texmf\tex\latex\amsmath\amstext.sty
+(D:\LaTex\Full_TeX\texmf\tex\latex\amsmath\amstext.sty
 Package: amstext 2000/06/29 v2.01
 
-(C:\Latex\Full_TeX\texmf\tex\latex\amsmath\amsgen.sty
+(D:\LaTex\Full_TeX\texmf\tex\latex\amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks18
 \ex@=\dimen108
 ))
-(C:\Latex\Full_TeX\texmf\tex\latex\amsmath\amsbsy.sty
+(D:\LaTex\Full_TeX\texmf\tex\latex\amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen109
 )
-(C:\Latex\Full_TeX\texmf\tex\latex\amsmath\amsopn.sty
+(D:\LaTex\Full_TeX\texmf\tex\latex\amsmath\amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count93
@@ -249,12 +254,12 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
-(C:\Latex\Full_TeX\texmf\tex\latex\amsfonts\eucal.sty
+(D:\LaTex\Full_TeX\texmf\tex\latex\amsfonts\eucal.sty
 Package: eucal 2009/06/22 v3.00 Euler Script fonts
 LaTeX Font Info:    Overwriting math alphabet `\EuScript' in version `bold'
 (Font)                  U/eus/m/n --> U/eus/b/n on input line 33.
 )
-(C:\Latex\Full_TeX\texmf\tex\latex\base\exscale.sty
+(D:\LaTex\Full_TeX\texmf\tex\latex\base\exscale.sty
 Package: exscale 2007/10/29 v2.1h Standard LaTeX package exscale
 LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 52.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
@@ -263,16 +268,16 @@ LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 52.
 \big@size=\dimen117
 )
-(C:\Latex\Full_TeX\texmf\tex\latex\tools\indentfirst.sty
+(D:\LaTex\Full_TeX\texmf\tex\latex\tools\indentfirst.sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 )
-(C:\Latex\Full_TeX\texmf\tex\latex\tools\verbatim.sty
+(D:\LaTex\Full_TeX\texmf\tex\latex\tools\verbatim.sty
 Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks23
 \verbatim@line=\toks24
 \verbatim@in@stream=\read1
 )
-(C:\Latex\Full_TeX\texmf\tex\latex\tools\layout.sty
+(D:\LaTex\Full_TeX\texmf\tex\latex\tools\layout.sty
 Package: layout 2000/09/25 v1.2c Show layout parameters
 \oneinch=\count105
 \cnt@paperwidth=\count106
@@ -306,21 +311,26 @@ Package: layout 2000/09/25 v1.2c Show layout parameters
 \PositionY=\count134
 \ArrowLength=\count135
 )
-(C:\Latex\Full_TeX\texmf\tex\latex\miller\miller.sty
+(D:\LaTex\Full_TeX\texmf\tex\latex\miller\miller.sty
 Package: miller 2004/09/20 v1.2 print miller indices
 )
-(C:\Latex\Full_TeX\texmf\tex\latex\natbib\natbib.sty
+(D:\LaTex\Full_TeX\texmf\tex\latex\natbib\natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
+
+
+Package natbib Warning: The `cite' package should not be used
+(natbib)                with natbib. Use option `sort' instead.
+
 \bibhang=\skip49
 \bibsep=\skip50
 LaTeX Info: Redefining \cite on input line 694.
+LaTeX Info: Redefining \citenum on input line 708.
 \c@NAT@ctr=\count136
-)
-(C:\Latex\Full_TeX\texmf\tex\latex\url\url.sty
+) (D:\LaTex\Full_TeX\texmf\tex\latex\url\url.sty
 \Urlmuskip=\muskip11
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
-(C:\Latex\Full_TeX\texmf\tex\latex\tools\multicol.sty
+(D:\LaTex\Full_TeX\texmf\tex\latex\tools\multicol.sty
 Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
 \c@tracingmulticols=\count137
 \mult@box=\box28
@@ -368,10 +378,10 @@ Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
 \colbreak@box=\box53
 \multicol@sort@counter=\count145
 )
-(C:\Latex\Full_TeX\texmf\tex\latex\rotating\rotating.sty
+(D:\LaTex\Full_TeX\texmf\tex\latex\rotating\rotating.sty
 Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
 
-(C:\Latex\Full_TeX\texmf\tex\latex\base\ifthen.sty
+(D:\LaTex\Full_TeX\texmf\tex\latex\base\ifthen.sty
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \c@r@tfl@t=\count146
@@ -380,24 +390,24 @@ Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 \rot@float@box=\box54
 \rot@mess@toks=\toks25
 )
-(C:\Latex\Full_TeX\texmf\tex\latex\graphics\lscape.sty
+(D:\LaTex\Full_TeX\texmf\tex\latex\graphics\lscape.sty
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
-(C:\Latex\Full_TeX\texmf\tex\latex\multirow\multirow.sty
+(D:\LaTex\Full_TeX\texmf\tex\latex\multirow\multirow.sty
 \bigstrutjot=\dimen126
 )
-(C:\Latex\Full_TeX\texmf\tex\latex\geometry\geometry.sty
+(D:\LaTex\Full_TeX\texmf\tex\latex\geometry\geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(C:\Latex\Full_TeX\texmf\tex\generic\oberdiek\ifpdf.sty
+(D:\LaTex\Full_TeX\texmf\tex\generic\oberdiek\ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-(C:\Latex\Full_TeX\texmf\tex\generic\oberdiek\ifvtex.sty
+(D:\LaTex\Full_TeX\texmf\tex\generic\oberdiek\ifvtex.sty
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-(C:\Latex\Full_TeX\texmf\tex\generic\ifxetex\ifxetex.sty
+(D:\LaTex\Full_TeX\texmf\tex\generic\ifxetex\ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count147
@@ -413,20 +423,20 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen134
 \Gm@dimlist=\toks26
 
-(C:\Latex\Full_TeX\texmf\tex\latex\geometry\geometry.cfg))
-(F:\git_repositories\PhD\paper_1\main.aux
-(F:\git_repositories\PhD\paper_1\content.aux
+(D:\LaTex\Full_TeX\texmf\tex\latex\geometry\geometry.cfg))
+(D:\git_repositories\PhD\paper_1\main.aux
+(D:\git_repositories\PhD\paper_1\content.aux
 
 LaTeX Warning: Label `eq:ener_resol_base' multiply defined.
+
+
+LaTeX Warning: Label `eq:V(t)' multiply defined.
 
 
 LaTeX Warning: Label `image:dark_current_rate_ham_33_25C_295K_73.00V' multiply 
 defined.
 
-
-LaTeX Warning: Label `eq:V(t)' multiply defined.
-
-) (F:\git_repositories\PhD\paper_1\bibliography.aux))
+) (D:\git_repositories\PhD\paper_1\bibliography.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
 LaTeX Font Info:    ... okay on input line 40.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
@@ -442,7 +452,7 @@ LaTeX Font Info:    ... okay on input line 40.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 40.
 LaTeX Font Info:    ... okay on input line 40.
 
-(C:\Latex\Full_TeX\texmf\tex\context\base\supp-pdf.mkii
+(D:\LaTex\Full_TeX\texmf\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count150
 \scratchdimen=\dimen135
@@ -490,34 +500,34 @@ LaTeX Font Info:    ... okay on input line 40.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(F:\git_repositories\PhD\paper_1\content.tex<<t2a.cmap>><<ot1.cmap>><<oml.cmap>
+(D:\git_repositories\PhD\paper_1\content.tex<<t2a.cmap>><<ot1.cmap>><<oml.cmap>
 ><<oms.cmap>><<omx.cmap>>
 LaTeX Font Info:    External font `cmex7' loaded for size
 (Font)              <6> on input line 10.
 LaTeX Font Info:    Try loading font information for U+msa on input line 10.
- (C:\Latex\Full_TeX\texmf\tex\latex\amsfonts\umsa.fd
+ (D:\LaTex\Full_TeX\texmf\tex\latex\amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 10.
 
-(C:\Latex\Full_TeX\texmf\tex\latex\amsfonts\umsb.fd
+(D:\LaTex\Full_TeX\texmf\tex\latex\amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for U+lasy on input line 10.
 
-(C:\Latex\Full_TeX\texmf\tex\latex\base\ulasy.fd
+(D:\LaTex\Full_TeX\texmf\tex\latex\base\ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 ) [1
 
 
-{C:/Latex/Full_TeX/texmf/pdftex/config/pdftex.map}] <pictures/detector.pdf, id=
+{D:/LaTex/Full_TeX/texmf/pdftex/config/pdftex.map}] <pictures/detector.pdf, id=
 17, 963.6pt x 542.025pt>
 File: pictures/detector.pdf Graphic file (type pdf)
 
 <use pictures/detector.pdf>
 Package pdftex.def Info: pictures/detector.pdf used on input line 33.
 (pdftex.def)             Requested size: 441.01773pt x 248.0691pt.
- [2 <F:/git_repositories/PhD/paper_1/pictures/detector.pdf>] [3]
+ [2 <D:/git_repositories/PhD/paper_1/pictures/detector.pdf>] [3]
 <pictures/YAP_Ce_PMT_simple_case.pdf, id=44, 821.0675pt x 572.1375pt>
 File: pictures/YAP_Ce_PMT_simple_case.pdf Graphic file (type pdf)
 
@@ -529,7 +539,7 @@ Package pdftex.def Info: pictures/YAP_Ce_PMT_simple_case.pdf used on input line
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[4] [5 <F:/git_repositories/PhD/paper_1/pictures/YAP_Ce_PMT_simple_case.pdf>]
+[4] [5 <D:/git_repositories/PhD/paper_1/pictures/YAP_Ce_PMT_simple_case.pdf>]
 <pictures/ER_noise.pdf, id=162, 821.0675pt x 572.1375pt>
 File: pictures/ER_noise.pdf Graphic file (type pdf)
 
@@ -540,14 +550,14 @@ Package pdftex.def Info: pictures/ER_noise.pdf used on input line 162.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[6] [7 <F:/git_repositories/PhD/paper_1/pictures/ER_noise.pdf>]
+[6] [7 <D:/git_repositories/PhD/paper_1/pictures/ER_noise.pdf>]
 <pictures/x-talk.pdf, id=281, 821.0675pt x 572.1375pt>
 File: pictures/x-talk.pdf Graphic file (type pdf)
 
 <use pictures/x-talk.pdf>
 Package pdftex.def Info: pictures/x-talk.pdf used on input line 215.
 (pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
- [8 <F:/git_repositories/PhD/paper_1/pictures/x-talk.pdf>] <pictures/ER_x-talk.
+ [8 <D:/git_repositories/PhD/paper_1/pictures/x-talk.pdf>] <pictures/ER_x-talk.
 pdf, id=367, 821.0675pt x 572.1375pt>
 File: pictures/ER_x-talk.pdf Graphic file (type pdf)
 
@@ -558,118 +568,136 @@ Package pdftex.def Info: pictures/ER_x-talk.pdf used on input line 246.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[9] [10 <F:/git_repositories/PhD/paper_1/pictures/ER_x-talk.pdf>]
-Overfull \hbox (1.7839pt too wide) in paragraph at lines 293--294
-[][]\T2A/cmr/m/n/12 ƒл€ из-ме-ре-ни€ на-пр€-же-ни€ про-бо€ бы-ла со-бра-на сле-
-ду-ю-ща€ уста-нов-ка (рис. 6[]). 
- []
-
+[9] [10 <D:/git_repositories/PhD/paper_1/pictures/ER_x-talk.pdf>]
 <pictures/install_V_bd.pdf, id=478, 963.6pt x 542.025pt>
 File: pictures/install_V_bd.pdf Graphic file (type pdf)
 
 <use pictures/install_V_bd.pdf>
-Package pdftex.def Info: pictures/install_V_bd.pdf used on input line 296.
+Package pdftex.def Info: pictures/install_V_bd.pdf used on input line 312.
 (pdftex.def)             Requested size: 441.01773pt x 248.0691pt.
- [11 <F:/git_repositories/PhD/paper_1/pictures/install_V_bd.pdf>]
-<pictures/sipm_spectrum.pdf, id=497, 821.0675pt x 572.1375pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[11] [12 <D:/git_repositories/PhD/paper_1/pictures/install_V_bd.pdf>]
+<pictures/sipm_spectrum.pdf, id=501, 821.0675pt x 572.1375pt>
 File: pictures/sipm_spectrum.pdf Graphic file (type pdf)
 
 <use pictures/sipm_spectrum.pdf>
-Package pdftex.def Info: pictures/sipm_spectrum.pdf used on input line 307.
+Package pdftex.def Info: pictures/sipm_spectrum.pdf used on input line 345.
 (pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
- [12 <F:/git_repositories/PhD/paper_1/pictures/sipm_spectrum.pdf>] <pictures/V_
-bd_KETEK.pdf, id=572, 821.0675pt x 572.1375pt>
+ [13 <D:/git_repositories/PhD/paper_1/pictures/sipm_spectrum.pdf>] <pictures/V_
+bd_KETEK.pdf, id=577, 821.0675pt x 572.1375pt>
 File: pictures/V_bd_KETEK.pdf Graphic file (type pdf)
 
 <use pictures/V_bd_KETEK.pdf>
-Package pdftex.def Info: pictures/V_bd_KETEK.pdf used on input line 328.
+Package pdftex.def Info: pictures/V_bd_KETEK.pdf used on input line 366.
 (pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
 
-<pictures/V_bd_Hamamatsu.pdf, id=573, 821.0675pt x 572.1375pt>
+<pictures/V_bd_Hamamatsu.pdf, id=578, 821.0675pt x 572.1375pt>
 File: pictures/V_bd_Hamamatsu.pdf Graphic file (type pdf)
 
 <use pictures/V_bd_Hamamatsu.pdf>
-Package pdftex.def Info: pictures/V_bd_Hamamatsu.pdf used on input line 335.
+Package pdftex.def Info: pictures/V_bd_Hamamatsu.pdf used on input line 373.
 (pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[13 <F:/git_repositories/PhD/paper_1/pictures/V_bd_KETEK.pdf>]
-<pictures/dark_current_rate_ham_33_25C_295K_73V.pdf, id=649, 821.0675pt x 572.1
+[14 <D:/git_repositories/PhD/paper_1/pictures/V_bd_KETEK.pdf>]
+<pictures/install_tektronix.pdf, id=653, 963.6pt x 542.025pt>
+File: pictures/install_tektronix.pdf Graphic file (type pdf)
+
+<use pictures/install_tektronix.pdf>
+Package pdftex.def Info: pictures/install_tektronix.pdf used on input line 385.
+
+(pdftex.def)             Requested size: 441.01773pt x 248.0691pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[15 <D:/git_repositories/PhD/paper_1/pictures/V_bd_Hamamatsu.pdf>]
+<pictures/hamamatsu_signal_295K_4_5OV.pdf, id=728, 821.0675pt x 572.1375pt>
+File: pictures/hamamatsu_signal_295K_4_5OV.pdf Graphic file (type pdf)
+
+<use pictures/hamamatsu_signal_295K_4_5OV.pdf>
+Package pdftex.def Info: pictures/hamamatsu_signal_295K_4_5OV.pdf used on input
+ line 408.
+(pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+<pictures/hamamatsu_signal_295K_4_5OV_amp.pdf, id=729, 821.0675pt x 572.1375pt>
+File: pictures/hamamatsu_signal_295K_4_5OV_amp.pdf Graphic file (type pdf)
+<use pictures/hamamatsu_signal_295K_4_5OV_amp.pdf>
+Package pdftex.def Info: pictures/hamamatsu_signal_295K_4_5OV_amp.pdf used on i
+nput line 423.
+(pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<pictures/hamamatsu_signal_295K_73V.pdf, id=730, 821.0675pt x 572.1375pt>
+File: pictures/hamamatsu_signal_295K_73V.pdf Graphic file (type pdf)
+
+<use pictures/hamamatsu_signal_295K_73V.pdf>
+Package pdftex.def Info: pictures/hamamatsu_signal_295K_73V.pdf used on input l
+ine 435.
+(pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[16 <D:/git_repositories/PhD/paper_1/pictures/install_tektronix.pdf>] [17 <D:/g
+it_repositories/PhD/paper_1/pictures/hamamatsu_signal_295K_4_5OV.pdf>] [18 <D:/
+git_repositories/PhD/paper_1/pictures/hamamatsu_signal_295K_4_5OV_amp.pdf>]
+<pictures/dark_current_rate_ham_33_25C_295K_73V.pdf, id=927, 821.0675pt x 572.1
 375pt>
 File: pictures/dark_current_rate_ham_33_25C_295K_73V.pdf Graphic file (type pdf
 )
  <use pictures/dark_current_rate_ham_33_25C_295K_73V.pdf>
 Package pdftex.def Info: pictures/dark_current_rate_ham_33_25C_295K_73V.pdf use
-d on input line 354.
+d on input line 484.
 (pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-<pictures/dark_current_rate_ham_33_25C_Hz_vs_temperature.pdf, id=650, 821.0675p
-t x 572.1375pt>
+[19 <D:/git_repositories/PhD/paper_1/pictures/hamamatsu_signal_295K_73V.pdf>]
+<pictures/dark_current_rate_ham_33_25C_Hz_vs_temperature.pdf, id=1016, 821.0675
+pt x 572.1375pt>
 File: pictures/dark_current_rate_ham_33_25C_Hz_vs_temperature.pdf Graphic file 
 (type pdf)
 
 <use pictures/dark_current_rate_ham_33_25C_Hz_vs_temperature.pdf>
 Package pdftex.def Info: pictures/dark_current_rate_ham_33_25C_Hz_vs_temperatur
-e.pdf used on input line 376.
+e.pdf used on input line 506.
 (pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
 
-Underfull \hbox (badness 6001) in paragraph at lines 378--378
-[][]\T2A/cmr/m/n/12 –ис. 11. „а-сто-та тем-но-вых то-ков в за-ви-си-мо-сти от т
+Underfull \hbox (badness 6001) in paragraph at lines 508--508
+[][]\T2A/cmr/m/n/12 –ис. 15. „а-сто-та тем-но-вых то-ков в за-ви-си-мо-сти от т
 ем-пе-ра-ту-ры дл€
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[14 <F:/git_repositories/PhD/paper_1/pictures/V_bd_Hamamatsu.pdf>] [15 <F:/git_
-repositories/PhD/paper_1/pictures/dark_current_rate_ham_33_25C_295K_73V.pdf>]
-<pictures/dark_current_rate_ham_33_25C_Hz_vs_overvoltage.pdf, id=802, 821.0675p
-t x 572.1375pt>
+[20 <D:/git_repositories/PhD/paper_1/pictures/dark_current_rate_ham_33_25C_295K
+_73V.pdf>] [21 <D:/git_repositories/PhD/paper_1/pictures/dark_current_rate_ham_
+33_25C_Hz_vs_temperature.pdf>]
+<pictures/dark_current_rate_ham_33_25C_Hz_vs_overvoltage.pdf, id=1191, 821.0675
+pt x 572.1375pt>
 File: pictures/dark_current_rate_ham_33_25C_Hz_vs_overvoltage.pdf Graphic file 
 (type pdf)
 
 <use pictures/dark_current_rate_ham_33_25C_Hz_vs_overvoltage.pdf>
 Package pdftex.def Info: pictures/dark_current_rate_ham_33_25C_Hz_vs_overvoltag
-e.pdf used on input line 415.
+e.pdf used on input line 545.
 (pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[16 <F:/git_repositories/PhD/paper_1/pictures/dark_current_rate_ham_33_25C_Hz_v
-s_temperature.pdf>] [17 <F:/git_repositories/PhD/paper_1/pictures/dark_current_
-rate_ham_33_25C_Hz_vs_overvoltage.pdf>]
-<pictures/recovery_time_ham_33_25C_amp.pdf, id=993, 821.0675pt x 572.1375pt>
-File: pictures/recovery_time_ham_33_25C_amp.pdf Graphic file (type pdf)
-
-<use pictures/recovery_time_ham_33_25C_amp.pdf>
-Package pdftex.def Info: pictures/recovery_time_ham_33_25C_amp.pdf used on inpu
-t line 463.
-(pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<pictures/hamamatsu_signal_295K_73V.pdf, id=994, 821.0675pt x 572.1375pt>
-File: pictures/hamamatsu_signal_295K_73V.pdf Graphic file (type pdf)
-
-<use pictures/hamamatsu_signal_295K_73V.pdf>
-Package pdftex.def Info: pictures/hamamatsu_signal_295K_73V.pdf used on input l
-ine 476.
-(pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[18] [19 <F:/git_repositories/PhD/paper_1/pictures/recovery_time_ham_33_25C_amp
-.pdf>] [20 <F:/git_repositories/PhD/paper_1/pictures/hamamatsu_signal_295K_73V.
-pdf>]) [21] (F:\git_repositories\PhD\paper_1\bibliography.tex
+ [22 <D:/git_repositories/PhD/paper_1/pictures/dark_current_rate_ham_33_25C_Hz_
+vs_overvoltage.pdf>]) [23] (D:\git_repositories\PhD\paper_1\bibliography.tex
 Underfull \hbox (badness 10000) in paragraph at lines 9--10
 [][]\T2A/cmr/m/n/12 TOWARD A USER`S TOOLKIT FOR MODELING SCINTILLATOR
  []
@@ -680,41 +708,42 @@ Underfull \hbox (badness 1708) in paragraph at lines 20--22
 k Eckert, Hans-
  []
 
-) [22
+) [24
 
 
-] (F:\git_repositories\PhD\paper_1\main.aux
-(F:\git_repositories\PhD\paper_1\content.aux)
-(F:\git_repositories\PhD\paper_1\bibliography.aux))
+] (D:\git_repositories\PhD\paper_1\main.aux
+(D:\git_repositories\PhD\paper_1\content.aux)
+(D:\git_repositories\PhD\paper_1\bibliography.aux))
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4644 strings out of 493921
- 62391 string characters out of 3150556
- 130222 words of memory out of 3000000
- 7754 multiletter control sequences out of 15000+200000
+ 4736 strings out of 493921
+ 63878 string characters out of 3150556
+ 132165 words of memory out of 3000000
+ 7841 multiletter control sequences out of 15000+200000
  17696 words of font info for 46 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  28i,10n,28p,465b,277s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Latex/Full_TeX/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<C:/Latex/
-Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Latex/Full_TeX/tex
-mf/fonts/type1/public/amsfonts/cmextra/cmex8.pfb><C:/Latex/Full_TeX/texmf/fonts
-/type1/public/amsfonts/cm/cmmi12.pfb><C:/Latex/Full_TeX/texmf/fonts/type1/publi
-c/amsfonts/cm/cmmi6.pfb><C:/Latex/Full_TeX/texmf/fonts/type1/public/amsfonts/cm
-/cmmi8.pfb><C:/Latex/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmr12.pfb><C
-:/Latex/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Latex/Full_T
-eX/texmf/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Latex/Full_TeX/texmf/fonts
-/type1/public/amsfonts/cm/cmsy10.pfb><C:/Latex/Full_TeX/texmf/fonts/type1/publi
-c/amsfonts/cm/cmsy8.pfb><C:/Latex/Full_TeX/texmf/fonts/type1/public/cm-super/sf
-bx1440.pfb><C:/Latex/Full_TeX/texmf/fonts/type1/public/cm-super/sfbx1728.pfb><C
-:/Latex/Full_TeX/texmf/fonts/type1/public/cm-super/sfbx2488.pfb><C:/Latex/Full_
-TeX/texmf/fonts/type1/public/cm-super/sfrm1200.pfb><C:/Latex/Full_TeX/texmf/fon
-ts/type1/public/cm-super/sfti1200.pfb>
-Output written on main.pdf (22 pages, 1141320 bytes).
+{D:/LaTex/Full_TeX/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<D:/LaTex/
+Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/LaTex/Full_TeX/tex
+mf/fonts/type1/public/amsfonts/cmextra/cmex8.pfb><D:/LaTex/Full_TeX/texmf/fonts
+/type1/public/amsfonts/cm/cmmi12.pfb><D:/LaTex/Full_TeX/texmf/fonts/type1/publi
+c/amsfonts/cm/cmmi6.pfb><D:/LaTex/Full_TeX/texmf/fonts/type1/public/amsfonts/cm
+/cmmi8.pfb><D:/LaTex/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmr12.pfb><D
+:/LaTex/Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmr6.pfb><D:/LaTex/Full_T
+eX/texmf/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/LaTex/Full_TeX/texmf/fonts
+/type1/public/amsfonts/cm/cmsy10.pfb><D:/LaTex/Full_TeX/texmf/fonts/type1/publi
+c/amsfonts/cm/cmsy8.pfb><D:/LaTex/Full_TeX/texmf/fonts/type1/public/cm-super/sf
+bx1440.pfb><D:/LaTex/Full_TeX/texmf/fonts/type1/public/cm-super/sfbx1728.pfb><D
+:/LaTex/Full_TeX/texmf/fonts/type1/public/cm-super/sfbx2488.pfb><D:/LaTex/Full_
+TeX/texmf/fonts/type1/public/cm-super/sfrm0800.pfb><D:/LaTex/Full_TeX/texmf/fon
+ts/type1/public/cm-super/sfrm1200.pfb><D:/LaTex/Full_TeX/texmf/fonts/type1/publ
+ic/cm-super/sfti1200.pfb>
+Output written on main.pdf (24 pages, 1423940 bytes).
 PDF statistics:
- 1224 PDF objects out of 1440 (max. 8388607)
+ 1358 PDF objects out of 1440 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
 
