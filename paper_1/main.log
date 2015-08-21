@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  20 AUG 2015 18:19
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  21 AUG 2015 17:26
 entering extended mode
 **D:/git_repositories/PhD/paper_1/main.tex
 (D:/git_repositories/PhD/paper_1/main.tex
@@ -430,9 +430,6 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 LaTeX Warning: Label `eq:ener_resol_base' multiply defined.
 
 
-LaTeX Warning: Label `eq:V(t)' multiply defined.
-
-
 LaTeX Warning: Label `image:dark_current_rate_ham_33_25C_295K_73.00V' multiply 
 defined.
 
@@ -609,7 +606,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: pictures/install_tektronix.pdf Graphic file (type pdf)
 
 <use pictures/install_tektronix.pdf>
-Package pdftex.def Info: pictures/install_tektronix.pdf used on input line 385.
+Package pdftex.def Info: pictures/install_tektronix.pdf used on input line 386.
 
 (pdftex.def)             Requested size: 441.01773pt x 248.0691pt.
 
@@ -622,7 +619,7 @@ File: pictures/hamamatsu_signal_295K_4_5OV.pdf Graphic file (type pdf)
 
 <use pictures/hamamatsu_signal_295K_4_5OV.pdf>
 Package pdftex.def Info: pictures/hamamatsu_signal_295K_4_5OV.pdf used on input
- line 408.
+ line 409.
 (pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
 
 
@@ -633,71 +630,102 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: pictures/hamamatsu_signal_295K_4_5OV_amp.pdf Graphic file (type pdf)
 <use pictures/hamamatsu_signal_295K_4_5OV_amp.pdf>
 Package pdftex.def Info: pictures/hamamatsu_signal_295K_4_5OV_amp.pdf used on i
-nput line 423.
+nput line 424.
 (pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<pictures/hamamatsu_signal_295K_73V.pdf, id=730, 821.0675pt x 572.1375pt>
-File: pictures/hamamatsu_signal_295K_73V.pdf Graphic file (type pdf)
+[16 <D:/git_repositories/PhD/paper_1/pictures/install_tektronix.pdf>]
+<pictures/revo_time_vs_temp_ham_4_5_OV.pdf, id=748, 821.0675pt x 572.1375pt>
+File: pictures/revo_time_vs_temp_ham_4_5_OV.pdf Graphic file (type pdf)
 
-<use pictures/hamamatsu_signal_295K_73V.pdf>
-Package pdftex.def Info: pictures/hamamatsu_signal_295K_73V.pdf used on input l
-ine 435.
+<use pictures/revo_time_vs_temp_ham_4_5_OV.pdf>
+Package pdftex.def Info: pictures/revo_time_vs_temp_ham_4_5_OV.pdf used on inpu
+t line 436.
 (pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[16 <D:/git_repositories/PhD/paper_1/pictures/install_tektronix.pdf>] [17 <D:/g
-it_repositories/PhD/paper_1/pictures/hamamatsu_signal_295K_4_5OV.pdf>] [18 <D:/
-git_repositories/PhD/paper_1/pictures/hamamatsu_signal_295K_4_5OV_amp.pdf>]
-<pictures/dark_current_rate_ham_33_25C_295K_73V.pdf, id=927, 821.0675pt x 572.1
-375pt>
+[17 <D:/git_repositories/PhD/paper_1/pictures/hamamatsu_signal_295K_4_5OV.pdf>]
+[18 <D:/git_repositories/PhD/paper_1/pictures/hamamatsu_signal_295K_4_5OV_amp.p
+df>] <pictures/tektronix_generator.pdf, id=927, 821.0675pt x 572.1375pt>
+File: pictures/tektronix_generator.pdf Graphic file (type pdf)
+
+<use pictures/tektronix_generator.pdf>
+Package pdftex.def Info: pictures/tektronix_generator.pdf used on input line 48
+4.
+(pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (2.43863pt too wide) in paragraph at lines 496--498
+[][]\T2A/cmr/m/n/12 ¬ременное раз-ре-ше-ние ос-цил-ло-гра-фа пред-по-ла-га-ет-с
+€ зна-чи-тель-но луч-шим, чем
+ []
+
+[19 <D:/git_repositories/PhD/paper_1/pictures/revo_time_vs_temp_ham_4_5_OV.pdf>
+] <pictures/generator_amp_tektronix.pdf, id=1010, 821.0675pt x 572.1375pt>
+File: pictures/generator_amp_tektronix.pdf Graphic file (type pdf)
+
+<use pictures/generator_amp_tektronix.pdf>
+Package pdftex.def Info: pictures/generator_amp_tektronix.pdf used on input lin
+e 503.
+(pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[20 <D:/git_repositories/PhD/paper_1/pictures/tektronix_generator.pdf>]
+[21 <D:/git_repositories/PhD/paper_1/pictures/generator_amp_tektronix.pdf>]
+<pictures/dark_current_rate_ham_33_25C_295K_73V.pdf, id=1138, 821.0675pt x 572.
+1375pt>
 File: pictures/dark_current_rate_ham_33_25C_295K_73V.pdf Graphic file (type pdf
 )
  <use pictures/dark_current_rate_ham_33_25C_295K_73V.pdf>
 Package pdftex.def Info: pictures/dark_current_rate_ham_33_25C_295K_73V.pdf use
-d on input line 484.
+d on input line 559.
 (pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[19 <D:/git_repositories/PhD/paper_1/pictures/hamamatsu_signal_295K_73V.pdf>]
-<pictures/dark_current_rate_ham_33_25C_Hz_vs_temperature.pdf, id=1016, 821.0675
+[22]
+<pictures/dark_current_rate_ham_33_25C_Hz_vs_temperature.pdf, id=1142, 821.0675
 pt x 572.1375pt>
 File: pictures/dark_current_rate_ham_33_25C_Hz_vs_temperature.pdf Graphic file 
 (type pdf)
 
 <use pictures/dark_current_rate_ham_33_25C_Hz_vs_temperature.pdf>
 Package pdftex.def Info: pictures/dark_current_rate_ham_33_25C_Hz_vs_temperatur
-e.pdf used on input line 506.
+e.pdf used on input line 581.
 (pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
 
-Underfull \hbox (badness 6001) in paragraph at lines 508--508
-[][]\T2A/cmr/m/n/12 –ис. 15. „а-сто-та тем-но-вых то-ков в за-ви-си-мо-сти от т
+Underfull \hbox (badness 6001) in paragraph at lines 583--583
+[][]\T2A/cmr/m/n/12 –ис. 17. „а-сто-та тем-но-вых то-ков в за-ви-си-мо-сти от т
 ем-пе-ра-ту-ры дл€
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[20 <D:/git_repositories/PhD/paper_1/pictures/dark_current_rate_ham_33_25C_295K
-_73V.pdf>] [21 <D:/git_repositories/PhD/paper_1/pictures/dark_current_rate_ham_
+[23 <D:/git_repositories/PhD/paper_1/pictures/dark_current_rate_ham_33_25C_295K
+_73V.pdf>] [24 <D:/git_repositories/PhD/paper_1/pictures/dark_current_rate_ham_
 33_25C_Hz_vs_temperature.pdf>]
-<pictures/dark_current_rate_ham_33_25C_Hz_vs_overvoltage.pdf, id=1191, 821.0675
+<pictures/dark_current_rate_ham_33_25C_Hz_vs_overvoltage.pdf, id=1317, 821.0675
 pt x 572.1375pt>
 File: pictures/dark_current_rate_ham_33_25C_Hz_vs_overvoltage.pdf Graphic file 
 (type pdf)
 
 <use pictures/dark_current_rate_ham_33_25C_Hz_vs_overvoltage.pdf>
 Package pdftex.def Info: pictures/dark_current_rate_ham_33_25C_Hz_vs_overvoltag
-e.pdf used on input line 545.
+e.pdf used on input line 620.
 (pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
- [22 <D:/git_repositories/PhD/paper_1/pictures/dark_current_rate_ham_33_25C_Hz_
-vs_overvoltage.pdf>]) [23] (D:\git_repositories\PhD\paper_1\bibliography.tex
+ [25 <D:/git_repositories/PhD/paper_1/pictures/dark_current_rate_ham_33_25C_Hz_
+vs_overvoltage.pdf>]) [26] (D:\git_repositories\PhD\paper_1\bibliography.tex
 Underfull \hbox (badness 10000) in paragraph at lines 9--10
 [][]\T2A/cmr/m/n/12 TOWARD A USER`S TOOLKIT FOR MODELING SCINTILLATOR
  []
@@ -708,7 +736,7 @@ Underfull \hbox (badness 1708) in paragraph at lines 20--22
 k Eckert, Hans-
  []
 
-) [24
+) [27
 
 
 ] (D:\git_repositories\PhD\paper_1\main.aux
@@ -719,11 +747,11 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4736 strings out of 493921
- 63878 string characters out of 3150556
- 132165 words of memory out of 3000000
- 7841 multiletter control sequences out of 15000+200000
- 17696 words of font info for 46 fonts, out of 3000000 for 9000
+ 4755 strings out of 493921
+ 64427 string characters out of 3150556
+ 132226 words of memory out of 3000000
+ 7856 multiletter control sequences out of 15000+200000
+ 18515 words of font info for 47 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  28i,10n,28p,465b,277s stack positions out of 5000i,500n,10000p,200000b,50000s
 {D:/LaTex/Full_TeX/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<D:/LaTex/
@@ -736,14 +764,15 @@ c/amsfonts/cm/cmmi6.pfb><D:/LaTex/Full_TeX/texmf/fonts/type1/public/amsfonts/cm
 eX/texmf/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/LaTex/Full_TeX/texmf/fonts
 /type1/public/amsfonts/cm/cmsy10.pfb><D:/LaTex/Full_TeX/texmf/fonts/type1/publi
 c/amsfonts/cm/cmsy8.pfb><D:/LaTex/Full_TeX/texmf/fonts/type1/public/cm-super/sf
-bx1440.pfb><D:/LaTex/Full_TeX/texmf/fonts/type1/public/cm-super/sfbx1728.pfb><D
-:/LaTex/Full_TeX/texmf/fonts/type1/public/cm-super/sfbx2488.pfb><D:/LaTex/Full_
-TeX/texmf/fonts/type1/public/cm-super/sfrm0800.pfb><D:/LaTex/Full_TeX/texmf/fon
-ts/type1/public/cm-super/sfrm1200.pfb><D:/LaTex/Full_TeX/texmf/fonts/type1/publ
-ic/cm-super/sfti1200.pfb>
-Output written on main.pdf (24 pages, 1423940 bytes).
+bx1200.pfb><D:/LaTex/Full_TeX/texmf/fonts/type1/public/cm-super/sfbx1440.pfb><D
+:/LaTex/Full_TeX/texmf/fonts/type1/public/cm-super/sfbx1728.pfb><D:/LaTex/Full_
+TeX/texmf/fonts/type1/public/cm-super/sfbx2488.pfb><D:/LaTex/Full_TeX/texmf/fon
+ts/type1/public/cm-super/sfrm0800.pfb><D:/LaTex/Full_TeX/texmf/fonts/type1/publ
+ic/cm-super/sfrm1200.pfb><D:/LaTex/Full_TeX/texmf/fonts/type1/public/cm-super/s
+fti1200.pfb>
+Output written on main.pdf (27 pages, 1633709 bytes).
 PDF statistics:
- 1358 PDF objects out of 1440 (max. 8388607)
+ 1489 PDF objects out of 1728 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 101 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 111 words of extra memory for PDF output out of 10000 (max. 10000000)
 
