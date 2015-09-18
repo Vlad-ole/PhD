@@ -29,6 +29,8 @@ arXiv:1101.1996v1 [physics.ins-det] 11 Jan 2011
 \bibitem{After-pulsingandcross-talkinmulti-pixelphotoncounters}
 Y. Du, F. Retiere, Nucl. Instr. and Meth. A 596 (2008) 396-401
 
+
+
 \bibitem{Modeling crosstalk in silicon photomultipliers}
 Modeling crosstalk in silicon photomultipliers
 L. Gallego, J. Rosado, F. Blanco and F. Arqueros
@@ -49,7 +51,10 @@ Marco Ramilli
 Characterisation of a silicon photomultiplier device for applications in liquid argon based neutrino physics and dark matter searches
 P.K. Lightfoot , G.J. Barker b, K. Mavrokoridis , Y.A. Ramachers , N.J.C. Spooner
 
-\bibitem{}
+\bibitem{Determination of the recovery time of silicon photomultipliers}
+Determination of the recovery time of silicon photomultipliers
+Parrick Hallen
+Bachelor's thesis in physics
 
 \end{thebibliography}
 
