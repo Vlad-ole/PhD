@@ -1,58 +1,59 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: main.aux
-A level-1 auxiliary file: content.aux
-White space in argument---line 2 of file content.aux
+A level-1 auxiliary file: content_theory.aux
+White space in argument---line 2 of file content_theory.aux
  : \citation{Optical
  :                   properties of bialkali photocathodes}
 I'm skipping whatever remains of this command
-White space in argument---line 3 of file content.aux
+White space in argument---line 3 of file content_theory.aux
  : \citation{M.D.
  :                Lay}
 I'm skipping whatever remains of this command
-White space in argument---line 11 of file content.aux
+White space in argument---line 11 of file content_theory.aux
  : \citation{Characterization
  :                            and Simulation of the Response}
 I'm skipping whatever remains of this command
-White space in argument---line 12 of file content.aux
+White space in argument---line 12 of file content_theory.aux
  : \citation{Light
  :                 output and energy resolution}
 I'm skipping whatever remains of this command
-White space in argument---line 17 of file content.aux
+White space in argument---line 19 of file content_theory.aux
  : \citation{Modeling
  :                    crosstalk in silicon photomultipliers}
 I'm skipping whatever remains of this command
-White space in argument---line 25 of file content.aux
+White space in argument---line 24 of file content_theory.aux
  : \citation{Characterisation
  :                            Studies of Silicon Photomultipliers}
 I'm skipping whatever remains of this command
-White space in argument---line 26 of file content.aux
+White space in argument---line 29 of file content_theory.aux
  : \citation{After-pulsingandcross-talkinmulti-pixelphotoncounters,Using
  :                                                                       MPPCs for T2K Fine Grain Detector,Characterization and Simulation of the Response}
 I'm skipping whatever remains of this command
-White space in argument---line 48 of file content.aux
+A level-1 auxiliary file: content_experiment.aux
+White space in argument---line 2 of file content_experiment.aux
  : \citation{Silicon
  :                   Photomultiplier's Gain Stabilization,Temperature and Bias Voltage Dependence,Characterization of SiPM: temperature dependencies,Characterisation of a silicon photomultiplier device}
 I'm skipping whatever remains of this command
-White space in argument---line 74 of file content.aux
+White space in argument---line 29 of file content_experiment.aux
  : \citation{Determination
  :                         of the recovery time of silicon photomultipliers}
 I'm skipping whatever remains of this command
-White space in argument---line 79 of file content.aux
+White space in argument---line 34 of file content_experiment.aux
  : \citation{Determination
  :                         of the recovery time of silicon photomultipliers}
 I'm skipping whatever remains of this command
-White space in argument---line 80 of file content.aux
+White space in argument---line 35 of file content_experiment.aux
  : \citation{Temperature
  :                       and Bias Voltage Dependence}
 I'm skipping whatever remains of this command
-White space in argument---line 87 of file content.aux
+White space in argument---line 40 of file content_experiment.aux
  : \citation{Characterization
  :                            of SiPM: temperature dependencies}
 I'm skipping whatever remains of this command
-White space in argument---line 94 of file content.aux
+White space in argument---line 45 of file content_experiment.aux
  : \citation{Characterization
  :                            and Simulation of the Response}
 I'm skipping whatever remains of this command
-White space in argument---line 96 of file content.aux
+White space in argument---line 47 of file content_experiment.aux
  : \citation{Temperature
  :                       and Bias Voltage Dependence}
 I'm skipping whatever remains of this command

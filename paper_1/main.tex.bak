@@ -1,7 +1,7 @@
 \documentclass[12pt,a4paper, onecolumn]{article}
 \usepackage{russ}
 \usepackage{cmap}
-
+\usepackage{cite}
 
 \usepackage[T2A]{fontenc}
 \usepackage[cp1251]{inputenc}
@@ -39,7 +39,8 @@
 
 \begin{document}
 
-\include{content}
+\include{content_theory}
+%\include{content_experiment}
 
 \include{bibliography}
 \end{document}

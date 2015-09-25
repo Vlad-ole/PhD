@@ -281,6 +281,7 @@ f(\Delta t) = \frac{1}{\tau} \cdot \exp(-\Delta t / \tau),
 где $\tau$ - среднее время, проходящее между двумя импульсами при рассмотрении лишь одного из вышеперечисленных эффектов.
 В реальности каждый из этих процессов может приводить к срабатыванию ячейки.
 
+\subsubsection{Учет послеимпульсов}
 Анализ распределения временных интервалов, полученных в эксперименте, позволит найти среднее время $\tau$ для каждого из процессов.
 Выведем плотность вероятности для временных интервалов $\Delta t$.
 Предположим, что на каждый первичный импульс будет образовываться в среднем $\lambda$ послеимпульсов, причем число послеимпульсов имеет распределение Пуассона.
@@ -327,6 +328,12 @@ $P_{exp}(t, t + \delta t) = \frac{1}{\tau} \cdot \exp(-t / \tau)$ - вероятность 
 P_{fast}(t, t + \delta t) = \frac{ \sum \limits_{i = 1}^{\infty} \frac{\lambda^{i}}{i!} \cdot e^{-\lambda} \cdot \frac{i}{\tau} \cdot \exp[-i \cdot t / \tau] } {\sum \limits_{i = 1}^{\infty} \frac{\lambda^{i}}{i!} \cdot e^{-\lambda}} = \\ \nonumber
 \frac{e^{-\lambda}}{1 - e^{-\lambda}} \cdot \frac{\lambda}{\tau} \cdot e^{- t / \tau} \cdot \exp[\lambda \cdot e^{- t / \tau}]
 \end{eqnarray}
+
+Также в дальнейших расчетах понадобится вероятность $P_{fast}(t, \infty)$:
+\begin{eqnarray}\label{eq:P(fast)_integral_afterpulsing}
+P_{fast}(t, \infty) = \int \limits_{t}^{\infty} P_{fast}(x, x + \delta x) dx = e^{-\lambda} \cdot \frac{\exp[\lambda \cdot e^{-t / \tau}] - 1}{1 - e^{-\lambda}}
+\end{eqnarray}
+
 Плотность вероятности для медленной компоненты получается аналогично.
 На рис.~\ref{image:probability_dt} и рис.~\ref{image:probability_dt_fast_tau} изображена плотность вероятности (\ref{eq:P(fast)_afterpulsing}) при различных параметрах $\lambda$ и $\tau$.
 
@@ -342,70 +349,16 @@ P_{fast}(t, t + \delta t) = \frac{ \sum \limits_{i = 1}^{\infty} \frac{\lambda^{
 \label{image:probability_dt_fast_tau}
 \end{figure}
 
-
-
-Таким образом, после срабатывания первичного импульса в интервале от 0 до $t$ может появиться один послеимпульс, или 
-один темновой импульс, или как послеимпульс так и темновой импульс, или же в этом интервале не появится вообще ни одного импульса.
-Пусть событие $A$ состоит в том, что в интервале от 0 до $t$ нет послеимпульса (т.к. измеряется расстояние между сигналами).
-Вероятность события $A$, обозначаемая $P\{A\}$, записывается как 
-\begin{eqnarray}\label{eq:P(A)_afterpulsing}
- P\{A\} = \exp\left[ -t \cdot \nu_{fast} \right], 
+Для темновых токов вероятность того, что от $0$ до $t$ не было импульсов, а в интервал от $t$ до $t + \delta t$ попал один импульс $P_{DC}(t, t + \delta t)$ определяется 
+пуассоновским распределением:
+\begin{eqnarray}\label{eq:P(dc)_afterpulsing}
+P_{DC}(t, t + \delta t) = \nu_{DC} \cdot e^{-\nu_{DC} \cdot t },
 \end{eqnarray}
+где $\nu_{DC}$ - частота темновых токов.
+
+
 где для удобства введена величина $\nu_{fast} = 1 / \tau_{fast}$.
-Если учитывать, что число послеимпульсов, 
-приходящихся на первоначальный импульс, имеет распределение Пуассона со средним числом послеимпульсов $\lambda$,
-то событие бытие $A$ запишется как сумма произведения вероятностей происхождения $i$ послеимпульсов на вероятность того, 
-что в интервале от 0 до $t$ не произошло ни одного послеимпульса из $i$ возможных:
-\begin{eqnarray}\label{eq:P(A, lambda)_afterpulsing}
-P\{A\} = \sum \limits_{i = 1}^{\infty} \frac{\lambda^i}{i!} \exp[- \lambda] \cdot ( \exp\left[ -t \cdot \nu_{fast} \right])^i = \exp[\lambda \cdot (\exp[-t \cdot \nu_{fast} ]  - 1 )] 
-\end{eqnarray}
 
-
-Пусть событие $B$ состоит в том, что в интервале от 0 до $t$ нет темнового импульса.
-Вероятность события $B$ есть
-\begin{eqnarray}\label{eq:P(B)_afterpulsing}
-P\{B\} = \exp[t \cdot \nu_{DC} \cdot (\exp[-t \cdot \nu_{DC} ]  - 1 )],
-\end{eqnarray}
-где $\nu_{DC}$ - частота темновых токов. В случае темновых токов среднее число импульсов,
-попадающих в интервал 0 до $t$, зависит от длины интервала и частоты темновых токов и равняется $t \cdot \nu_{DC}$.
-
-Вероятность того, что в интервале от 0 до $t$ не произойдет ни одного события есть
-\begin{eqnarray}\label{eq:P(A * B)_afterpulsing}
-P\{A \cdot B\} =  P\{ t_{1} > t, t_{2} > t \} = P\{ t_{1} > t\} \cdot P\{ t_{2} > t\} = P\{A\} \cdot P\{B\}
-\end{eqnarray}
-
-Для нахождения плотности вероятности нужно знать функцию распределения $F(t)$ пересечения событий $A$ и $B$:
-\begin{eqnarray}\label{eq:P(A * B)_afterpulsing}
-F(t) = P\{t_{1} < t, t_{2} < t \} = P\{t_{1} < t\} \cdot P\{t_{2} < t \} \\ \nonumber
-(1 - P\{ t_{1} > t\}) \cdot (1 - P\{ t_{2} >  t\}) = (1 - P\{A\}) \cdot (1 - P\{B\})
-\end{eqnarray} 
-
-Плотность вероятности временных интервалов есть
-\begin{eqnarray}\label{eq:f[A * B](dt)_afterpulsing}
-f(t) = dF(t) / dt = \frac{-dP\{A\}(t)}{dt} \cdot ( 1 - P\{B\} ) + \frac{-dP\{B\}(t)}{dt} \cdot ( 1 - P\{A\} )
-\end{eqnarray}
-
-Если учитывать еще и медленную компоненту послеимпульсов, то, вводя новое событие $C$ аналогично событию $A$, получим:
-\begin{eqnarray}\label{eq:f[A * B * С](dt)_afterpulsing}
-f(t) = dF(t) / dt = \frac{-dP\{A\}(t)}{dt} \cdot ( 1 - P\{B\} ) \cdot ( 1 - P\{C\} ) + \\ \nonumber
-\frac{-dP\{B\}(t)}{dt} \cdot ( 1 - P\{A\} ) \cdot ( 1 - P\{C\} ) +
-\frac{-dP\{C\}(t)}{dt} \cdot ( 1 - P\{A\} ) \cdot ( 1 - P\{B\} )
-\end{eqnarray}
-
-Если в формулу (\ref{eq:f[A * B](dt)_afterpulsing}) подставить вероятности (\ref{eq:P(A, lambda)_afterpulsing}) и (\ref{eq:P(B)_afterpulsing}),
-то получим плотность вероятности (\ref{eq:f(A * B)_example_afterpulsing}).
-Для упрощения записи введем вспомогательные переменные $h_{DC} = \exp[- t \cdot \nu_{DC}]$ и $h_{f} = \exp[- t \cdot \nu_{f}]$.
-\begin{eqnarray}\label{eq:f(A * B)_example_afterpulsing}
-f(t) = \lambda_{f} \cdot \nu_{f} \cdot h_{f} \cdot P\{A\} \cdot ( 1 - P\{B\}) + \\ \nonumber
-\nu_{DC} \cdot (1 + h_{DC} \cdot (t \cdot \nu_{DC} - 1)) \cdot P\{B\} \cdot ( 1 - P\{A\})
-\end{eqnarray} 
-
-Аналогичным образом получим плотность вероятности при учете медленной компоненты:
-\begin{eqnarray}\label{eq:f(A * B * C)_example_afterpulsing}
-f(t) = \lambda_{f} \cdot \nu_{f} \cdot h_{f} \cdot P\{A\} \cdot ( 1 - P\{B\}) \cdot ( 1 - P\{C\}) + \\ \nonumber
-\nu_{DC} \cdot (1 + h_{DC} \cdot (t \cdot \nu_{DC} - 1)) \cdot P\{B\} \cdot ( 1 - P\{A\}) \cdot ( 1 - P\{C\}) + \\ \nonumber
-\lambda_{s} \cdot \nu_{s} \cdot h_{s} \cdot P\{C\} \cdot ( 1 - P\{A\}) \cdot ( 1 - P\{B\})
-\end{eqnarray} 
 
 В большинстве приложений время интегрирования $t_{gate}$ выбирают в несколько раз больше времени восстановления ячейки $\tau_{r}$.
 Мы предположим что, $t_{gate}$ достаточно большое и в несколько раз превышает и $\tau_{f}$.
