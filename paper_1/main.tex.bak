@@ -20,7 +20,7 @@
 \usepackage{indentfirst}
 \usepackage{verbatim}
 \usepackage{layout}
-\usepackage{miller}
+\usepackage{miller}-
 \usepackage[numbers,square,comma,sort&compress]{natbib}
 \usepackage{url}
 \usepackage{multicol}
@@ -40,7 +40,7 @@
 \begin{document}
 
 \include{content_theory}
-%\include{content_experiment}
+\include{content_experiment}
 
 \include{bibliography}
 \end{document}
