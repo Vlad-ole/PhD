@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  3 DEC 2015 13:54
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  17 DEC 2015 14:34
 entering extended mode
 **D:/git_repositories/PhD/paper_1/main.tex
 (D:/git_repositories/PhD/paper_1/main.tex
@@ -429,16 +429,9 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 
 LaTeX Warning: Label `eq:ener_resol_base' multiply defined.
 
-
-LaTeX Warning: Label `eq:P(dc)_afterpulsing' multiply defined.
-
 ) (D:\git_repositories\PhD\paper_1\content_experiment.aux
 
 LaTeX Warning: Label `image:recovery_time-ketec_11_4_5OV' multiply defined.
-
-
-LaTeX Warning: Label `image:dark_current_rate_ham_33_25C_295K_73.00V' multiply 
-defined.
 
 ) (D:\git_repositories\PhD\paper_1\bibliography.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
@@ -531,145 +524,92 @@ File: pictures/detector.pdf Graphic file (type pdf)
 
 <use pictures/detector.pdf>
 Package pdftex.def Info: pictures/detector.pdf used on input line 34.
-(pdftex.def)             Requested size: 441.01773pt x 248.0691pt.
- [2 <D:/git_repositories/PhD/paper_1/pictures/detector.pdf>] [3] [4]
-<pictures/YAP_Ce_PMT_simple_case.pdf, id=48, 821.0675pt x 572.1375pt>
+(pdftex.def)             Requested size: 227.62204pt x 128.03754pt.
+ [2 <D:/git_repositories/PhD/paper_1/pictures/detector.pdf>] [3]
+<pictures/YAP_Ce_PMT_simple_case.pdf, id=44, 821.0675pt x 572.1375pt>
 File: pictures/YAP_Ce_PMT_simple_case.pdf Graphic file (type pdf)
 
 <use pictures/YAP_Ce_PMT_simple_case.pdf>
 Package pdftex.def Info: pictures/YAP_Ce_PMT_simple_case.pdf used on input line
  119.
-(pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
- [5 <D:/git_repositories/PhD/paper_1/pictures/YAP_Ce_PMT_simple_case.pdf>]
+(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[4] [5 <D:/git_repositories/PhD/paper_1/pictures/YAP_Ce_PMT_simple_case.pdf>]
 <pictures/ER_noise.pdf, id=162, 821.0675pt x 572.1375pt>
 File: pictures/ER_noise.pdf Graphic file (type pdf)
 
 <use pictures/ER_noise.pdf>
 Package pdftex.def Info: pictures/ER_noise.pdf used on input line 163.
-(pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[6] [7 <D:/git_repositories/PhD/paper_1/pictures/ER_noise.pdf>]
-<pictures/x-talk.pdf, id=281, 821.0675pt x 572.1375pt>
+(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
+ [6 <D:/git_repositories/PhD/paper_1/pictures/ER_noise.pdf>] <pictures/x-talk.p
+df, id=277, 821.0675pt x 572.1375pt>
 File: pictures/x-talk.pdf Graphic file (type pdf)
 
 <use pictures/x-talk.pdf>
 Package pdftex.def Info: pictures/x-talk.pdf used on input line 216.
-(pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
+(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[8] <pictures/ER_x-talk.pdf, id=286, 821.0675pt x 572.1375pt>
+[7] <pictures/ER_x-talk.pdf, id=283, 821.0675pt x 572.1375pt>
 File: pictures/ER_x-talk.pdf Graphic file (type pdf)
 
 <use pictures/ER_x-talk.pdf>
 Package pdftex.def Info: pictures/ER_x-talk.pdf used on input line 247.
-(pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
+(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[9 <D:/git_repositories/PhD/paper_1/pictures/x-talk.pdf>] [10 <D:/git_repositor
-ies/PhD/paper_1/pictures/ER_x-talk.pdf>]
-Overfull \hbox (35.38823pt too wide) in alignment at lines 304--307
+[8 <D:/git_repositories/PhD/paper_1/pictures/x-talk.pdf>] [9 <D:/git_repositori
+es/PhD/paper_1/pictures/ER_x-talk.pdf>]
+Overfull \hbox (60.26051pt too wide) in alignment at lines 289--294
  [][][] []
  []
 
-[11] <pictures/probability_dt.pdf, id=482, 821.0675pt x 572.1375pt>
-File: pictures/probability_dt.pdf Graphic file (type pdf)
-
-<use pictures/probability_dt.pdf>
-Package pdftex.def Info: pictures/probability_dt.pdf used on input line 328.
-(pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
-
-<pictures/probability_dt_fast_tau.pdf, id=483, 821.0675pt x 572.1375pt>
-File: pictures/probability_dt_fast_tau.pdf Graphic file (type pdf)
-
-<use pictures/probability_dt_fast_tau.pdf>
-Package pdftex.def Info: pictures/probability_dt_fast_tau.pdf used on input lin
-e 334.
-(pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[12 <D:/git_repositories/PhD/paper_1/pictures/probability_dt.pdf>]
-<pictures/probability_dc_fast_dt.pdf, id=564, 821.0675pt x 572.1375pt>
-File: pictures/probability_dc_fast_dt.pdf Graphic file (type pdf)
-
-<use pictures/probability_dc_fast_dt.pdf>
-Package pdftex.def Info: pictures/probability_dc_fast_dt.pdf used on input line
- 355.
-(pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<pictures/probability_dc_fast_dt__lam.pdf, id=565, 821.0675pt x 572.1375pt>
-File: pictures/probability_dc_fast_dt__lam.pdf Graphic file (type pdf)
-
-<use pictures/probability_dc_fast_dt__lam.pdf>
-Package pdftex.def Info: pictures/probability_dc_fast_dt__lam.pdf used on input
- line 361.
-(pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[13 <D:/git_repositories/PhD/paper_1/pictures/probability_dt_fast_tau.pdf>]
-Overfull \hbox (60.26051pt too wide) in alignment at lines 377--382
- [][][] []
- []
-
-[14 <D:/git_repositories/PhD/paper_1/pictures/probability_dc_fast_dt.pdf>]
-[15 <D:/git_repositories/PhD/paper_1/pictures/probability_dc_fast_dt__lam.pdf>]
-
-Overfull \hbox (0.31805pt too wide) in paragraph at lines 430--433
+[10]
+Overfull \hbox (0.31805pt too wide) in paragraph at lines 342--345
 [][]\T2A/cmr/m/n/12 Найдем плот-ность ве-ро-ят-но-сти до-ба-воч-но-го за-ря-да 
 по-сле-им-пуль-са $\OML/cmm/m/it/12 \OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/c
 mr/m/n/12 )$\T2A/cmr/m/n/12 . Пред-
  []
 
-<pictures/amp_probability_one_pixel.pdf, id=809, 821.0675pt x 572.1375pt>
+<pictures/amp_probability_one_pixel.pdf, id=479, 821.0675pt x 572.1375pt>
 File: pictures/amp_probability_one_pixel.pdf Graphic file (type pdf)
 
 <use pictures/amp_probability_one_pixel.pdf>
 Package pdftex.def Info: pictures/amp_probability_one_pixel.pdf used on input l
-ine 445.
-(pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
+ine 357.
+(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (13.047pt too wide) in alignment at lines 452--455
+Overfull \hbox (13.047pt too wide) in alignment at lines 364--367
  [][][] []
  []
 
-[16]) [17 <D:/git_repositories/PhD/paper_1/pictures/amp_probability_one_pixel.p
+[11]) [12 <D:/git_repositories/PhD/paper_1/pictures/amp_probability_one_pixel.p
 df>] (D:\git_repositories\PhD\paper_1\content_experiment.tex
-Overfull \hbox (3.54678pt too wide) in paragraph at lines 23--31
-\T2A/cmr/m/n/12 вспыш-ку на SiPM, вы-ра-ба-ты-вая триг-гер-ный сиг-нал, иду-щий
- к АЦП CAEN dt5720a.
- []
-
-<pictures/install_V_bd.pdf, id=905, 963.6pt x 542.025pt>
+<pictures/install_V_bd.pdf, id=575, 963.6pt x 542.025pt>
 File: pictures/install_V_bd.pdf Graphic file (type pdf)
 
 <use pictures/install_V_bd.pdf>
 Package pdftex.def Info: pictures/install_V_bd.pdf used on input line 33.
-(pdftex.def)             Requested size: 352.81552pt x 198.45363pt.
+(pdftex.def)             Requested size: 227.62204pt x 128.03754pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[18
+[13
 
 
-] [19 <D:/git_repositories/PhD/paper_1/pictures/install_V_bd.pdf>]
+] [14 <D:/git_repositories/PhD/paper_1/pictures/install_V_bd.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 74--74
 [][]\T2A/cmr/m/n/12 Параметр /
  []
@@ -709,178 +649,184 @@ Overfull \hbox (45.77357pt too wide) in paragraph at lines 72--90
  [][] 
  []
 
-<pictures/sipm_spectrum.pdf, id=928, 821.0675pt x 572.1375pt>
+<pictures/sipm_spectrum.pdf, id=598, 821.0675pt x 572.1375pt>
 File: pictures/sipm_spectrum.pdf Graphic file (type pdf)
 
 <use pictures/sipm_spectrum.pdf>
 Package pdftex.def Info: pictures/sipm_spectrum.pdf used on input line 93.
-(pdftex.def)             Requested size: 352.81552pt x 245.84845pt.
+(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<pictures/VD_hamamatsu_3d_1.pdf, id=929, 821.0675pt x 572.1375pt>
+<pictures/VD_hamamatsu_3d_1.pdf, id=599, 821.0675pt x 572.1375pt>
 File: pictures/VD_hamamatsu_3d_1.pdf Graphic file (type pdf)
 
 <use pictures/VD_hamamatsu_3d_1.pdf>
 Package pdftex.def Info: pictures/VD_hamamatsu_3d_1.pdf used on input line 100.
 
-(pdftex.def)             Requested size: 352.81552pt x 245.84845pt.
+(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<pictures/VD_hamamatsu_3d_2.pdf, id=930, 821.0675pt x 572.1375pt>
+<pictures/VD_hamamatsu_3d_2.pdf, id=600, 821.0675pt x 572.1375pt>
 File: pictures/VD_hamamatsu_3d_2.pdf Graphic file (type pdf)
 
 <use pictures/VD_hamamatsu_3d_2.pdf>
 Package pdftex.def Info: pictures/VD_hamamatsu_3d_2.pdf used on input line 106.
 
-(pdftex.def)             Requested size: 352.81552pt x 245.84845pt.
+(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[20] <pictures/V_bd_KETEK.pdf, id=935, 821.0675pt x 572.1375pt>
+<pictures/V_bd_KETEK.pdf, id=601, 821.0675pt x 572.1375pt>
 File: pictures/V_bd_KETEK.pdf Graphic file (type pdf)
 
 <use pictures/V_bd_KETEK.pdf>
 Package pdftex.def Info: pictures/V_bd_KETEK.pdf used on input line 119.
-(pdftex.def)             Requested size: 352.81552pt x 245.84845pt.
+(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<pictures/V_bd_Hamamatsu.pdf, id=936, 821.0675pt x 572.1375pt>
+<pictures/V_bd_Hamamatsu.pdf, id=602, 821.0675pt x 572.1375pt>
 File: pictures/V_bd_Hamamatsu.pdf Graphic file (type pdf)
 
 <use pictures/V_bd_Hamamatsu.pdf>
 Package pdftex.def Info: pictures/V_bd_Hamamatsu.pdf used on input line 126.
-(pdftex.def)             Requested size: 352.81552pt x 245.84845pt.
+(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<pictures/install_tektronix.pdf, id=937, 963.6pt x 542.025pt>
+[15] <pictures/install_tektronix.pdf, id=607, 963.6pt x 542.025pt>
 File: pictures/install_tektronix.pdf Graphic file (type pdf)
 
 <use pictures/install_tektronix.pdf>
 Package pdftex.def Info: pictures/install_tektronix.pdf used on input line 139.
 
-(pdftex.def)             Requested size: 441.01773pt x 248.0691pt.
+(pdftex.def)             Requested size: 227.62204pt x 128.03754pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[21 <D:/git_repositories/PhD/paper_1/pictures/sipm_spectrum.pdf>]
-<pictures/hamamatsu_signal_295K_4_5OV.pdf, id=1012, 821.0675pt x 572.1375pt>
+[16 <D:/git_repositories/PhD/paper_1/pictures/sipm_spectrum.pdf> <D:/git_reposi
+tories/PhD/paper_1/pictures/VD_hamamatsu_3d_1.pdf>]
+<pictures/hamamatsu_signal_295K_4_5OV.pdf, id=785, 821.0675pt x 572.1375pt>
 File: pictures/hamamatsu_signal_295K_4_5OV.pdf Graphic file (type pdf)
 
 <use pictures/hamamatsu_signal_295K_4_5OV.pdf>
 Package pdftex.def Info: pictures/hamamatsu_signal_295K_4_5OV.pdf used on input
  line 153.
-(pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
+(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<pictures/hamamatsu_signal_295K_4_5OV_amp.pdf, id=1013, 821.0675pt x 572.1375pt
->
+<pictures/hamamatsu_signal_295K_4_5OV_amp.pdf, id=786, 821.0675pt x 572.1375pt>
 File: pictures/hamamatsu_signal_295K_4_5OV_amp.pdf Graphic file (type pdf)
- <use pictures/hamamatsu_signal_295K_4_5OV_amp.pdf>
+<use pictures/hamamatsu_signal_295K_4_5OV_amp.pdf>
 Package pdftex.def Info: pictures/hamamatsu_signal_295K_4_5OV_amp.pdf used on i
 nput line 168.
-(pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
-
+(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
+ [17 <D:/git_repositories/PhD/paper_1/pictures/VD_hamamatsu_3d_2.pdf> <D:/git_r
+epositories/PhD/paper_1/pictures/V_bd_KETEK.pdf>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<pictures/revo_time_vs_temp_ham_4_5_OV.pdf, id=1014, 821.0675pt x 572.1375pt>
+<pictures/revo_time_vs_temp_ham_4_5_OV.pdf, id=963, 821.0675pt x 572.1375pt>
 File: pictures/revo_time_vs_temp_ham_4_5_OV.pdf Graphic file (type pdf)
 
 <use pictures/revo_time_vs_temp_ham_4_5_OV.pdf>
 Package pdftex.def Info: pictures/revo_time_vs_temp_ham_4_5_OV.pdf used on inpu
 t line 180.
-(pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
+(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<pictures/recovery_time-ketec_11_4_5OV.pdf, id=1015, 821.0675pt x 572.1375pt>
+<pictures/recovery_time-ketec_11_4_5OV.pdf, id=964, 821.0675pt x 572.1375pt>
 File: pictures/recovery_time-ketec_11_4_5OV.pdf Graphic file (type pdf)
 
 <use pictures/recovery_time-ketec_11_4_5OV.pdf>
 Package pdftex.def Info: pictures/recovery_time-ketec_11_4_5OV.pdf used on inpu
 t line 187.
-(pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
+(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<pictures/recovery_time_ketec_11_265K.pdf, id=1016, 821.0675pt x 572.1375pt>
+<pictures/recovery_time_ketec_11_265K.pdf, id=965, 821.0675pt x 572.1375pt>
 File: pictures/recovery_time_ketec_11_265K.pdf Graphic file (type pdf)
 
 <use pictures/recovery_time_ketec_11_265K.pdf>
 Package pdftex.def Info: pictures/recovery_time_ketec_11_265K.pdf used on input
  line 194.
-(pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
+(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-LaTeX Warning: Reference `' on page 22 undefined on input line 200.
+LaTeX Warning: Reference `' on page 18 undefined on input line 200.
 
 
-<pictures/recovery_time_hamamatsu_vs_ketek.pdf, id=1017, 821.0675pt x 572.1375p
-t>
+<pictures/recovery_time_hamamatsu_vs_ketek.pdf, id=966, 821.0675pt x 572.1375pt
+>
 File: pictures/recovery_time_hamamatsu_vs_ketek.pdf Graphic file (type pdf)
  <use pictures/recovery_time_hamamatsu_vs_ketek.pdf>
 Package pdftex.def Info: pictures/recovery_time_hamamatsu_vs_ketek.pdf used on 
 input line 202.
-(pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
+(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
 
 Overfull \hbox (7.2499pt too wide) in paragraph at lines 200--207
 [][]\T2A/cmr/m/n/12 На рис. [] при-ве-де-ны фор-мы од-но-элек-трон-ных сиг-на-л
 ов для Hamamatsu S10362-
  []
 
-[22 <D:/git_repositories/PhD/paper_1/pictures/VD_hamamatsu_3d_1.pdf>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[23 <D:/git_repositories/PhD/paper_1/pictures/VD_hamamatsu_3d_2.pdf>]
-<pictures/tektronix_generator.pdf, id=1232, 821.0675pt x 572.1375pt>
+[18 <D:/git_repositories/PhD/paper_1/pictures/V_bd_Hamamatsu.pdf> <D:/git_repos
+itories/PhD/paper_1/pictures/install_tektronix.pdf>] [19 <D:/git_repositories/P
+hD/paper_1/pictures/hamamatsu_signal_295K_4_5OV.pdf> <D:/git_repositories/PhD/p
+aper_1/pictures/hamamatsu_signal_295K_4_5OV_amp.pdf>] [20 <D:/git_repositories/
+PhD/paper_1/pictures/revo_time_vs_temp_ham_4_5_OV.pdf> <D:/git_repositories/PhD
+/paper_1/pictures/recovery_time-ketec_11_4_5OV.pdf>]
+<pictures/tektronix_generator.pdf, id=1388, 821.0675pt x 572.1375pt>
 File: pictures/tektronix_generator.pdf Graphic file (type pdf)
 
 <use pictures/tektronix_generator.pdf>
 Package pdftex.def Info: pictures/tektronix_generator.pdf used on input line 25
 0.
-(pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
+(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[24 <D:/git_repositories/PhD/paper_1/pictures/V_bd_KETEK.pdf>]
+
 Overfull \hbox (2.43863pt too wide) in paragraph at lines 262--264
 [][]\T2A/cmr/m/n/12 Временное раз-ре-ше-ние ос-цил-ло-гра-фа пред-по-ла-га-ет-с
 я зна-чи-тель-но луч-шим, чем
  []
 
-<pictures/generator_amp_tektronix.pdf, id=1304, 821.0675pt x 572.1375pt>
+<pictures/generator_amp_tektronix.pdf, id=1389, 821.0675pt x 572.1375pt>
 File: pictures/generator_amp_tektronix.pdf Graphic file (type pdf)
 
 <use pictures/generator_amp_tektronix.pdf>
 Package pdftex.def Info: pictures/generator_amp_tektronix.pdf used on input lin
 e 269.
-(pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
+(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[25 <D:/git_repositories/PhD/paper_1/pictures/V_bd_Hamamatsu.pdf>] [26 <D:/git_
-repositories/PhD/paper_1/pictures/install_tektronix.pdf>]
+[21 <D:/git_repositories/PhD/paper_1/pictures/recovery_time_ketec_11_265K.pdf>]
+[22 <D:/git_repositories/PhD/paper_1/pictures/recovery_time_hamamatsu_vs_ketek.
+pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 306--306
 [][]\T2A/cmr/m/n/12 Параметр /
  []
@@ -920,84 +866,65 @@ Overfull \hbox (45.77357pt too wide) in paragraph at lines 304--321
  [][] 
  []
 
-[27 <D:/git_repositories/PhD/paper_1/pictures/hamamatsu_signal_295K_4_5OV.pdf>]
-[28 <D:/git_repositories/PhD/paper_1/pictures/hamamatsu_signal_295K_4_5OV_amp.p
-df>] [29 <D:/git_repositories/PhD/paper_1/pictures/revo_time_vs_temp_ham_4_5_OV
-.pdf>]
-<pictures/Hamamatsu_S10362-11-100C_295K_1OV_amp_th.pdf, id=1654, 821.0675pt x 5
+[23 <D:/git_repositories/PhD/paper_1/pictures/tektronix_generator.pdf> <D:/git_
+repositories/PhD/paper_1/pictures/generator_amp_tektronix.pdf>] [24]
+<pictures/Hamamatsu_S10362-11-100C_295K_1OV_amp_th.pdf, id=1704, 821.0675pt x 5
 72.1375pt>
 File: pictures/Hamamatsu_S10362-11-100C_295K_1OV_amp_th.pdf Graphic file (type 
 pdf)
  <use pictures/Hamamatsu_S10362-11-100C_295K_1OV_amp_th.pdf>
 Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_295K_1OV_amp_th.pdf 
 used on input line 366.
-(pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[30 <D:/git_repositories/PhD/paper_1/pictures/recovery_time-ketec_11_4_5OV.pdf>
-]
-<pictures/Hamamatsu_S10362-11-100C_295K_1OV_der_th.pdf, id=1736, 821.0675pt x 5
+(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
+ [25 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_295K_1O
+V_amp_th.pdf>]
+<pictures/Hamamatsu_S10362-11-100C_295K_1OV_der_th.pdf, id=1802, 821.0675pt x 5
 72.1375pt>
 File: pictures/Hamamatsu_S10362-11-100C_295K_1OV_der_th.pdf Graphic file (type 
 pdf)
  <use pictures/Hamamatsu_S10362-11-100C_295K_1OV_der_th.pdf>
 Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_295K_1OV_der_th.pdf 
 used on input line 384.
-(pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[31 <D:/git_repositories/PhD/paper_1/pictures/recovery_time_ketec_11_265K.pdf>]
-[32 <D:/git_repositories/PhD/paper_1/pictures/recovery_time_hamamatsu_vs_ketek.
-pdf>]
-<pictures/Hamamatsu_S10362-11-100C_303K_70V_dt_example.pdf, id=1926, 821.0675pt
+(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
+ [26 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_295K_1O
+V_der_th.pdf>]
+<pictures/Hamamatsu_S10362-11-100C_303K_70V_dt_example.pdf, id=1895, 821.0675pt
  x 572.1375pt>
 File: pictures/Hamamatsu_S10362-11-100C_303K_70V_dt_example.pdf Graphic file (t
 ype pdf)
  <use pictures/Hamamatsu_S10362-11-100C_303K_70V_dt_example.pdf>
 Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_303K_70V_dt_example.
-pdf used on input line 422.
-(pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
+pdf used on input line 418.
+(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Overfull \hbox (0.96982pt too wide) in paragraph at lines 434--438
+Overfull \hbox (0.96982pt too wide) in paragraph at lines 430--434
 [][]\T2A/cmr/m/n/12 В дру-гом пре-дель-ном слу-чае при ис-поль-зо-ва-нии за-ни-
 жен-но-го по-ро-га по $\OML/cmm/m/it/12 []=Dof$
  []
 
-[33 <D:/git_repositories/PhD/paper_1/pictures/tektronix_generator.pdf>]
-[34 <D:/git_repositories/PhD/paper_1/pictures/generator_amp_tektronix.pdf>]
-<pictures/Hamamatsu_S10362-11-100C_303K_70V_Chi2_amp_1.pdf, id=2053, 821.0675pt
+[27 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_303K_70V
+_dt_example.pdf>]
+<pictures/Hamamatsu_S10362-11-100C_303K_70V_Chi2_amp_1.pdf, id=1978, 821.0675pt
  x 572.1375pt>
 File: pictures/Hamamatsu_S10362-11-100C_303K_70V_Chi2_amp_1.pdf Graphic file (t
 ype pdf)
  <use pictures/Hamamatsu_S10362-11-100C_303K_70V_Chi2_amp_1.pdf>
 Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_303K_70V_Chi2_amp_1.
-pdf used on input line 447.
-(pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
+pdf used on input line 443.
+(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-<pictures/Hamamatsu_S10362-11-100C_295K_1_OV_Chi2_amp1_amp2.pdf, id=2054, 821.0
+<pictures/Hamamatsu_S10362-11-100C_295K_1_OV_Chi2_amp1_amp2.pdf, id=1979, 821.0
 675pt x 572.1375pt>
 File: pictures/Hamamatsu_S10362-11-100C_295K_1_OV_Chi2_amp1_amp2.pdf Graphic fi
 le (type pdf)
 
 <use pictures/Hamamatsu_S10362-11-100C_295K_1_OV_Chi2_amp1_amp2.pdf>
 Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_295K_1_OV_Chi2_amp1_
-amp2.pdf used on input line 459.
-(pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
+amp2.pdf used on input line 455.
+(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
 
-Underfull \hbox (badness 2318) in paragraph at lines 461--461
-[][]\T2A/cmr/m/n/12 Рис. 30. Кор-ре-ля-ция ам-пли-ту-да - $\OML/cmm/m/it/12 []
+Underfull \hbox (badness 2318) in paragraph at lines 457--457
+[][]\T2A/cmr/m/n/12 Рис. 26. Кор-ре-ля-ция ам-пли-ту-да - $\OML/cmm/m/it/12 []
 =Dof$ \T2A/cmr/m/n/12 при ап-прок-си-ма-ции мно-же-ства
  []
 
@@ -1005,126 +932,66 @@ Underfull \hbox (badness 2318) in paragraph at lines 461--461
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<pictures/Hamamatsu_S10362-11-100C_295K_1_OV_amp1_amp2_dt_A2.pdf, id=2055, 821.
+<pictures/Hamamatsu_S10362-11-100C_295K_1_OV_amp1_amp2_dt_A2.pdf, id=1980, 821.
 0675pt x 572.1375pt>
 File: pictures/Hamamatsu_S10362-11-100C_295K_1_OV_amp1_amp2_dt_A2.pdf Graphic f
 ile (type pdf)
 
 <use pictures/Hamamatsu_S10362-11-100C_295K_1_OV_amp1_amp2_dt_A2.pdf>
 Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_295K_1_OV_amp1_amp2_
-dt_A2.pdf used on input line 469.
-(pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
+dt_A2.pdf used on input line 465.
+(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-<pictures/Hamamatsu_S10362-11-100C_295K_1_OV_amp1_amp2_dt_B2.pdf, id=2056, 821.
+[28 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_303K_70V
+_Chi2_amp_1.pdf>]
+<pictures/Hamamatsu_S10362-11-100C_295K_1_OV_amp1_amp2_dt_B2.pdf, id=2043, 821.
 0675pt x 572.1375pt>
 File: pictures/Hamamatsu_S10362-11-100C_295K_1_OV_amp1_amp2_dt_B2.pdf Graphic f
 ile (type pdf)
 
 <use pictures/Hamamatsu_S10362-11-100C_295K_1_OV_amp1_amp2_dt_B2.pdf>
 Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_295K_1_OV_amp1_amp2_
-dt_B2.pdf used on input line 484.
-(pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
+dt_B2.pdf used on input line 480.
+(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[35 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_295K_1OV
-_amp_th.pdf>] [36 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11
--100C_295K_1OV_der_th.pdf>] [37 <D:/git_repositories/PhD/paper_1/pictures/Hamam
-atsu_S10362-11-100C_303K_70V_dt_example.pdf>]
-
-LaTeX Warning: Reference `Hamamatsu_S10362-11-100C_295K_1_OV_dt_spectrum' on pa
-ge 38 undefined on input line 519.
-
-
-<pictures/Hamamatsu_S10362-11-100C_295K_1_OV_dt_spectrum.pdf, id=2328, 569.1262
+[29 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_295K_1_O
+V_Chi2_amp1_amp2.pdf> <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S1036
+2-11-100C_295K_1_OV_amp1_amp2_dt_A2.pdf>] [30 <D:/git_repositories/PhD/paper_1/
+pictures/Hamamatsu_S10362-11-100C_295K_1_OV_amp1_amp2_dt_B2.pdf>]
+<pictures/Hamamatsu_S10362-11-100C_295K_1_OV_dt_spectrum.pdf, id=2271, 569.1262
 5pt x 385.44pt>
 File: pictures/Hamamatsu_S10362-11-100C_295K_1_OV_dt_spectrum.pdf Graphic file 
 (type pdf)
 
 <use pictures/Hamamatsu_S10362-11-100C_295K_1_OV_dt_spectrum.pdf>
 Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_295K_1_OV_dt_spectru
-m.pdf used on input line 525.
-(pdftex.def)             Requested size: 441.01773pt x 298.68938pt.
+m.pdf used on input line 521.
+(pdftex.def)             Requested size: 227.62204pt x 154.15562pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[38 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_303K_70V
-_Chi2_amp_1.pdf>]
-<pictures/Hamamatsu_S10362-11-100C_295K_1_OV_dt_spectrum_timecut.pdf, id=2391, 
+<pictures/Hamamatsu_S10362-11-100C_295K_1_OV_dt_spectrum_timecut.pdf, id=2272, 
 821.0675pt x 572.1375pt>
 File: pictures/Hamamatsu_S10362-11-100C_295K_1_OV_dt_spectrum_timecut.pdf Graph
 ic file (type pdf)
 
 <use pictures/Hamamatsu_S10362-11-100C_295K_1_OV_dt_spectrum_timecut.pdf>
 Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_295K_1_OV_dt_spectru
-m_timecut.pdf used on input line 542.
-(pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
+m_timecut.pdf used on input line 538.
+(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
 
+[31 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_295K_1_O
+V_dt_spectrum.pdf, page is rotated 90 degrees>] [32 <D:/git_repositories/PhD/pa
+per_1/pictures/Hamamatsu_S10362-11-100C_295K_1_OV_dt_spectrum_timecut.pdf>]
+[33]
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: Reference `' on page 34 undefined on input line 614.
 
-[39 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_295K_1_O
-V_Chi2_amp1_amp2.pdf>]
-<pictures/dark_current_rate_ham_33_25C_295K_73V.pdf, id=2450, 821.0675pt x 572.
-1375pt>
-File: pictures/dark_current_rate_ham_33_25C_295K_73V.pdf Graphic file (type pdf
-)
- <use pictures/dark_current_rate_ham_33_25C_295K_73V.pdf>
-Package pdftex.def Info: pictures/dark_current_rate_ham_33_25C_295K_73V.pdf use
-d on input line 566.
-(pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[40 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_295K_1_O
-V_amp1_amp2_dt_A2.pdf>]
-<pictures/dark_current_rate_ham_33_25C_Hz_vs_temperature.pdf, id=2537, 821.0675
-pt x 572.1375pt>
-File: pictures/dark_current_rate_ham_33_25C_Hz_vs_temperature.pdf Graphic file 
-(type pdf)
-
-<use pictures/dark_current_rate_ham_33_25C_Hz_vs_temperature.pdf>
-Package pdftex.def Info: pictures/dark_current_rate_ham_33_25C_Hz_vs_temperatur
-e.pdf used on input line 588.
-(pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
-
-Underfull \hbox (badness 6001) in paragraph at lines 590--590
-[][]\T2A/cmr/m/n/12 Рис. 36. Ча-сто-та тем-но-вых то-ков в за-ви-си-мо-сти от т
-ем-пе-ра-ту-ры для
- []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[41 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_295K_1_O
-V_amp1_amp2_dt_B2.pdf>] [42 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu
-_S10362-11-100C_295K_1_OV_dt_spectrum.pdf, page is rotated 90 degrees>]
-<pictures/dark_current_rate_ham_33_25C_Hz_vs_overvoltage.pdf, id=2670, 821.0675
-pt x 572.1375pt>
-File: pictures/dark_current_rate_ham_33_25C_Hz_vs_overvoltage.pdf Graphic file 
-(type pdf)
-
-<use pictures/dark_current_rate_ham_33_25C_Hz_vs_overvoltage.pdf>
-Package pdftex.def Info: pictures/dark_current_rate_ham_33_25C_Hz_vs_overvoltag
-e.pdf used on input line 624.
-(pdftex.def)             Requested size: 441.01773pt x 307.30838pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[43 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_295K_1_O
-V_dt_spectrum_timecut.pdf>] [44 <D:/git_repositories/PhD/paper_1/pictures/dark_
-current_rate_ham_33_25C_295K_73V.pdf>]) [45 <D:/git_repositories/PhD/paper_1/pi
-ctures/dark_current_rate_ham_33_25C_Hz_vs_temperature.pdf>] [46 <D:/git_reposit
-ories/PhD/paper_1/pictures/dark_current_rate_ham_33_25C_Hz_vs_overvoltage.pdf>]
-(D:\git_repositories\PhD\paper_1\bibliography.tex
+) [34] (D:\git_repositories\PhD\paper_1\bibliography.tex
 Underfull \hbox (badness 10000) in paragraph at lines 9--10
 [][]\T2A/cmr/m/n/12 TOWARD A USER`S TOOLKIT FOR MODELING SCINTILLATOR
  []
@@ -1135,7 +1002,7 @@ Underfull \hbox (badness 1708) in paragraph at lines 20--22
 k Eckert, Hans-
  []
 
-) [47
+) [35
 
 
 ] (D:\git_repositories\PhD\paper_1\main.aux
@@ -1150,10 +1017,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4910 strings out of 493921
- 71024 string characters out of 3150556
- 134871 words of memory out of 3000000
- 7976 multiletter control sequences out of 15000+200000
+ 4859 strings out of 493921
+ 68965 string characters out of 3150556
+ 134757 words of memory out of 3000000
+ 7932 multiletter control sequences out of 15000+200000
  19913 words of font info for 51 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  28i,12n,28p,472b,279s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1173,9 +1040,9 @@ TeX/texmf/fonts/type1/public/cm-super/sfbx2488.pfb><D:/LaTex/Full_TeX/texmf/fon
 ts/type1/public/cm-super/sfrm0800.pfb><D:/LaTex/Full_TeX/texmf/fonts/type1/publ
 ic/cm-super/sfrm1200.pfb><D:/LaTex/Full_TeX/texmf/fonts/type1/public/cm-super/s
 fti1200.pfb>
-Output written on main.pdf (47 pages, 7693924 bytes).
+Output written on main.pdf (35 pages, 6666264 bytes).
 PDF statistics:
- 3079 PDF objects out of 3580 (max. 8388607)
+ 2464 PDF objects out of 2487 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 206 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 171 words of extra memory for PDF output out of 10000 (max. 10000000)
 
