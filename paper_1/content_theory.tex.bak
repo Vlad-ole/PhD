@@ -116,7 +116,7 @@ $$ Var \left[ \sum \limits_{i=0}^{N} X_{i} \right] = Var[N] \cdot ( E[X] )^2 + V
 т.к. они пренебрежимо малы относительно собственного энергетического разрешения сцинтиллятора и флуктуаций, связанных с неэффективностью детектора.
 
 \begin{figure}[h]
-\center{\includegraphics[width=1\linewidth]{YAP_Ce_PMT_simple_case}}
+\center{\includegraphics[width=8cm]{YAP_Ce_PMT_simple_case}}
 \caption{Энергетическое разрешение детектора на основе YAP:Ce и ФЭУ с квантовой эффективностью 28\%. Светосбор равен 50\%.}
 \label{image:YAP_Ce_PMT_simple_case}
 \end{figure}
@@ -160,7 +160,7 @@ $$ N_e^{DC} = \sum \limits_{i=0}^{N_{p.e.}^{DC}} G_{i}, $$
 На рис.~\ref{image:ER_noise} изображена зависимость энергетического разрешения детектора на основе ФЭУ и сцинтиллятора YAP:Ce от величины темновых токов.
 
 \begin{figure}[h]
-\center{\includegraphics[width=1\linewidth]{ER_noise}}
+\center{\includegraphics[width=8cm]{ER_noise}}
 \caption{Энергетическое разрешение детектора на основе YAP:Ce и ФЭУ с квантовой эффективностью 28\%.
  Светосбор равен 50\%. Различные графики соответствуют различным значениям зарегистрированных темновых токов.}
 \label{image:ER_noise}
@@ -213,7 +213,7 @@ $$ N_e^{DC} = \sum \limits_{i=0}^{N_{p.e.}^{DC}} G_{i}, $$
 На Рис.~\ref{x-talk:image} показана зависимость среднего числа регистрируемых ячеек в зависимости от величины кросстока.
 
 \begin{figure}[h]
-\center{\includegraphics[width=1\linewidth]{x-talk}}
+\center{\includegraphics[width=8cm]{x-talk}}
 \caption{Зависимость среднего числа регистрируемых ячеек в зависимости от величины кросстока.}
 \label{x-talk:image}
 \end{figure}
@@ -244,7 +244,7 @@ $$Var[N_{p.e.}^{DC}] = Var[N^{DC}] \cdot \left( E[n_{p.e.}^{DC}] \right)^2 + Var
 На рис.~\ref{ER_x-talk:image} представлена зависимость энергетического разрешения от энергии фотона при различных значениях кросстока.
 
 \begin{figure}[h]
-\center{\includegraphics[width=1\linewidth]{ER_x-talk}}
+\center{\includegraphics[width=8cm]{ER_x-talk}}
 \caption{Энергетическое разрешение детектора на основе YAP:Ce и SiPM с квантовой эффективностью 28\%.
 Светосбор равен 50\%. Различные графики соответствуют различным значениям вероятности кросстока.
 Темновые токи отсутствуют.}
@@ -276,94 +276,6 @@ f(\Delta t) = \frac{1}{\tau} \cdot \exp(-\Delta t / \tau),
 В реальности каждый из этих процессов может приводить к срабатыванию ячейки.
 
 \subsubsection{Распределение временных интервалов}
-Выведем плотность вероятности для временных интервалов $\Delta t$, если в ячейке могут происходить послеимпульсы или темновые импульсы.
-Предположим, что на каждый первичный импульс будет образовываться в среднем $\lambda$ послеимпульсов, причем число послеимпульсов имеет распределение Пуассона.
-Также выберем только те сигналы, которые имеют заряд, не превосходящий заряда, собираемого с одной ячейки.
-Это условие будет гарантировать, что сигнал послеимпульсов с SiPM обусловлен послеимпульсами лишь с одной ячейки.
-
-Введем следующее обозначение: $P_{j}(t, t + \delta t)$ - вероятность того, что в интервале от $t$ до $t + \delta t$ произошел один импульс, вызванный процессом $j$,
-а в интервале от $0$ до $t$ импульсов этого процесса не было.
-Процессы обозначим следующим образом: $DC$ - темновой импульс, $fast$ - послеимпульс с быстрой компонентой, $slow$ - послеимпульс с медленной компонентой.
-
-Тогда вероятность того, что в интервале от $t$ до $t + \delta t$ произошел лишь один импульс, а в интервале от $0$ до $t$ импульсов не наблюдалось есть
-\begin{eqnarray}\label{eq:P(total)_afterpulsing}
-P(t) = P_{DC}(t, t + \delta t) \cdot P_{fast}(t + \delta t, \infty) \cdot P_{slow}(t + \delta t, \infty) + \\ \nonumber
-P_{fast}(t, t + \delta t) \cdot P_{DC}(t + \delta t, \infty) \cdot P_{slow}(t + \delta t, \infty) + \\ \nonumber
-P_{slow}(t, t + \delta t) \cdot P_{DC}(t + \delta t, \infty) \cdot P_{fast}(t + \delta t, \infty) +
-\end{eqnarray}
-
-Найдем теперь вероятности каждого из процессов.
-Во-первых, найдем вероятность процесса $P_{fast}(t, t + \delta t)$.
-Число послеимпульсов на один первоначальный импульс может изменяться от $0$ до $\infty$.
-Если число послеимпульсов равно $0$, то вероятность нахождения одного импульса в интервале от $t$ до $t + \delta t$ тоже равна нулю.
-Если число послеимпульсов равно $1$, то вероятность нахождения одного импульса в интервале от $t$ до $t + \delta t$ есть
-произведение вероятности иметь один послеимпульс на вероятность его нахождения в интервале от $t$ до $t + \delta t$  (\ref{eq:f(dt)_afterpulsing}).
-Если число послеимпульсов рано двум, то искомая вероятность есть произведение вероятности иметь два послеимпульса на вероятность первому послеимпульсу произойти
-в интервале от $t$ до $t + \delta t$ умноженное на вероятность не произойти второму послеимпульсу в интервале от $0$ до $t$ плюс аналогичный член.
-В итоге получим следующую сумму:
-\begin{eqnarray}\label{eq:P(fast)_detail_afterpulsing}
-P_{fast}(t, t + \delta t) = \frac{\sum \limits_{i = 1}^{\infty} P\{\text{число послеимпульсов = } i\} \cdot i \cdot P_{exp}(t, t + \delta t) \cdot P_{exp}(t + \delta t, \infty)^{i-1}}
-{ P\{\text{есть хоть один послеимпульс } \}  }
-\end{eqnarray}
-$P_{exp}(t, t + \delta t) = \frac{1}{\tau} \cdot \exp(-t / \tau)$ - вероятность нахождения импульса в интервале от $t$ до $t + \delta t$ для экспоненциально распределения.
-Полученное выражение делится на вероятность иметь хоть один послеимпульс.
-Обращаем внимание, что в статье \cite{After-pulsingandcross-talkinmulti-pixelphotoncounters} в аналогичной формуле нет нормировки на вероятность иметь хоть один послеимпульс.
-В этом случае интеграл от $0$ до $\infty$ плотности вероятности временных интервалов не равен единице, что не верно.
-
-Подставив в (\ref{eq:P(fast)_detail_afterpulsing}) вероятности для Пуассоновского и экспоненциального распределения получим:
-\begin{eqnarray}\label{eq:P(fast)_afterpulsing}
-P_{fast}(t, t + \delta t) = \frac{ \sum \limits_{i = 1}^{\infty} \frac{\lambda^{i}}{i!} \cdot e^{-\lambda} \cdot \frac{i}{\tau} \cdot \exp[-i \cdot t / \tau] } {\sum \limits_{i = 1}^{\infty} \frac{\lambda^{i}}{i!} \cdot e^{-\lambda}} = \\ \nonumber
-\frac{e^{-\lambda}}{1 - e^{-\lambda}} \cdot \frac{\lambda}{\tau} \cdot e^{- t / \tau} \cdot \exp[\lambda \cdot e^{- t / \tau}]
-\end{eqnarray}
-
-Также в дальнейших расчетах понадобится вероятность $P_{fast}(t, \infty)$:
-\begin{eqnarray}\label{eq:P(fast)_integral_afterpulsing}
-P_{fast}(t, \infty) = \int \limits_{t}^{\infty} P_{fast}(x, x + \delta x) dx = e^{-\lambda} \cdot \frac{\exp[\lambda \cdot e^{-t / \tau}] - 1}{1 - e^{-\lambda}}
-\end{eqnarray}
-
-Плотность вероятности для медленной компоненты получается аналогично.
-На рис.~\ref{image:probability_dt} и рис.~\ref{image:probability_dt_fast_tau} изображена плотность вероятности (\ref{eq:P(fast)_afterpulsing}) при различных параметрах $\lambda$ и $\tau$.
-
-\begin{figure}[h]
-\center{\includegraphics[width=1\linewidth]{probability_dt}}
-\caption{Плотность вероятности временных интервалов (\ref{eq:P(fast)_afterpulsing}) для послеимпульсов при различных значениях среднего числа послеимпульсов на импульс $\lambda$}
-\label{image:probability_dt}
-\end{figure}
-
-\begin{figure}[h]
-\center{\includegraphics[width=1\linewidth]{probability_dt_fast_tau}}
-\caption{Плотность вероятности временных интервалов (\ref{eq:P(fast)_afterpulsing}) для послеимпульсов при различных средних временах послеимпульсов.}
-\label{image:probability_dt_fast_tau}
-\end{figure}
-
-Для темновых токов вероятность того, что от $0$ до $t$ не было импульсов, а в интервал от $t$ до $t + \delta t$ попал один импульс $P_{DC}(t, t + \delta t)$ определяется
-пуассоновским распределением:
-\begin{eqnarray}\label{eq:P(dc)_afterpulsing}
-P_{DC}(t, t + \delta t) = \nu_{DC} \cdot e^{-\nu_{DC} \cdot t }, \text{где } \nu_{DC} - \text{ частота темновых токов}.
-\end{eqnarray}
-
-Тогда вероятность того, что в интервале от $0$ до $t$ не было импульсов есть:
-\begin{eqnarray}\label{eq:P(dc)_afterpulsing}
-P_{DC}(t, \infty) = \int \limits_{t}^{\infty} P_{DC}(x, x + \delta x) dx = e^{-\nu_{DC} \cdot t }
-\end{eqnarray}
-
-На рис.~\ref{image:probability_dc_fast_dt} приведена плотность вероятности временных интервалов при учете темновых токов и быстрых послеимпульсов при различных частотах темновых токов,
-а на рис.~\ref{image:probability_dc_fast_dt__lam} - аналогичный график при различном числе послеимпульсов на импульс $\lambda$.
-
-
-\begin{figure}[h]
-\center{\includegraphics[width=1\linewidth]{probability_dc_fast_dt}}
-\caption{Плотность вероятности временных интервалов (\ref{eq:P(total)_afterpulsing}) при учете темновых токов и быстрых послеимпульсов при различных частотах темновых токов.}
-\label{image:probability_dc_fast_dt}
-\end{figure}
-
-\begin{figure}[h]
-\center{\includegraphics[width=1\linewidth]{probability_dc_fast_dt__lam}}
-\caption{Плотность вероятности временных интервалов (\ref{eq:P(total)_afterpulsing}) при учете темновых токов и быстрых послеимпульсов при различном числе послеимпульсов на импульс $\lambda$.}
-\label{image:probability_dc_fast_dt__lam}
-\end{figure}
-
-\subsubsection{Распределение временных интервалов (версия 2)}
 
 Поскольку мы интересуемся плотностью временных интервалов, то необходимо узнать вероятность $P(t)$ того, что на участке от $0$ до $t$ не должно быть импульсов, а на участке от $t$ до $t + \delta t$ должен произойти один импульс.
 
@@ -394,7 +306,7 @@ P\{\text{нет темнового импульса от $0$ до $t + \delta t$} \} = e^{- \nu_{dc} \cd
 f(t) = p \cdot (\nu + \nu_{dc}) \cdot e^{-(\nu + \nu_{dc}) \cdot t} + (1 - p) \cdot \nu_{dc} \cdot e^{-\nu_{dc} \cdot t}
 \end{eqnarray}
 
-Стоит отметить, что аналогичная формула приведена в \cite{Using MPPCs for T2K Fine Grain Detector} страница 8, однако допущена ошибка в знаке между слагаемыми.
+Стоит отметить, что аналогичная формула приведена в \cite{Using MPPCs for T2K Fine Grain Detector}, страница 8, однако допущена ошибка в знаке между слагаемыми.
 
 В итоге при учете быстрых и медленных послеимпульсов и темновых токов плотность вероятности распределения временных интервалов запишется следующим образом:
 \begin{eqnarray}\label{eq:dt_probability_fast_slow}
@@ -442,21 +354,76 @@ g(\xi) = \alpha \cdot (1 - \xi)^{\alpha - 1}, \text{где }  \alpha = \tau_{rec} /
 Плотность вероятности добавочного заряда приведена на рис.~\ref{image:amp_probability_one_pixel}.
 
 \begin{figure}[h]
-\center{\includegraphics[width=1\linewidth]{amp_probability_one_pixel}}
+\center{\includegraphics[width=8cm]{amp_probability_one_pixel}}
 \caption{Плотность вероятности добавочного заряда послеимпульса}
 \label{image:amp_probability_one_pixel}
 \end{figure}
 
-Если считать, что ячейка может сработать как от послеимпульсов с быстрой компонентой, так и с медленной, то формула (\ref{eq:g(xi)_afterpulsing})
+Если учесть, что послеимпульсы происходят с некоторой вероятностью $p$, то плотность распределения можно представить в виде:
+\begin{eqnarray}\label{eq:g(xi)_afterpulsing_4}
+g(\xi) = p \cdot \alpha \cdot (1 - \xi)^{\alpha - 1} + (1 - p) \cdot \delta(\xi - 1)
+\end{eqnarray}
+
+Если считать, что ячейка может сработать как от послеимпульсов с быстрой компонентой, так и с медленной, то формула (\ref{eq:g(xi)_afterpulsing_4})
 запишется следующим образом:
 \begin{eqnarray}\label{eq:g(xi)_afterpulsing_3}
-g(\xi) = A_{s} \cdot \alpha_{s} \cdot (1 - \xi)^{\alpha_{s} - 1} + (1 - A_{s}) \cdot \alpha_{f} \cdot (1 - \xi)^{\alpha_{f} - 1}
-,\text{где } \alpha_{s} = \tau_{rec} / \tau_{s}, \alpha_{f} = \tau_{rec} / \tau_{f}
+g(\xi) = p_{s} \cdot \alpha_{s} \cdot (1 - \xi)^{\alpha_{s} - 1} + p_{f} \cdot \alpha_{f} \cdot (1 - \xi)^{\alpha_{f} - 1} + (1 - p_{s} - p_{f}) \cdot \delta(\xi - 1), \\ \nonumber
+\text{где } \alpha_{s} = \tau_{rec} / \tau_{s}, \alpha_{f} = \tau_{rec} / \tau_{f}
+\end{eqnarray}
+
+Наконец, чтобы учесть неидеальность детектора необходимо свернуть полученное распределение (\ref{eq:g(xi)_afterpulsing_3}) с гауссовым распределением:
+\begin{eqnarray}\label{eq:g(xi)_afterpulsing_final}
+G_{tot}(\xi) = g(\xi) * Gauss(\sigma) \cdot E[G]
+\end{eqnarray}
+Параметр $\sigma$ характеризует ширину распределения при отсутствии послеимпульсов, а величина $E[G]$ - усиление SiPM.
+
+Данный интеграл не берется в аналитических функциях, но мы найдем его приближенное значение.
+Мы предполагаем, что влиянием свертки на функцию (\ref{eq:g(xi)_afterpulsing_3}) при определении среднего и дисперсии можно пренебречь.
+В этом приближении получим следующие выражения:
+\begin{eqnarray}\label{eq:g(xi)_afterpulsing_approx}
+E[G_{tot}] \approx E[G] \cdot [ (1 - p_{s} - p_{f}) + \frac{ p_{s} }{1 + \alpha_{s}} + \frac{ p_{f} }{1 + \alpha_{f}} ] \\
+Var[G_{tot}] \approx Var[G] \cdot (1 - p_{s} - p_{f}) + \\ \nonumber
+E[G] \cdot [p_{s} \cdot ( \alpha_{s} \cdot B(3, \alpha_{s}) - \frac{1}{1 + \alpha_{s}}) + p_{f} \cdot ( \alpha_{f} \cdot B(3, \alpha_{f}) - \frac{1}{1 + \alpha_{f}})]
 \end{eqnarray}
 
 
+\subsection{Избыточный фактор шума}
+Рассчитаем избыточный фактор шума $ENF$ для детектора.
+$ENF$ определяется как квадрат отношения значения сигнал / шум на входе ($SNR_{in}$) к значению сигнал / шум на выходе ($SNR_{out}$):
 
-Итого, если учитывать послеимпульсы, то необходимо в формуле для энергетического разрешения заменить величину $G$ на $G_{tot}$.
+\begin{eqnarray}\label{eq:ENF}
+ENF = SNR_{in}^2 / SNR_{out}^2
+\end{eqnarray}
+
+Значение $SNR_{in}^2$ определяется как отношение квадрата мат. ожидания числа зарегистрированных фотоэлектронов без учета кросстоков к дисперсии этого числа:
+\begin{eqnarray}\label{eq:SNR_in}
+SNR_{in}^2 = ( E[N_{p.e}^{no X-talk}] )^2 / Var[N_{p.e}^{no X-talk}]
+\end{eqnarray}
+
+Мы предполагаем, что число зарегистрированных фотоэлектронов $N_{p.e}^{no X-talk}$ имеет Пуассоновское распределение, поэтому $SNR_{in}^2 = N_{p.e}^{no X-talk}$
+
+Значение $SNR_{out}^2$ определяется аналогичным образом, где мат. ожидание и дисперсия вычисляются для числа зарегистрированных электронов:
+\begin{eqnarray}\label{eq:SNR_out}
+SNR_{out}^2 = ( E[N_{e}] )^2 / Var[N_{e}]
+\end{eqnarray}
+
+Величина $SNR_{out}^2$ связана с энергетическим разрешением следующим образом:
+\begin{eqnarray}\label{eq:SNR_E_esol_relation}
+SNR_{out}^2 = 1 / \frac{ Var[N_{e}] }{ (E[N_{e}] )^2 } = 1 / \frac{\delta E^2}{ \Delta^2 }
+\end{eqnarray}
+
+Таким образом, получим следующее выражение для $ENF$:
+\begin{eqnarray}\label{eq:ENF_var2}
+ENF = \frac{\delta E^2}{ \Delta^2 } \cdot E[N_{p.e}^{no X-talk}]
+\end{eqnarray}
+
+Для начала предположим, что SiPM не имеет шумов. Если подставим (\ref{eq:ener_resol_base}) в (\ref{eq:ENF_var2}), то получится следующее выражение для $ENF$:
+\begin{eqnarray}\label{eq:ENF_var2}
+ENF = 1 + \frac{Var[n_{p.e.}]}{(E[n_{p.e.}])^2} + \frac{ Var[G_{tot}] }{ (E[G_{tot}])^2 } \cdot \frac{1}{E[n_{p.e.}]}
+\end{eqnarray}
+
+$ENF$ позволяет учесть неидеальность детектора, связанную с кросстоками, послеимпульсами и флуктуациями усиления.
+Распределение величины $n_{p.e.}$ в данном случае рассматривается при 100\% квантовой эффективности.
 
 \subsection{Предельное энергетическое разрешение SiPM}
 Проанализировав основные факторы, влияющие на энергетическое разрешение SiPM, перед нами встает важный вопрос:

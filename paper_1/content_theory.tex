@@ -306,7 +306,7 @@ P\{\text{нет темнового импульса от $0$ до $t + \delta t$} \} = e^{- \nu_{dc} \cd
 f(t) = p \cdot (\nu + \nu_{dc}) \cdot e^{-(\nu + \nu_{dc}) \cdot t} + (1 - p) \cdot \nu_{dc} \cdot e^{-\nu_{dc} \cdot t}
 \end{eqnarray}
 
-Стоит отметить, что аналогичная формула приведена в \cite{Using MPPCs for T2K Fine Grain Detector} страница 8, однако допущена ошибка в знаке между слагаемыми.
+Стоит отметить, что аналогичная формула приведена в \cite{Using MPPCs for T2K Fine Grain Detector}, страница 8, однако допущена ошибка в знаке между слагаемыми.
 
 В итоге при учете быстрых и медленных послеимпульсов и темновых токов плотность вероятности распределения временных интервалов запишется следующим образом:
 \begin{eqnarray}\label{eq:dt_probability_fast_slow}
@@ -359,16 +359,73 @@ g(\xi) = \alpha \cdot (1 - \xi)^{\alpha - 1}, \text{где }  \alpha = \tau_{rec} /
 \label{image:amp_probability_one_pixel}
 \end{figure}
 
-Если считать, что ячейка может сработать как от послеимпульсов с быстрой компонентой, так и с медленной, то формула (\ref{eq:g(xi)_afterpulsing})
+Если учесть, что послеимпульсы происходят с некоторой вероятностью $p$, то плотность распределения можно представить в виде:
+\begin{eqnarray}\label{eq:g(xi)_afterpulsing_4}
+g(\xi) = p \cdot \alpha \cdot (1 - \xi)^{\alpha - 1} + (1 - p) \cdot \delta(\xi - 1)
+\end{eqnarray}
+
+Если считать, что ячейка может сработать как от послеимпульсов с быстрой компонентой, так и с медленной, то формула (\ref{eq:g(xi)_afterpulsing_4})
 запишется следующим образом:
 \begin{eqnarray}\label{eq:g(xi)_afterpulsing_3}
-g(\xi) = A_{s} \cdot \alpha_{s} \cdot (1 - \xi)^{\alpha_{s} - 1} + (1 - A_{s}) \cdot \alpha_{f} \cdot (1 - \xi)^{\alpha_{f} - 1}
-,\text{где } \alpha_{s} = \tau_{rec} / \tau_{s}, \alpha_{f} = \tau_{rec} / \tau_{f}
+g(\xi) = p_{s} \cdot \alpha_{s} \cdot (1 - \xi)^{\alpha_{s} - 1} + p_{f} \cdot \alpha_{f} \cdot (1 - \xi)^{\alpha_{f} - 1} + (1 - p_{s} - p_{f}) \cdot \delta(\xi - 1), \\ \nonumber
+\text{где } \alpha_{s} = \tau_{rec} / \tau_{s}, \alpha_{f} = \tau_{rec} / \tau_{f}
+\end{eqnarray}
+
+Наконец, чтобы учесть неидеальность детектора необходимо свернуть полученное распределение (\ref{eq:g(xi)_afterpulsing_3}) с гауссовым распределением:
+\begin{eqnarray}\label{eq:g(xi)_afterpulsing_final}
+G_{tot}(\xi) = g(\xi) * Gauss(\sigma) \cdot E[G]
+\end{eqnarray}
+Параметр $\sigma$ характеризует ширину распределения при отсутствии послеимпульсов, а величина $E[G]$ - усиление SiPM.
+
+Данный интеграл не берется в аналитических функциях, но мы найдем его приближенное значение.
+Мы предполагаем, что влиянием свертки на функцию (\ref{eq:g(xi)_afterpulsing_3}) при определении среднего и дисперсии можно пренебречь.
+В этом приближении получим следующие выражения:
+\begin{eqnarray}\label{eq:g(xi)_afterpulsing_approx}
+E[G_{tot}] \approx E[G] \cdot [ (1 - p_{s} - p_{f}) + \frac{ p_{s} }{1 + \alpha_{s}} + \frac{ p_{f} }{1 + \alpha_{f}} ] \\
+Var[G_{tot}] \approx Var[G] \cdot (1 - p_{s} - p_{f}) + \\ \nonumber
+E[G] \cdot [p_{s} \cdot ( \alpha_{s} \cdot B(3, \alpha_{s}) - \frac{1}{1 + \alpha_{s}}) + p_{f} \cdot ( \alpha_{f} \cdot B(3, \alpha_{f}) - \frac{1}{1 + \alpha_{f}})]
 \end{eqnarray}
 
 
+\subsection{Избыточный фактор шума}
+Рассчитаем избыточный фактор шума $ENF$ для детектора.
+$ENF$ определяется как квадрат отношения значения сигнал / шум на входе ($SNR_{in}$) к значению сигнал / шум на выходе ($SNR_{out}$):
 
-Итого, если учитывать послеимпульсы, то необходимо в формуле для энергетического разрешения заменить величину $G$ на $G_{tot}$.
+\begin{eqnarray}\label{eq:ENF}
+ENF = SNR_{in}^2 / SNR_{out}^2
+\end{eqnarray}
+
+Значение $SNR_{in}^2$ определяется как отношение квадрата мат. ожидания числа зарегистрированных фотоэлектронов без учета кросстоков к дисперсии этого числа:
+\begin{eqnarray}\label{eq:SNR_in}
+SNR_{in}^2 = ( E[N_{p.e}^{no X-talk}] )^2 / Var[N_{p.e}^{no X-talk}]
+\end{eqnarray}
+
+Мы предполагаем, что число зарегистрированных фотоэлектронов $N_{p.e}^{no X-talk}$ имеет Пуассоновское распределение, поэтому $SNR_{in}^2 = N_{p.e}^{no X-talk}$
+
+Значение $SNR_{out}^2$ определяется аналогичным образом, где мат. ожидание и дисперсия вычисляются для числа зарегистрированных электронов:
+\begin{eqnarray}\label{eq:SNR_out}
+SNR_{out}^2 = ( E[N_{e}] )^2 / Var[N_{e}]
+\end{eqnarray}
+
+Величина $SNR_{out}^2$ связана с энергетическим разрешением следующим образом:
+\begin{eqnarray}\label{eq:SNR_E_esol_relation}
+SNR_{out}^2 = 1 / \frac{ Var[N_{e}] }{ (E[N_{e}] )^2 } = 1 / \frac{\delta E^2}{ \Delta^2 }
+\end{eqnarray}
+
+Таким образом, получим следующее выражение для $ENF$:
+\begin{eqnarray}\label{eq:ENF_var2}
+ENF = \frac{\delta E^2}{ \Delta^2 } \cdot E[N_{p.e}^{no X-talk}]
+\end{eqnarray}
+
+Для начала предположим, что SiPM не имеет шумов. Если подставим (\ref{eq:ener_resol_base}) в (\ref{eq:ENF_var2}), то получится следующее выражение для $ENF$:
+\begin{eqnarray}\label{eq:ENF_var2}
+ENF = 1 + \frac{Var[n_{p.e.}]}{(E[n_{p.e.}])^2} + \frac{ Var[G_{tot}] }{ (E[G_{tot}])^2 } \cdot \frac{1}{E[n_{p.e.}]}
+\end{eqnarray}
+
+$ENF$ позволяет учесть неидеальность детектора, связанную с кросстоками, послеимпульсами и флуктуациями усиления.
+Распределение величины $n_{p.e.}$ в данном случае рассматривается при 100\% квантовой эффективности.
+
+В случае наличия шума 
 
 \subsection{Предельное энергетическое разрешение SiPM}
 Проанализировав основные факторы, влияющие на энергетическое разрешение SiPM, перед нами встает важный вопрос:

@@ -20,10 +20,10 @@
 \usepackage{indentfirst}
 \usepackage{verbatim}
 \usepackage{layout}
-\usepackage{miller}-
+\usepackage{miller}
 \usepackage[numbers,square,comma,sort&compress]{natbib}
 \usepackage{url}
-\usepackage{multicol}
+\usepackage{multicol}-
 
 \usepackage{rotating}
 \usepackage{lscape}
