@@ -183,7 +183,10 @@ $$ N_e^{DC} = \sum \limits_{i=0}^{N_{p.e.}^{DC}} G_{i}, $$
 В дальнейшем удобно будет ввести величину $q = 1 - p$.
 Таким образом, зная квантовую эффективность $\varepsilon$ и вероятность кросстока $p$, получим следующую плотность вероятности в модели 4-х соседей.
 
-
+\begin{table}[h]
+\caption{Плотность вероятности $n_{p.e.}$ в модели 4-х соседей}
+\label{table:n_p.e.}
+\begin{center}
 \begin{tabular}{|c|c|}
   \hline
   суммарное число сработавших ячеек& плотность вероятности $n_{p.e.}$ \\
@@ -202,8 +205,9 @@ $$ N_e^{DC} = \sum \limits_{i=0}^{N_{p.e.}^{DC}} G_{i}, $$
   \hline
   $N > 5$ & $\simeq\varepsilon \cdot P(5) \left[ 1 - \frac{P(5)}{1 - \sum \limits_{k=1}^{4} P(k) } \right]^{N - 5}$ \\
   \hline
-
 \end{tabular}
+\end{center}
+\end{table}
 
 На Рис.~\ref{x-talk:image} показана зависимость среднего числа регистрируемых ячеек в зависимости от величины кросстока.
 
@@ -371,16 +375,12 @@ g(\xi) = p_{s} \cdot \alpha_{s} \cdot (1 - \xi)^{\alpha_{s} - 1} + p_{f} \cdot \
 G_{tot}(\xi) = g(\xi) * Gauss(\sigma) \cdot E[G]
 \end{eqnarray}
 Параметр $\sigma$ характеризует ширину распределения при отсутствии послеимпульсов, а величина $E[G]$ - усиление SiPM.
-
-Данный интеграл не берется в аналитических функциях, но мы найдем его приближенное значение.
-Мы предполагаем, что влиянием свертки на функцию (\ref{eq:g(xi)_afterpulsing_3}) при определении среднего и дисперсии можно пренебречь.
-В этом приближении получим следующие выражения:
-\begin{eqnarray}\label{eq:g(xi)_afterpulsing_approx}
-E[G_{tot}] \approx E[G] \cdot [ (1 - p_{s} - p_{f}) + \frac{ p_{s} }{1 + \alpha_{s}} + \frac{ p_{f} }{1 + \alpha_{f}} ] \\
-Var[G_{tot}] \approx Var[G] \cdot (1 - p_{s} - p_{f}) + \\ \nonumber
-E[G] \cdot [p_{s} \cdot ( \alpha_{s} \cdot B(3, \alpha_{s}) - \frac{1}{1 + \alpha_{s}}) + p_{f} \cdot ( \alpha_{f} \cdot B(3, \alpha_{f}) - \frac{1}{1 + \alpha_{f}})]
+Данный интеграл не берется в аналитических функциях, поэтому мы посчитаем мат. ожидание и дисперсию в предположении, что нет флуктуаций усиления:
+\begin{eqnarray}\label{eq:G_tot_ENF_approx}
+\frac{ Var[G_{tot}] }{ (E[G_{tot}])^2 } = \frac{ Var[\xi] }{ (E[\xi])^2 } = \frac{ E[\xi^2] - (E[\xi])^2 }{ (E[\xi])^2 }\text{, где} \\
+E[\xi] = (1 - p_s - p_f) + \frac{p_s}{1 + \alpha_s} + \frac{p_f}{1 + \alpha_f} \\
+E[\xi^2] = (1 - p_s - p_f) + p_s \cdot \alpha_s \cdot B(3, \alpha_s) + p_f \cdot \alpha_f \cdot B(3, \alpha_f)
 \end{eqnarray}
-
 
 \subsection{Избыточный фактор шума}
 Рассчитаем избыточный фактор шума $ENF$ для детектора.

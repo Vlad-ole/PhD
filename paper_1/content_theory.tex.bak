@@ -183,7 +183,10 @@ $$ N_e^{DC} = \sum \limits_{i=0}^{N_{p.e.}^{DC}} G_{i}, $$
 В дальнейшем удобно будет ввести величину $q = 1 - p$.
 Таким образом, зная квантовую эффективность $\varepsilon$ и вероятность кросстока $p$, получим следующую плотность вероятности в модели 4-х соседей.
 
-
+\begin{table}[h]
+\caption{Плотность вероятности $n_{p.e.}$ в модели 4-х соседей}
+\label{table:n_p.e.}
+\begin{center}
 \begin{tabular}{|c|c|}
   \hline
   суммарное число сработавших ячеек& плотность вероятности $n_{p.e.}$ \\
@@ -202,8 +205,9 @@ $$ N_e^{DC} = \sum \limits_{i=0}^{N_{p.e.}^{DC}} G_{i}, $$
   \hline
   $N > 5$ & $\simeq\varepsilon \cdot P(5) \left[ 1 - \frac{P(5)}{1 - \sum \limits_{k=1}^{4} P(k) } \right]^{N - 5}$ \\
   \hline
-
 \end{tabular}
+\end{center}
+\end{table}
 
 На Рис.~\ref{x-talk:image} показана зависимость среднего числа регистрируемых ячеек в зависимости от величины кросстока.
 
@@ -282,7 +286,7 @@ f(\Delta t) = \frac{1}{\tau} \cdot \exp(-\Delta t / \tau),
 Поскольку темновые импульсы не зависят от послеимпульсов, то искомую вероятность $P(t)$ можно записать следующим образом:
 
 \begin{eqnarray}\label{eq:probability_dt_simple}
-P(t) = P\{ \text{нет послеимпульсов от $0$ до $t + \delta t$} \} \nonumber
+P(t) = P\{ \text{нет послеимпульсов от $0$ до $t + \delta t$} \} 
 \cdot P\{ \text{есть темновой импульс от $t$ до $t + \delta t$} \} +  \\ \nonumber
 P\{ \text{есть послеимпульс от $t$ до $t + \delta t$} \}
 \cdot P\{\text{нет темнового импульса от $0$ до $t + \delta t$} \}
@@ -378,7 +382,7 @@ G_{tot}(\xi) = g(\xi) * Gauss(\sigma) \cdot E[G]
 \begin{eqnarray}\label{eq:g(xi)_afterpulsing_approx}
 E[G_{tot}] \approx E[G] \cdot [ (1 - p_{s} - p_{f}) + \frac{ p_{s} }{1 + \alpha_{s}} + \frac{ p_{f} }{1 + \alpha_{f}} ] \\
 Var[G_{tot}] \approx Var[G] \cdot (1 - p_{s} - p_{f}) + \\ \nonumber
-E[G] \cdot [p_{s} \cdot ( \alpha_{s} \cdot B(3, \alpha_{s}) - \frac{1}{1 + \alpha_{s}}) + p_{f} \cdot ( \alpha_{f} \cdot B(3, \alpha_{f}) - \frac{1}{1 + \alpha_{f}})]
+(E[G])^2 \cdot [p_{s} \cdot ( \alpha_{s} \cdot B(3, \alpha_{s}) - \frac{1}{1 + \alpha_{s}}) + p_{f} \cdot ( \alpha_{f} \cdot B(3, \alpha_{f}) - \frac{1}{1 + \alpha_{f}})]
 \end{eqnarray}
 
 
