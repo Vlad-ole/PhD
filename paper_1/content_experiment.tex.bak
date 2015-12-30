@@ -644,11 +644,18 @@ Hamamatsu S10362-11-100C. Данные аппроксимированы линейной функцией.}
 \label{image:Hamamatsu_S10362-11-100C_xtalk_vs_V}
 \end{figure}
 
-Исходя из экспериментальных данных, можно сделать вывод, что вероятность кросстока не зависит от температуры и имеет линейную зависимость от перенапряжения.
+Исходя из экспериментальных данных, можно сделать вывод, что вероятность кросстока не зависит от температуры.
+В тоже время вероятность кросстока должна иметь в первом приближении квадратичную зависимость от перенапряжения.
+Это объясняется тем, что вероятность кросстока $P_{x-talk}$ пропорциональна числу образовавшихся электронов в лавине $G$ и вероятности срабатывания ячейки от фотона $\varepsilon_{Geiger}$,
+причем каждая из этих величин имеет линейную зависимость от перенапряжения(для величины $\varepsilon_{Geiger}$ зависимость отличается 
+от линейной при больших перенапряжениях \cite{Measurement of PDE of MPPC with different wavelengths of light}):
+\begin{eqnarray}\label{eq:xtalk_prob_V2_reason}
+P_{x-talk}(\Delta V) \propto  G(\Delta V) \cdot \varepsilon_{Geiger}(\Delta V)
+\end{eqnarray}
 
-
+Таким образом, будем аппроксимировать экспериментальные данные следующей зависимостью:
 \begin{eqnarray}\label{eq:xtalk_vs_T_V}
-P_{x-talk}(\Delta V, T) = k_{x-talk} \cdot \Delta V + B_{x-talk}
+P_{x-talk}(\Delta V, T) = k_{x-talk} \cdot \Delta V^2
 \end{eqnarray}
 
 
@@ -657,9 +664,7 @@ P_{x-talk}(\Delta V, T) = k_{x-talk} \cdot \Delta V + B_{x-talk}
   \hline
   Параметр / Тип SiPM  &  KETEK PM3325NP-SB0 Pin &  KETEK PM1125NS-SB0 & Hamamatsu S10362-33-025C & Hamamatsu S10362-11-100C  \\
   \hline
-  $k_{x-talk}$ [1 / В] &  &  &  & $0.15 \pm 0.01$ \\
-  \hline
-  $B_{x-talk}$ &  &  &  & $-0.03 \pm 0.01$ \\
+  $k_{x-talk}$ [1 / $В^2$] &  &  &  & $0.103 \pm 0.007$ \\
   \hline
 \end{tabular}
 \end{center}
@@ -745,9 +750,10 @@ Hamamatsu S10362-11-100C. Данные аппроксимированы линейной функцией.}
 \label{image:Hamamatsu_S10362-11-100C_tau_s_vs_V}
 \end{figure}
 
-Вероятности послеимпульсов $p_{s}$ и $p_{f}$ при текущей точности измерения не зависят от температуры и имеют линейную зависимость от перенапряжения:
+Вероятности послеимпульсов $p_{s}$ и $p_{f}$ при текущей точности измерения не зависят от температуры. 
+От перенапряжения вероятности послеимпульсов должны иметь квадратичную зависимость:
 \begin{eqnarray}\label{eq:p_f_s_vs_T_V}
-p_{i}(\Delta V, T) = k_{i}^{p} \cdot \Delta V + B_{i}^{p}
+p_{i}(\Delta V, T) = k_{i}^{p} \cdot \Delta V^2
 \end{eqnarray}
 
 \begin{center}
@@ -755,13 +761,9 @@ p_{i}(\Delta V, T) = k_{i}^{p} \cdot \Delta V + B_{i}^{p}
   \hline
   Параметр / Тип SiPM  &  KETEK PM3325NP-SB0 Pin &  KETEK PM1125NS-SB0 & Hamamatsu S10362-33-025C & Hamamatsu S10362-11-100C  \\
   \hline
-  $k_{s}^{p}$ [1 / В] &  &  &  & $ 0.21 \pm 0.04 $ \\
+  $k_{s}^{p}$ [1 / В] &  &  &  & $ 0.148 \pm 0.005 $ \\
   \hline
-  $k_{f}^{p}$ [1 / В] &  &  &  & $ 0.26 \pm 0.06 $ \\
-  \hline
-  $B_{s}^{p}$ &  &  &  & $ -0.07 \pm 0.04 $ \\
-  \hline
-  $B_{f}^{p}$ &  &  &  & $ -0.12 \pm 0.06 $ \\
+  $k_{f}^{p}$ [1 / В] &  &  &  & $ 0.13 \pm 0.01 $ \\
   \hline
 \end{tabular}
 \end{center}
@@ -819,5 +821,51 @@ N_{p.e.}^{no \; x-talk} = N_{p.e.}^{led} - N_{p.e.}^{no \; led}
 \end{eqnarray}
 Величина  $N_{p.e.}^{no \; x-talk}$ характеризует квадрат отношения сигнал / шум на входе $SNR_{in}^2$.
  
+В результате был измерен избыточный фактор шума в зависимости от перенапряжения, а также вычислено теоретическое значение по формуле (\ref{eq:ENF_var2}), 
+включающее кросстоки и послеимпульсы, но без учета флуктуаций усиления (рис.~\ref{image:Hamamatsu_S10362-11-100C_ENF_vs_V}).
+\begin{figure}[h]
+\center{\includegraphics[width=8cm]{Hamamatsu_S10362-11-100C_ENF_vs_V}}
+\caption{Зависимость избыточного фактора шума от перенапряжения для Hamamatsu S10362-11-100C.
+Значения при разных температурах усреднены.}
+\label{image:Hamamatsu_S10362-11-100C_ENF_vs_V}
+\end{figure}
+
 
 \section{Квантовая эффективность}
+В общем случае зависимость Гейгеровского пробоя от перенапряжения имеет следующий вид \cite{Measurement of PDE of MPPC with different wavelengths of light}:
+\begin{eqnarray}\label{eq:QE_vs_V}
+\varepsilon_{Geiger}^{total}(\Delta V) = F\cdot \varepsilon_{Geiger}^{electron} + (1 - F) \cdot \varepsilon_{Geiger}^{hole} \\ \nonumber
+\varepsilon_{Geiger}^{electron} = \varepsilon_{max} \cdot (1 - e^{-k_{QE} \cdot \Delta V}) \\ \nonumber
+\varepsilon_{Geiger}^{hole} = m \cdot \Delta V \nonumber
+\end{eqnarray}
+На рис.~\ref{image:Hamamatsu_S10362-11-100C_QF_vs_V} представлена зависимость квантовой эффективности от перенапряжения.
+При аппроксимации для простоты мы использовали функцию (\ref{eq:QE_vs_V}) при $F = 1$.
+
+\begin{figure}[h]
+\center{\includegraphics[width=8cm]{Hamamatsu_S10362-11-100C_QF_vs_V}}
+\caption{Зависимость квантовой эффективности от перенапряжения для Hamamatsu S10362-11-100C.
+Аппроксимирующая функция проведена через все точки.}
+\label{image:Hamamatsu_S10362-11-100C_QF_vs_V}
+\end{figure}
+
+\begin{center}
+\begin{tabular}{|p{3cm}|p{3cm}|p{3cm}|p{3cm}|p{3cm}|}
+  \hline
+  Параметр / Тип SiPM  &  KETEK PM3325NP-SB0 Pin &  KETEK PM1125NS-SB0 & Hamamatsu S10362-33-025C & Hamamatsu S10362-11-100C  \\
+  \hline
+  $k_{QE}$ [1 / В] &  &  &  & $0.56 \pm 0.06$ \\
+  \hline
+  $PDE_{max}$ &  &  &  & $0.65 \pm 0.05$ \\
+  \hline
+\end{tabular}
+\end{center}
+
+\section{Энергетическое разрешение}
+Избыточный фактор шума не полностью характеризует качество детектора, т.к. он характеризует лишь шум уже зарегистрированных частиц.
+Чтобы учесть неидеальность регистрации частиц (т.е. квантовую эффективность), необходимо рассмотреть энергетическое разрешение.
+Ранее, при вычислении $ENF$, мы находили число зарегистрированных фотоэлектронов без учета кросстоков $N_{p.e.}^{no \; x-talk}$.
+Зная это число и квантовую эффективность мы найдем исходный световой поток, который уже не зависит от перенапряжения:
+\begin{eqnarray}\label{eq:N_init}
+N_{init} = N_{p.e.}^{no \; x-talk}(\Delta V) / \varepsilon(\Delta V) \approx 3.54
+\end{eqnarray}
+
