@@ -23,7 +23,7 @@
 \usepackage{miller}
 \usepackage[numbers,square,comma,sort&compress]{natbib}
 \usepackage{url}
-\usepackage{multicol}-
+\usepackage{multicol}
 
 \usepackage{rotating}
 \usepackage{lscape}
