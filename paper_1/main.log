@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  30 DEC 2015 19:30
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  11 JAN 2016 19:55
 entering extended mode
 **D:/git_repositories/PhD/paper_1/main.tex
 (D:/git_repositories/PhD/paper_1/main.tex
@@ -481,11 +481,11 @@ LaTeX Warning: Label `eq:ENF_var2' multiply defined.
 LaTeX Warning: Label `image:recovery_time-ketec_11_4_5OV' multiply defined.
 
 
+LaTeX Warning: Label `eq:N_init' multiply defined.
+
+
 LaTeX Warning: Label `image:Hamamatsu_S10362-11-100C_p_f_vs_V' multiply defined
 .
-
-
-LaTeX Warning: Label `eq:N_init' multiply defined.
 
 ) (D:\git_repositories\PhD\paper_1\bibliography.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
@@ -928,12 +928,12 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 Package epstopdf Info: Source file: <pictures/revo_time_vs_temp_ham_4_5_OV_rus.
 eps>
-(epstopdf)                    date: 2015-12-30 19:28:55
-(epstopdf)                    size: 148423 bytes
+(epstopdf)                    date: 2016-01-11 10:04:25
+(epstopdf)                    size: 148641 bytes
 (epstopdf)             Output file: <pictures/revo_time_vs_temp_ham_4_5_OV_rus-
 eps-converted-to.pdf>
-(epstopdf)                    date: 2015-12-30 19:30:26
-(epstopdf)                    size: 58840 bytes
+(epstopdf)                    date: 2016-01-11 10:04:29
+(epstopdf)                    size: 58883 bytes
 (epstopdf)             Command: <epstopdf --outfile=pictures/revo_time_vs_temp_
 ham_4_5_OV_rus-eps-converted-to.pdf pictures/revo_time_vs_temp_ham_4_5_OV_rus.e
 ps>
@@ -953,24 +953,56 @@ d-to.pdf used on input line 180.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<pictures/recovery_time-ketec_11_4_5OV.pdf, id=295, 821.0675pt x 572.1375pt>
-File: pictures/recovery_time-ketec_11_4_5OV.pdf Graphic file (type pdf)
+Package epstopdf Info: Source file: <pictures/recovery_time-ketec_11_4_5OV_rus.
+eps>
+(epstopdf)                    date: 2016-01-11 10:21:45
+(epstopdf)                    size: 162511 bytes
+(epstopdf)             Output file: <pictures/recovery_time-ketec_11_4_5OV_rus-
+eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-11 10:22:16
+(epstopdf)                    size: 59998 bytes
+(epstopdf)             Command: <epstopdf --outfile=pictures/recovery_time-kete
+c_11_4_5OV_rus-eps-converted-to.pdf pictures/recovery_time-ketec_11_4_5OV_rus.e
+ps>
+(epstopdf)             \includegraphics on input line 187.
+Package epstopdf Info: Output file is already uptodate.
 
-<use pictures/recovery_time-ketec_11_4_5OV.pdf>
-Package pdftex.def Info: pictures/recovery_time-ketec_11_4_5OV.pdf used on inpu
-t line 187.
-(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
+<pictures/recovery_time-ketec_11_4_5OV_rus-eps-converted-to.pdf, id=295, 821.06
+75pt x 788.9475pt>
+File: pictures/recovery_time-ketec_11_4_5OV_rus-eps-converted-to.pdf Graphic fi
+le (type pdf)
+
+<use pictures/recovery_time-ketec_11_4_5OV_rus-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/recovery_time-ketec_11_4_5OV_rus-eps-converte
+d-to.pdf used on input line 187.
+(pdftex.def)             Requested size: 227.62204pt x 218.7128pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<pictures/recovery_time_ketec_11_265K.pdf, id=296, 821.0675pt x 572.1375pt>
-File: pictures/recovery_time_ketec_11_265K.pdf Graphic file (type pdf)
+Package epstopdf Info: Source file: <pictures/recovery_time_ketec_11_265K_rus.e
+ps>
+(epstopdf)                    date: 2016-01-11 10:18:57
+(epstopdf)                    size: 168375 bytes
+(epstopdf)             Output file: <pictures/recovery_time_ketec_11_265K_rus-e
+ps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-11 10:19:31
+(epstopdf)                    size: 65492 bytes
+(epstopdf)             Command: <epstopdf --outfile=pictures/recovery_time_kete
+c_11_265K_rus-eps-converted-to.pdf pictures/recovery_time_ketec_11_265K_rus.eps
+>
+(epstopdf)             \includegraphics on input line 194.
+Package epstopdf Info: Output file is already uptodate.
 
-<use pictures/recovery_time_ketec_11_265K.pdf>
-Package pdftex.def Info: pictures/recovery_time_ketec_11_265K.pdf used on input
- line 194.
-(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
+<pictures/recovery_time_ketec_11_265K_rus-eps-converted-to.pdf, id=296, 821.067
+5pt x 787.94376pt>
+File: pictures/recovery_time_ketec_11_265K_rus-eps-converted-to.pdf Graphic fil
+e (type pdf)
+
+<use pictures/recovery_time_ketec_11_265K_rus-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/recovery_time_ketec_11_265K_rus-eps-converted
+-to.pdf used on input line 194.
+(pdftex.def)             Requested size: 227.62204pt x 218.43456pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -978,14 +1010,29 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Warning: Reference `' on page 19 undefined on input line 200.
 
+Package epstopdf Info: Source file: <pictures/recovery_time_hamamatsu_vs_ketek_
+rus.eps>
+(epstopdf)                    date: 2016-01-11 10:26:29
+(epstopdf)                    size: 171555 bytes
+(epstopdf)             Output file: <pictures/recovery_time_hamamatsu_vs_ketek_
+rus-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-11 10:28:05
+(epstopdf)                    size: 67037 bytes
+(epstopdf)             Command: <epstopdf --outfile=pictures/recovery_time_hama
+matsu_vs_ketek_rus-eps-converted-to.pdf pictures/recovery_time_hamamatsu_vs_ket
+ek_rus.eps>
+(epstopdf)             \includegraphics on input line 202.
+Package epstopdf Info: Output file is already uptodate.
 
-<pictures/recovery_time_hamamatsu_vs_ketek.pdf, id=297, 821.0675pt x 572.1375pt
->
-File: pictures/recovery_time_hamamatsu_vs_ketek.pdf Graphic file (type pdf)
- <use pictures/recovery_time_hamamatsu_vs_ketek.pdf>
-Package pdftex.def Info: pictures/recovery_time_hamamatsu_vs_ketek.pdf used on 
-input line 202.
-(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
+<pictures/recovery_time_hamamatsu_vs_ketek_rus-eps-converted-to.pdf, id=297, 82
+1.0675pt x 785.93625pt>
+File: pictures/recovery_time_hamamatsu_vs_ketek_rus-eps-converted-to.pdf Graphi
+c file (type pdf)
+
+<use pictures/recovery_time_hamamatsu_vs_ketek_rus-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/recovery_time_hamamatsu_vs_ketek_rus-eps-conv
+erted-to.pdf used on input line 202.
+(pdftex.def)             Requested size: 227.62204pt x 217.87802pt.
 
 Overfull \hbox (7.2499pt too wide) in paragraph at lines 200--207
 []\T2A/cmr/m/n/12 На рис. [] при-ве-де-ны фор-мы од-но-элек-трон-ных сиг-на-лов
@@ -1002,13 +1049,27 @@ pdfTeX warning: pdflatex.exe (file D:/git_repositories/PhD/paper_1/pictures/VD_
 hamamatsu_3d_2.pdf): PDF inclusion: multiple pdfs with page group included in a
  single page
 >] [20 <D:/git_repositories/PhD/paper_1/pictures/V_bd_KETEK_rus-eps-converted-t
-o.pdf>] <pictures/tektronix_generator.pdf, id=536, 821.0675pt x 572.1375pt>
-File: pictures/tektronix_generator.pdf Graphic file (type pdf)
+o.pdf>]
+Package epstopdf Info: Source file: <pictures/tektronix_generator_rus.eps>
+(epstopdf)                    date: 2016-01-11 10:38:40
+(epstopdf)                    size: 86714 bytes
+(epstopdf)             Output file: <pictures/tektronix_generator_rus-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2016-01-11 10:39:35
+(epstopdf)                    size: 40422 bytes
+(epstopdf)             Command: <epstopdf --outfile=pictures/tektronix_generato
+r_rus-eps-converted-to.pdf pictures/tektronix_generator_rus.eps>
+(epstopdf)             \includegraphics on input line 250.
+Package epstopdf Info: Output file is already uptodate.
 
-<use pictures/tektronix_generator.pdf>
-Package pdftex.def Info: pictures/tektronix_generator.pdf used on input line 25
-0.
-(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
+<pictures/tektronix_generator_rus-eps-converted-to.pdf, id=536, 821.0675pt x 79
+7.98125pt>
+File: pictures/tektronix_generator_rus-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use pictures/tektronix_generator_rus-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/tektronix_generator_rus-eps-converted-to.pdf 
+used on input line 250.
+(pdftex.def)             Requested size: 227.62204pt x 221.21715pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1021,13 +1082,27 @@ Overfull \hbox (2.43863pt too wide) in paragraph at lines 262--264
 
 [21 <D:/git_repositories/PhD/paper_1/pictures/V_bd_Hamamatsu_rus-eps-converted-
 to.pdf>]
-<pictures/generator_amp_tektronix.pdf, id=563, 821.0675pt x 572.1375pt>
-File: pictures/generator_amp_tektronix.pdf Graphic file (type pdf)
+Package epstopdf Info: Source file: <pictures/generator_amp_tektronix_rus.eps>
+(epstopdf)                    date: 2016-01-11 10:47:52
+(epstopdf)                    size: 79575 bytes
+(epstopdf)             Output file: <pictures/generator_amp_tektronix_rus-eps-c
+onverted-to.pdf>
+(epstopdf)                    date: 2016-01-11 10:48:55
+(epstopdf)                    size: 32230 bytes
+(epstopdf)             Command: <epstopdf --outfile=pictures/generator_amp_tekt
+ronix_rus-eps-converted-to.pdf pictures/generator_amp_tektronix_rus.eps>
+(epstopdf)             \includegraphics on input line 269.
+Package epstopdf Info: Output file is already uptodate.
 
-<use pictures/generator_amp_tektronix.pdf>
-Package pdftex.def Info: pictures/generator_amp_tektronix.pdf used on input lin
-e 269.
-(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
+<pictures/generator_amp_tektronix_rus-eps-converted-to.pdf, id=563, 820.06375pt
+ x 785.93625pt>
+File: pictures/generator_amp_tektronix_rus-eps-converted-to.pdf Graphic file (t
+ype pdf)
+
+<use pictures/generator_amp_tektronix_rus-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/generator_amp_tektronix_rus-eps-converted-to.
+pdf used on input line 269.
+(pdftex.def)             Requested size: 227.62204pt x 218.14186pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1075,78 +1150,155 @@ Overfull \hbox (45.77357pt too wide) in paragraph at lines 304--321
 [23 <D:/git_repositories/PhD/paper_1/pictures/hamamatsu_signal_295K_4_5OV_rus-e
 ps-converted-to.pdf>] [24 <D:/git_repositories/PhD/paper_1/pictures/hamamatsu_s
 ignal_295K_4_5OV_amp_rus-eps-converted-to.pdf>] [25 <D:/git_repositories/PhD/pa
-per_1/pictures/revo_time_vs_temp_ham_4_5_OV_rus-eps-converted-to.pdf>] [26 <D:/
-git_repositories/PhD/paper_1/pictures/recovery_time-ketec_11_4_5OV.pdf> <D:/git
-_repositories/PhD/paper_1/pictures/recovery_time_ketec_11_265K.pdf>]
-<pictures/Hamamatsu_S10362-11-100C_295K_1OV_amp_th.pdf, id=822, 821.0675pt x 57
-2.1375pt>
-File: pictures/Hamamatsu_S10362-11-100C_295K_1OV_amp_th.pdf Graphic file (type 
-pdf)
- <use pictures/Hamamatsu_S10362-11-100C_295K_1OV_amp_th.pdf>
-Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_295K_1OV_amp_th.pdf 
-used on input line 366.
-(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
+per_1/pictures/revo_time_vs_temp_ham_4_5_OV_rus-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <pictures/Hamamatsu_S10362-11-100C_295K_1OV
+_amp_th_rus.eps>
+(epstopdf)                    date: 2016-01-11 11:17:09
+(epstopdf)                    size: 127786 bytes
+(epstopdf)             Output file: <pictures/Hamamatsu_S10362-11-100C_295K_1OV
+_amp_th_rus-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-11 11:17:17
+(epstopdf)                    size: 53678 bytes
+(epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S10362-1
+1-100C_295K_1OV_amp_th_rus-eps-converted-to.pdf pictures/Hamamatsu_S10362-11-10
+0C_295K_1OV_amp_th_rus.eps>
+(epstopdf)             \includegraphics on input line 366.
+Package epstopdf Info: Output file is already uptodate.
+
+<pictures/Hamamatsu_S10362-11-100C_295K_1OV_amp_th_rus-eps-converted-to.pdf, id
+=667, 821.0675pt x 801.99625pt>
+File: pictures/Hamamatsu_S10362-11-100C_295K_1OV_amp_th_rus-eps-converted-to.pd
+f Graphic file (type pdf)
+
+<use pictures/Hamamatsu_S10362-11-100C_295K_1OV_amp_th_rus-eps-converted-to.pdf
+>
+Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_295K_1OV_amp_th_rus-
+eps-converted-to.pdf used on input line 366.
+(pdftex.def)             Requested size: 227.62204pt x 222.3302pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
+[26 <D:/git_repositories/PhD/paper_1/pictures/recovery_time-ketec_11_4_5OV_rus-
+eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <pictures/Hamamatsu_S10362-11-100C_295K_1OV
+_der_th_rus.eps>
+(epstopdf)                    date: 2016-01-11 13:15:50
+(epstopdf)                    size: 96857 bytes
+(epstopdf)             Output file: <pictures/Hamamatsu_S10362-11-100C_295K_1OV
+_der_th_rus-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-11 13:17:10
+(epstopdf)                    size: 55646 bytes
+(epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S10362-1
+1-100C_295K_1OV_der_th_rus-eps-converted-to.pdf pictures/Hamamatsu_S10362-11-10
+0C_295K_1OV_der_th_rus.eps>
+(epstopdf)             \includegraphics on input line 384.
+Package epstopdf Info: Output file is already uptodate.
 
-<pictures/Hamamatsu_S10362-11-100C_295K_1OV_der_th.pdf, id=823, 821.0675pt x 57
-2.1375pt>
-File: pictures/Hamamatsu_S10362-11-100C_295K_1OV_der_th.pdf Graphic file (type 
-pdf)
- <use pictures/Hamamatsu_S10362-11-100C_295K_1OV_der_th.pdf>
-Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_295K_1OV_der_th.pdf 
-used on input line 384.
-(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
+<pictures/Hamamatsu_S10362-11-100C_295K_1OV_der_th_rus-eps-converted-to.pdf, id
+=698, 820.06375pt x 777.90625pt>
+File: pictures/Hamamatsu_S10362-11-100C_295K_1OV_der_th_rus-eps-converted-to.pd
+f Graphic file (type pdf)
+
+<use pictures/Hamamatsu_S10362-11-100C_295K_1OV_der_th_rus-eps-converted-to.pdf
+>
+Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_295K_1OV_der_th_rus-
+eps-converted-to.pdf used on input line 384.
+(pdftex.def)             Requested size: 227.62204pt x 215.91307pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[27 <D:/git_repositories/PhD/paper_1/pictures/recovery_time_hamamatsu_vs_ketek.
-pdf>] [28 <D:/git_repositories/PhD/paper_1/pictures/tektronix_generator.pdf> <D
-:/git_repositories/PhD/paper_1/pictures/generator_amp_tektronix.pdf>]
-<pictures/Hamamatsu_S10362-11-100C_303K_70V_dt_example.pdf, id=1058, 821.0675pt
- x 572.1375pt>
-File: pictures/Hamamatsu_S10362-11-100C_303K_70V_dt_example.pdf Graphic file (t
-ype pdf)
- <use pictures/Hamamatsu_S10362-11-100C_303K_70V_dt_example.pdf>
-Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_303K_70V_dt_example.
-pdf used on input line 418.
-(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
+[27 <D:/git_repositories/PhD/paper_1/pictures/recovery_time_ketec_11_265K_rus-e
+ps-converted-to.pdf>]
+Package epstopdf Info: Source file: <pictures/Hamamatsu_S10362-11-100C_303K_70V
+_dt_example_rus.eps>
+(epstopdf)                    date: 2016-01-11 13:28:42
+(epstopdf)                    size: 170241 bytes
+(epstopdf)             Output file: <pictures/Hamamatsu_S10362-11-100C_303K_70V
+_dt_example_rus-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-11 13:29:50
+(epstopdf)                    size: 60486 bytes
+(epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S10362-1
+1-100C_303K_70V_dt_example_rus-eps-converted-to.pdf pictures/Hamamatsu_S10362-1
+1-100C_303K_70V_dt_example_rus.eps>
+(epstopdf)             \includegraphics on input line 418.
+Package epstopdf Info: Output file is already uptodate.
+
+<pictures/Hamamatsu_S10362-11-100C_303K_70V_dt_example_rus-eps-converted-to.pdf
+, id=729, 816.04875pt x 782.925pt>
+File: pictures/Hamamatsu_S10362-11-100C_303K_70V_dt_example_rus-eps-converted-t
+o.pdf Graphic file (type pdf)
+
+<use pictures/Hamamatsu_S10362-11-100C_303K_70V_dt_example_rus-eps-converted-to
+.pdf>
+Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_303K_70V_dt_example_
+rus-eps-converted-to.pdf used on input line 418.
+(pdftex.def)             Requested size: 227.62204pt x 218.38126pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[29 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_295K_1OV
-_amp_th.pdf> <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C
-_295K_1OV_der_th.pdf>]
+[28 <D:/git_repositories/PhD/paper_1/pictures/recovery_time_hamamatsu_vs_ketek_
+rus-eps-converted-to.pdf>]
 Overfull \hbox (0.96982pt too wide) in paragraph at lines 430--434
 []\T2A/cmr/m/n/12 В дру-гом пре-дель-ном слу-чае при ис-поль-зо-ва-нии за-ни-же
 н-но-го по-ро-га по $\OML/cmm/m/it/12 []=Dof$
  []
 
+Package epstopdf Info: Source file: <pictures/Hamamatsu_S10362-11-100C_303K_70V
+_Chi2_amp_1_rus.eps>
+(epstopdf)                    date: 2016-01-11 13:43:31
+(epstopdf)                    size: 769779 bytes
+(epstopdf)             Output file: <pictures/Hamamatsu_S10362-11-100C_303K_70V
+_Chi2_amp_1_rus-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-11 13:44:56
+(epstopdf)                    size: 477766 bytes
+(epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S10362-1
+1-100C_303K_70V_Chi2_amp_1_rus-eps-converted-to.pdf pictures/Hamamatsu_S10362-1
+1-100C_303K_70V_Chi2_amp_1_rus.eps>
+(epstopdf)             \includegraphics on input line 443.
+Package epstopdf Info: Output file is already uptodate.
 
-<pictures/Hamamatsu_S10362-11-100C_303K_70V_Chi2_amp_1.pdf, id=1244, 821.0675pt
- x 572.1375pt>
-File: pictures/Hamamatsu_S10362-11-100C_303K_70V_Chi2_amp_1.pdf Graphic file (t
-ype pdf)
- <use pictures/Hamamatsu_S10362-11-100C_303K_70V_Chi2_amp_1.pdf>
-Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_303K_70V_Chi2_amp_1.
-pdf used on input line 443.
-(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
+<pictures/Hamamatsu_S10362-11-100C_303K_70V_Chi2_amp_1_rus-eps-converted-to.pdf
+, id=775, 819.06pt x 786.94pt>
+File: pictures/Hamamatsu_S10362-11-100C_303K_70V_Chi2_amp_1_rus-eps-converted-t
+o.pdf Graphic file (type pdf)
 
-[30 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_303K_70V
-_dt_example.pdf>]
-<pictures/Hamamatsu_S10362-11-100C_295K_1_OV_Chi2_amp1_amp2.pdf, id=1327, 821.0
-675pt x 572.1375pt>
-File: pictures/Hamamatsu_S10362-11-100C_295K_1_OV_Chi2_amp1_amp2.pdf Graphic fi
-le (type pdf)
+<use pictures/Hamamatsu_S10362-11-100C_303K_70V_Chi2_amp_1_rus-eps-converted-to
+.pdf>
+Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_303K_70V_Chi2_amp_1_
+rus-eps-converted-to.pdf used on input line 443.
+(pdftex.def)             Requested size: 227.62204pt x 218.69664pt.
+ [29 <D:/git_repositories/PhD/paper_1/pictures/tektronix_generator_rus-eps-conv
+erted-to.pdf>]
 
-<use pictures/Hamamatsu_S10362-11-100C_295K_1_OV_Chi2_amp1_amp2.pdf>
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package epstopdf Info: Source file: <pictures/Hamamatsu_S10362-11-100C_295K_1_O
+V_Chi2_amp1_amp2_rus.eps>
+(epstopdf)                    date: 2016-01-11 13:53:47
+(epstopdf)                    size: 614628 bytes
+(epstopdf)             Output file: <pictures/Hamamatsu_S10362-11-100C_295K_1_O
+V_Chi2_amp1_amp2_rus-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-11 13:55:29
+(epstopdf)                    size: 402481 bytes
+(epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S10362-1
+1-100C_295K_1_OV_Chi2_amp1_amp2_rus-eps-converted-to.pdf pictures/Hamamatsu_S10
+362-11-100C_295K_1_OV_Chi2_amp1_amp2_rus.eps>
+(epstopdf)             \includegraphics on input line 455.
+Package epstopdf Info: Output file is already uptodate.
+
+<pictures/Hamamatsu_S10362-11-100C_295K_1_OV_Chi2_amp1_amp2_rus-eps-converted-t
+o.pdf, id=802, 819.06pt x 782.925pt>
+File: pictures/Hamamatsu_S10362-11-100C_295K_1_OV_Chi2_amp1_amp2_rus-eps-conver
+ted-to.pdf Graphic file (type pdf)
+
+<use pictures/Hamamatsu_S10362-11-100C_295K_1_OV_Chi2_amp1_amp2_rus-eps-convert
+ed-to.pdf>
 Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_295K_1_OV_Chi2_amp1_
-amp2.pdf used on input line 455.
-(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
+amp2_rus-eps-converted-to.pdf used on input line 455.
+(pdftex.def)             Requested size: 227.62204pt x 217.58084pt.
 
 Underfull \hbox (badness 2318) in paragraph at lines 457--457
 []\T2A/cmr/m/n/12 Рис. 26. Кор-ре-ля-ция ам-пли-ту-да - $\OML/cmm/m/it/12 []=D
@@ -1154,36 +1306,69 @@ of$ \T2A/cmr/m/n/12 при ап-прок-си-ма-ции мно-же-ства
  []
 
 
-<pictures/Hamamatsu_S10362-11-100C_295K_1_OV_amp1_amp2_dt_A2.pdf, id=1328, 821.
-0675pt x 572.1375pt>
-File: pictures/Hamamatsu_S10362-11-100C_295K_1_OV_amp1_amp2_dt_A2.pdf Graphic f
-ile (type pdf)
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-<use pictures/Hamamatsu_S10362-11-100C_295K_1_OV_amp1_amp2_dt_A2.pdf>
+Package epstopdf Info: Source file: <pictures/Hamamatsu_S10362-11-100C_295K_1_O
+V_amp1_amp2_dt_A2_rus.eps>
+(epstopdf)                    date: 2016-01-11 14:30:59
+(epstopdf)                    size: 343906 bytes
+(epstopdf)             Output file: <pictures/Hamamatsu_S10362-11-100C_295K_1_O
+V_amp1_amp2_dt_A2_rus-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-11 14:36:07
+(epstopdf)                    size: 354205 bytes
+(epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S10362-1
+1-100C_295K_1_OV_amp1_amp2_dt_A2_rus-eps-converted-to.pdf pictures/Hamamatsu_S1
+0362-11-100C_295K_1_OV_amp1_amp2_dt_A2_rus.eps>
+(epstopdf)             \includegraphics on input line 465.
+Package epstopdf Info: Output file is already uptodate.
+
+<pictures/Hamamatsu_S10362-11-100C_295K_1_OV_amp1_amp2_dt_A2_rus-eps-converted-
+to.pdf, id=803, 820.06375pt x 797.98125pt>
+File: pictures/Hamamatsu_S10362-11-100C_295K_1_OV_amp1_amp2_dt_A2_rus-eps-conve
+rted-to.pdf Graphic file (type pdf)
+
+<use pictures/Hamamatsu_S10362-11-100C_295K_1_OV_amp1_amp2_dt_A2_rus-eps-conver
+ted-to.pdf>
 Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_295K_1_OV_amp1_amp2_
-dt_A2.pdf used on input line 465.
-(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
+dt_A2_rus-eps-converted-to.pdf used on input line 465.
+(pdftex.def)             Requested size: 227.62204pt x 221.48503pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[31 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_303K_70V
-_Chi2_amp_1.pdf> <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-
-100C_295K_1_OV_Chi2_amp1_amp2.pdf>]
-<pictures/Hamamatsu_S10362-11-100C_295K_1_OV_amp1_amp2_dt_B2.pdf, id=1447, 821.
-0675pt x 572.1375pt>
-File: pictures/Hamamatsu_S10362-11-100C_295K_1_OV_amp1_amp2_dt_B2.pdf Graphic f
-ile (type pdf)
+Package epstopdf Info: Source file: <pictures/Hamamatsu_S10362-11-100C_295K_1_O
+V_amp1_amp2_dt_B2_rus.eps>
+(epstopdf)                    date: 2016-01-11 14:47:06
+(epstopdf)                    size: 162643 bytes
+(epstopdf)             Output file: <pictures/Hamamatsu_S10362-11-100C_295K_1_O
+V_amp1_amp2_dt_B2_rus-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-11 14:47:22
+(epstopdf)                    size: 130429 bytes
+(epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S10362-1
+1-100C_295K_1_OV_amp1_amp2_dt_B2_rus-eps-converted-to.pdf pictures/Hamamatsu_S1
+0362-11-100C_295K_1_OV_amp1_amp2_dt_B2_rus.eps>
+(epstopdf)             \includegraphics on input line 480.
+Package epstopdf Info: Output file is already uptodate.
 
-<use pictures/Hamamatsu_S10362-11-100C_295K_1_OV_amp1_amp2_dt_B2.pdf>
+<pictures/Hamamatsu_S10362-11-100C_295K_1_OV_amp1_amp2_dt_B2_rus-eps-converted-
+to.pdf, id=804, 820.06375pt x 797.98125pt>
+File: pictures/Hamamatsu_S10362-11-100C_295K_1_OV_amp1_amp2_dt_B2_rus-eps-conve
+rted-to.pdf Graphic file (type pdf)
+
+<use pictures/Hamamatsu_S10362-11-100C_295K_1_OV_amp1_amp2_dt_B2_rus-eps-conver
+ted-to.pdf>
 Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_295K_1_OV_amp1_amp2_
-dt_B2.pdf used on input line 480.
-(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
- [32 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_295K_1_
-OV_amp1_amp2_dt_A2.pdf> <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10
-362-11-100C_295K_1_OV_amp1_amp2_dt_B2.pdf>] [33]
-<pictures/Hamamatsu_S10362-11-100C_295K_1_OV_dt_spectrum.pdf, id=1620, 569.1262
-5pt x 385.44pt>
+dt_B2_rus-eps-converted-to.pdf used on input line 480.
+(pdftex.def)             Requested size: 227.62204pt x 221.48503pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[30 <D:/git_repositories/PhD/paper_1/pictures/generator_amp_tektronix_rus-eps-c
+onverted-to.pdf>] [31 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S1036
+2-11-100C_295K_1OV_amp_th_rus-eps-converted-to.pdf>]
+<pictures/Hamamatsu_S10362-11-100C_295K_1_OV_dt_spectrum.pdf, id=866, 569.12625
+pt x 385.44pt>
 File: pictures/Hamamatsu_S10362-11-100C_295K_1_OV_dt_spectrum.pdf Graphic file 
 (type pdf)
 
@@ -1192,65 +1377,155 @@ Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_295K_1_OV_dt_spectru
 m.pdf used on input line 521.
 (pdftex.def)             Requested size: 227.62204pt x 154.15562pt.
 
-<pictures/Hamamatsu_S10362-11-100C_295K_1_OV_dt_spectrum_timecut.pdf, id=1621, 
-821.0675pt x 572.1375pt>
-File: pictures/Hamamatsu_S10362-11-100C_295K_1_OV_dt_spectrum_timecut.pdf Graph
-ic file (type pdf)
 
-<use pictures/Hamamatsu_S10362-11-100C_295K_1_OV_dt_spectrum_timecut.pdf>
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[32 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_295K_1OV
+_der_th_rus-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <pictures/Hamamatsu_S10362-11-100C_295K_1_O
+V_dt_spectrum_timecut_rus.eps>
+(epstopdf)                    date: 2016-01-11 14:57:49
+(epstopdf)                    size: 84405 bytes
+(epstopdf)             Output file: <pictures/Hamamatsu_S10362-11-100C_295K_1_O
+V_dt_spectrum_timecut_rus-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-11 14:58:44
+(epstopdf)                    size: 33752 bytes
+(epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S10362-1
+1-100C_295K_1_OV_dt_spectrum_timecut_rus-eps-converted-to.pdf pictures/Hamamats
+u_S10362-11-100C_295K_1_OV_dt_spectrum_timecut_rus.eps>
+(epstopdf)             \includegraphics on input line 538.
+Package epstopdf Info: Output file is already uptodate.
+
+<pictures/Hamamatsu_S10362-11-100C_295K_1_OV_dt_spectrum_timecut_rus-eps-conver
+ted-to.pdf, id=901, 820.06375pt x 797.98125pt>
+File: pictures/Hamamatsu_S10362-11-100C_295K_1_OV_dt_spectrum_timecut_rus-eps-c
+onverted-to.pdf Graphic file (type pdf)
+
+<use pictures/Hamamatsu_S10362-11-100C_295K_1_OV_dt_spectrum_timecut_rus-eps-co
+nverted-to.pdf>
 Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_295K_1_OV_dt_spectru
-m_timecut.pdf used on input line 538.
-(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
-
-[34 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_295K_1_O
-V_dt_spectrum.pdf, page is rotated 90 degrees> <D:/git_repositories/PhD/paper_1
-/pictures/Hamamatsu_S10362-11-100C_295K_1_OV_dt_spectrum_timecut.pdf>]
-<pictures/Hamamatsu_S10362-11-100C_dc_vs_T.pdf, id=1729, 821.0675pt x 572.1375p
-t>
-File: pictures/Hamamatsu_S10362-11-100C_dc_vs_T.pdf Graphic file (type pdf)
- <use pictures/Hamamatsu_S10362-11-100C_dc_vs_T.pdf>
-Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_dc_vs_T.pdf used on 
-input line 561.
-(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
-
-<pictures/Hamamatsu_S10362-11-100C_dc_vs_V.pdf, id=1730, 821.0675pt x 572.1375p
-t>
-File: pictures/Hamamatsu_S10362-11-100C_dc_vs_V.pdf Graphic file (type pdf)
- <use pictures/Hamamatsu_S10362-11-100C_dc_vs_V.pdf>
-Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_dc_vs_V.pdf used on 
-input line 576.
-(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
+m_timecut_rus-eps-converted-to.pdf used on input line 538.
+(pdftex.def)             Requested size: 227.62204pt x 221.48503pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[35 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_dc_vs_T.
-pdf>] [36 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_dc
-_vs_V.pdf>]
-<pictures/Hamamatsu_S10362-11-100C_xtalk_vs_T.pdf, id=1925, 821.0675pt x 572.13
-75pt>
-File: pictures/Hamamatsu_S10362-11-100C_xtalk_vs_T.pdf Graphic file (type pdf)
- <use pictures/Hamamatsu_S10362-11-100C_xtalk_vs_T.pdf>
-Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_xtalk_vs_T.pdf used 
-on input line 633.
-(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
+Package epstopdf Info: Source file: <pictures/Hamamatsu_S10362-11-100C_dc_vs_T_
+rus.eps>
+(epstopdf)                    date: 2016-01-11 15:58:04
+(epstopdf)                    size: 92664 bytes
+(epstopdf)             Output file: <pictures/Hamamatsu_S10362-11-100C_dc_vs_T_
+rus-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-11 16:02:46
+(epstopdf)                    size: 40031 bytes
+(epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S10362-1
+1-100C_dc_vs_T_rus-eps-converted-to.pdf pictures/Hamamatsu_S10362-11-100C_dc_vs
+_T_rus.eps>
+(epstopdf)             \includegraphics on input line 561.
+Package epstopdf Info: Output file is already uptodate.
+
+<pictures/Hamamatsu_S10362-11-100C_dc_vs_T_rus-eps-converted-to.pdf, id=902, 82
+1.0675pt x 789.95125pt>
+File: pictures/Hamamatsu_S10362-11-100C_dc_vs_T_rus-eps-converted-to.pdf Graphi
+c file (type pdf)
+
+<use pictures/Hamamatsu_S10362-11-100C_dc_vs_T_rus-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_dc_vs_T_rus-eps-conv
+erted-to.pdf used on input line 561.
+(pdftex.def)             Requested size: 227.62204pt x 218.99107pt.
+
+[33 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_303K_70V
+_dt_example_rus-eps-converted-to.pdf>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package epstopdf Info: Source file: <pictures/Hamamatsu_S10362-11-100C_dc_vs_V_
+rus.eps>
+(epstopdf)                    date: 2016-01-11 16:40:33
+(epstopdf)                    size: 110534 bytes
+(epstopdf)             Output file: <pictures/Hamamatsu_S10362-11-100C_dc_vs_V_
+rus-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-11 16:41:19
+(epstopdf)                    size: 46994 bytes
+(epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S10362-1
+1-100C_dc_vs_V_rus-eps-converted-to.pdf pictures/Hamamatsu_S10362-11-100C_dc_vs
+_V_rus.eps>
+(epstopdf)             \includegraphics on input line 576.
+Package epstopdf Info: Output file is already uptodate.
+
+<pictures/Hamamatsu_S10362-11-100C_dc_vs_V_rus-eps-converted-to.pdf, id=940, 82
+1.0675pt x 807.015pt>
+File: pictures/Hamamatsu_S10362-11-100C_dc_vs_V_rus-eps-converted-to.pdf Graphi
+c file (type pdf)
+
+<use pictures/Hamamatsu_S10362-11-100C_dc_vs_V_rus-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_dc_vs_V_rus-eps-conv
+erted-to.pdf used on input line 576.
+(pdftex.def)             Requested size: 227.62204pt x 223.7215pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
+[34 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_303K_70V
+_Chi2_amp_1_rus-eps-converted-to.pdf>] [35 <D:/git_repositories/PhD/paper_1/pic
+tures/Hamamatsu_S10362-11-100C_295K_1_OV_Chi2_amp1_amp2_rus-eps-converted-to.pd
+f>]
+Package epstopdf Info: Source file: <pictures/Hamamatsu_S10362-11-100C_xtalk_vs
+_T_rus.eps>
+(epstopdf)                    date: 2016-01-11 16:52:20
+(epstopdf)                    size: 137956 bytes
+(epstopdf)             Output file: <pictures/Hamamatsu_S10362-11-100C_xtalk_vs
+_T_rus-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-11 16:53:29
+(epstopdf)                    size: 48319 bytes
+(epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S10362-1
+1-100C_xtalk_vs_T_rus-eps-converted-to.pdf pictures/Hamamatsu_S10362-11-100C_xt
+alk_vs_T_rus.eps>
+(epstopdf)             \includegraphics on input line 633.
+Package epstopdf Info: Output file is already uptodate.
 
-<pictures/Hamamatsu_S10362-11-100C_xtalk_vs_V.pdf, id=1926, 821.0675pt x 572.13
-75pt>
-File: pictures/Hamamatsu_S10362-11-100C_xtalk_vs_V.pdf Graphic file (type pdf)
- <use pictures/Hamamatsu_S10362-11-100C_xtalk_vs_V.pdf>
-Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_xtalk_vs_V.pdf used 
-on input line 641.
-(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
+<pictures/Hamamatsu_S10362-11-100C_xtalk_vs_T_rus-eps-converted-to.pdf, id=1017
+, 820.06375pt x 797.98125pt>
+File: pictures/Hamamatsu_S10362-11-100C_xtalk_vs_T_rus-eps-converted-to.pdf Gra
+phic file (type pdf)
+
+<use pictures/Hamamatsu_S10362-11-100C_xtalk_vs_T_rus-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_xtalk_vs_T_rus-eps-c
+onverted-to.pdf used on input line 633.
+(pdftex.def)             Requested size: 227.62204pt x 221.48503pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[37]
+Package epstopdf Info: Source file: <pictures/Hamamatsu_S10362-11-100C_xtalk_vs
+_V_rus.eps>
+(epstopdf)                    date: 2016-01-11 17:04:51
+(epstopdf)                    size: 136031 bytes
+(epstopdf)             Output file: <pictures/Hamamatsu_S10362-11-100C_xtalk_vs
+_V_rus-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-11 17:05:45
+(epstopdf)                    size: 54134 bytes
+(epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S10362-1
+1-100C_xtalk_vs_V_rus-eps-converted-to.pdf pictures/Hamamatsu_S10362-11-100C_xt
+alk_vs_V_rus.eps>
+(epstopdf)             \includegraphics on input line 641.
+Package epstopdf Info: Output file is already uptodate.
+
+<pictures/Hamamatsu_S10362-11-100C_xtalk_vs_V_rus-eps-converted-to.pdf, id=1018
+, 820.06375pt x 773.89125pt>
+File: pictures/Hamamatsu_S10362-11-100C_xtalk_vs_V_rus-eps-converted-to.pdf Gra
+phic file (type pdf)
+
+<use pictures/Hamamatsu_S10362-11-100C_xtalk_vs_V_rus-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_xtalk_vs_V_rus-eps-c
+onverted-to.pdf used on input line 641.
+(pdftex.def)             Requested size: 227.62204pt x 214.79869pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[36 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_295K_1_O
+V_amp1_amp2_dt_A2_rus-eps-converted-to.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 665--665
 []\T2A/cmr/m/n/12 Параметр /
  []
@@ -1290,115 +1565,253 @@ Overfull \hbox (45.77357pt too wide) in paragraph at lines 663--670
  [] 
  []
 
-[38 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_xtalk_vs
-_T.pdf> <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_xtal
-k_vs_V.pdf>]
-<pictures/Hamamatsu_S10362-11-100C_xtalk_ratio_vs_T.pdf, id=2112, 821.0675pt x 
-572.1375pt>
-File: pictures/Hamamatsu_S10362-11-100C_xtalk_ratio_vs_T.pdf Graphic file (type
- pdf)
- <use pictures/Hamamatsu_S10362-11-100C_xtalk_ratio_vs_T.pdf>
-Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_xtalk_ratio_vs_T.pdf
- used on input line 686.
-(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
+[37 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_295K_1_O
+V_amp1_amp2_dt_B2_rus-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <pictures/Hamamatsu_S10362-11-100C_xtalk_ra
+tio_vs_T_rus.eps>
+(epstopdf)                    date: 2016-01-11 17:17:04
+(epstopdf)                    size: 110922 bytes
+(epstopdf)             Output file: <pictures/Hamamatsu_S10362-11-100C_xtalk_ra
+tio_vs_T_rus-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-11 17:17:54
+(epstopdf)                    size: 45958 bytes
+(epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S10362-1
+1-100C_xtalk_ratio_vs_T_rus-eps-converted-to.pdf pictures/Hamamatsu_S10362-11-1
+00C_xtalk_ratio_vs_T_rus.eps>
+(epstopdf)             \includegraphics on input line 686.
+Package epstopdf Info: Output file is already uptodate.
 
-<pictures/Hamamatsu_S10362-11-100C_p_f_vs_T.pdf, id=2113, 821.0675pt x 572.1375
-pt>
-File: pictures/Hamamatsu_S10362-11-100C_p_f_vs_T.pdf Graphic file (type pdf)
- <use pictures/Hamamatsu_S10362-11-100C_p_f_vs_T.pdf>
-Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_p_f_vs_T.pdf used on
- input line 698.
-(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
+<pictures/Hamamatsu_S10362-11-100C_xtalk_ratio_vs_T_rus-eps-converted-to.pdf, i
+d=1076, 820.06375pt x 789.95125pt>
+File: pictures/Hamamatsu_S10362-11-100C_xtalk_ratio_vs_T_rus-eps-converted-to.p
+df Graphic file (type pdf)
+
+<use pictures/Hamamatsu_S10362-11-100C_xtalk_ratio_vs_T_rus-eps-converted-to.pd
+f>
+Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_xtalk_ratio_vs_T_rus
+-eps-converted-to.pdf used on input line 686.
+(pdftex.def)             Requested size: 227.62204pt x 219.25624pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package epstopdf Info: Source file: <pictures/Hamamatsu_S10362-11-100C_p_f_vs_T
+_rus.eps>
+(epstopdf)                    date: 2016-01-11 17:32:53
+(epstopdf)                    size: 133949 bytes
+(epstopdf)             Output file: <pictures/Hamamatsu_S10362-11-100C_p_f_vs_T
+_rus-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-11 17:34:27
+(epstopdf)                    size: 52775 bytes
+(epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S10362-1
+1-100C_p_f_vs_T_rus-eps-converted-to.pdf pictures/Hamamatsu_S10362-11-100C_p_f_
+vs_T_rus.eps>
+(epstopdf)             \includegraphics on input line 698.
+Package epstopdf Info: Output file is already uptodate.
+
+<pictures/Hamamatsu_S10362-11-100C_p_f_vs_T_rus-eps-converted-to.pdf, id=1077, 
+820.06375pt x 779.91376pt>
+File: pictures/Hamamatsu_S10362-11-100C_p_f_vs_T_rus-eps-converted-to.pdf Graph
+ic file (type pdf)
+
+<use pictures/Hamamatsu_S10362-11-100C_p_f_vs_T_rus-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_p_f_vs_T_rus-eps-con
+verted-to.pdf used on input line 698.
+(pdftex.def)             Requested size: 227.62204pt x 216.47028pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package epstopdf Info: Source file: <pictures/Hamamatsu_S10362-11-100C_p_f_vs_V
+_rus.eps>
+(epstopdf)                    date: 2016-01-11 17:43:54
+(epstopdf)                    size: 142594 bytes
+(epstopdf)             Output file: <pictures/Hamamatsu_S10362-11-100C_p_f_vs_V
+_rus-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-11 17:44:43
+(epstopdf)                    size: 58107 bytes
+(epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S10362-1
+1-100C_p_f_vs_V_rus-eps-converted-to.pdf pictures/Hamamatsu_S10362-11-100C_p_f_
+vs_V_rus.eps>
+(epstopdf)             \includegraphics on input line 705.
+Package epstopdf Info: Output file is already uptodate.
+
+<pictures/Hamamatsu_S10362-11-100C_p_f_vs_V_rus-eps-converted-to.pdf, id=1078, 
+820.06375pt x 797.98125pt>
+File: pictures/Hamamatsu_S10362-11-100C_p_f_vs_V_rus-eps-converted-to.pdf Graph
+ic file (type pdf)
+
+<use pictures/Hamamatsu_S10362-11-100C_p_f_vs_V_rus-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_p_f_vs_V_rus-eps-con
+verted-to.pdf used on input line 705.
+(pdftex.def)             Requested size: 227.62204pt x 221.48503pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package epstopdf Info: Source file: <pictures/Hamamatsu_S10362-11-100C_p_s_vs_T
+_rus.eps>
+(epstopdf)                    date: 2016-01-11 17:53:21
+(epstopdf)                    size: 135013 bytes
+(epstopdf)             Output file: <pictures/Hamamatsu_S10362-11-100C_p_s_vs_T
+_rus-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-11 17:54:19
+(epstopdf)                    size: 55101 bytes
+(epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S10362-1
+1-100C_p_s_vs_T_rus-eps-converted-to.pdf pictures/Hamamatsu_S10362-11-100C_p_s_
+vs_T_rus.eps>
+(epstopdf)             \includegraphics on input line 712.
+Package epstopdf Info: Output file is already uptodate.
+
+<pictures/Hamamatsu_S10362-11-100C_p_s_vs_T_rus-eps-converted-to.pdf, id=1079, 
+820.06375pt x 779.91376pt>
+File: pictures/Hamamatsu_S10362-11-100C_p_s_vs_T_rus-eps-converted-to.pdf Graph
+ic file (type pdf)
+
+<use pictures/Hamamatsu_S10362-11-100C_p_s_vs_T_rus-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_p_s_vs_T_rus-eps-con
+verted-to.pdf used on input line 712.
+(pdftex.def)             Requested size: 227.62204pt x 216.47028pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package epstopdf Info: Source file: <pictures/Hamamatsu_S10362-11-100C_p_s_vs_V
+_rus.eps>
+(epstopdf)                    date: 2016-01-11 18:01:43
+(epstopdf)                    size: 141195 bytes
+(epstopdf)             Output file: <pictures/Hamamatsu_S10362-11-100C_p_s_vs_V
+_rus-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-11 18:03:03
+(epstopdf)                    size: 58948 bytes
+(epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S10362-1
+1-100C_p_s_vs_V_rus-eps-converted-to.pdf pictures/Hamamatsu_S10362-11-100C_p_s_
+vs_V_rus.eps>
+(epstopdf)             \includegraphics on input line 719.
+Package epstopdf Info: Output file is already uptodate.
+
+<pictures/Hamamatsu_S10362-11-100C_p_s_vs_V_rus-eps-converted-to.pdf, id=1080, 
+820.06375pt x 781.92125pt>
+File: pictures/Hamamatsu_S10362-11-100C_p_s_vs_V_rus-eps-converted-to.pdf Graph
+ic file (type pdf)
+
+<use pictures/Hamamatsu_S10362-11-100C_p_s_vs_V_rus-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_p_s_vs_V_rus-eps-con
+verted-to.pdf used on input line 719.
+(pdftex.def)             Requested size: 227.62204pt x 217.02747pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package epstopdf Info: Source file: <pictures/Hamamatsu_S10362-11-100C_tau_f_vs
+_T_rus.eps>
+(epstopdf)                    date: 2016-01-11 18:10:46
+(epstopdf)                    size: 156771 bytes
+(epstopdf)             Output file: <pictures/Hamamatsu_S10362-11-100C_tau_f_vs
+_T_rus-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-11 18:11:26
+(epstopdf)                    size: 59661 bytes
+(epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S10362-1
+1-100C_tau_f_vs_T_rus-eps-converted-to.pdf pictures/Hamamatsu_S10362-11-100C_ta
+u_f_vs_T_rus.eps>
+(epstopdf)             \includegraphics on input line 726.
+Package epstopdf Info: Output file is already uptodate.
+
+<pictures/Hamamatsu_S10362-11-100C_tau_f_vs_T_rus-eps-converted-to.pdf, id=1081
+, 820.06375pt x 791.95876pt>
+File: pictures/Hamamatsu_S10362-11-100C_tau_f_vs_T_rus-eps-converted-to.pdf Gra
+phic file (type pdf)
+
+<use pictures/Hamamatsu_S10362-11-100C_tau_f_vs_T_rus-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_tau_f_vs_T_rus-eps-c
+onverted-to.pdf used on input line 726.
+(pdftex.def)             Requested size: 227.62204pt x 219.81345pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package epstopdf Info: Source file: <pictures/Hamamatsu_S10362-11-100C_tau_f_vs
+_V_rus.eps>
+(epstopdf)                    date: 2016-01-11 18:24:32
+(epstopdf)                    size: 121690 bytes
+(epstopdf)             Output file: <pictures/Hamamatsu_S10362-11-100C_tau_f_vs
+_V_rus-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-11 18:27:27
+(epstopdf)                    size: 50394 bytes
+(epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S10362-1
+1-100C_tau_f_vs_V_rus-eps-converted-to.pdf pictures/Hamamatsu_S10362-11-100C_ta
+u_f_vs_V_rus.eps>
+(epstopdf)             \includegraphics on input line 733.
+Package epstopdf Info: Output file is already uptodate.
+
+<pictures/Hamamatsu_S10362-11-100C_tau_f_vs_V_rus-eps-converted-to.pdf, id=1082
+, 820.06375pt x 811.03pt>
+File: pictures/Hamamatsu_S10362-11-100C_tau_f_vs_V_rus-eps-converted-to.pdf Gra
+phic file (type pdf)
+
+<use pictures/Hamamatsu_S10362-11-100C_tau_f_vs_V_rus-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_tau_f_vs_V_rus-eps-c
+onverted-to.pdf used on input line 733.
+(pdftex.def)             Requested size: 227.62204pt x 225.1068pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package epstopdf Info: Source file: <pictures/Hamamatsu_S10362-11-100C_tau_s_vs
+_T_rus.eps>
+(epstopdf)                    date: 2016-01-11 19:13:51
+(epstopdf)                    size: 118284 bytes
+(epstopdf)             Output file: <pictures/Hamamatsu_S10362-11-100C_tau_s_vs
+_T_rus-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-11 19:14:21
+(epstopdf)                    size: 50732 bytes
+(epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S10362-1
+1-100C_tau_s_vs_T_rus-eps-converted-to.pdf pictures/Hamamatsu_S10362-11-100C_ta
+u_s_vs_T_rus.eps>
+(epstopdf)             \includegraphics on input line 740.
+Package epstopdf Info: Output file is already uptodate.
+
+<pictures/Hamamatsu_S10362-11-100C_tau_s_vs_T_rus-eps-converted-to.pdf, id=1083
+, 819.06pt x 781.92125pt>
+File: pictures/Hamamatsu_S10362-11-100C_tau_s_vs_T_rus-eps-converted-to.pdf Gra
+phic file (type pdf)
+
+<use pictures/Hamamatsu_S10362-11-100C_tau_s_vs_T_rus-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_tau_s_vs_T_rus-eps-c
+onverted-to.pdf used on input line 740.
+(pdftex.def)             Requested size: 227.62204pt x 217.30188pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package epstopdf Info: Source file: <pictures/Hamamatsu_S10362-11-100C_tau_s_vs
+_V_rus.eps>
+(epstopdf)                    date: 2016-01-11 19:10:31
+(epstopdf)                    size: 129527 bytes
+(epstopdf)             Output file: <pictures/Hamamatsu_S10362-11-100C_tau_s_vs
+_V_rus-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-11 19:14:22
+(epstopdf)                    size: 51616 bytes
+(epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S10362-1
+1-100C_tau_s_vs_V_rus-eps-converted-to.pdf pictures/Hamamatsu_S10362-11-100C_ta
+u_s_vs_V_rus.eps>
+(epstopdf)             \includegraphics on input line 747.
+Package epstopdf Info: Output file is already uptodate.
+
+<pictures/Hamamatsu_S10362-11-100C_tau_s_vs_V_rus-eps-converted-to.pdf, id=1084
+, 819.06pt x 784.9325pt>
+File: pictures/Hamamatsu_S10362-11-100C_tau_s_vs_V_rus-eps-converted-to.pdf Gra
+phic file (type pdf)
+
+<use pictures/Hamamatsu_S10362-11-100C_tau_s_vs_V_rus-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_tau_s_vs_V_rus-eps-c
+onverted-to.pdf used on input line 747.
+(pdftex.def)             Requested size: 227.62204pt x 218.13873pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-<pictures/Hamamatsu_S10362-11-100C_p_f_vs_V.pdf, id=2114, 821.0675pt x 572.1375
-pt>
-File: pictures/Hamamatsu_S10362-11-100C_p_f_vs_V.pdf Graphic file (type pdf)
- <use pictures/Hamamatsu_S10362-11-100C_p_f_vs_V.pdf>
-Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_p_f_vs_V.pdf used on
- input line 705.
-(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-<pictures/Hamamatsu_S10362-11-100C_p_s_vs_T.pdf, id=2115, 821.0675pt x 572.1375
-pt>
-File: pictures/Hamamatsu_S10362-11-100C_p_s_vs_T.pdf Graphic file (type pdf)
- <use pictures/Hamamatsu_S10362-11-100C_p_s_vs_T.pdf>
-Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_p_s_vs_T.pdf used on
- input line 712.
-(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-<pictures/Hamamatsu_S10362-11-100C_p_s_vs_V.pdf, id=2116, 821.0675pt x 572.1375
-pt>
-File: pictures/Hamamatsu_S10362-11-100C_p_s_vs_V.pdf Graphic file (type pdf)
- <use pictures/Hamamatsu_S10362-11-100C_p_s_vs_V.pdf>
-Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_p_s_vs_V.pdf used on
- input line 719.
-(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-<pictures/Hamamatsu_S10362-11-100C_tau_f_vs_T.pdf, id=2117, 821.0675pt x 572.13
-75pt>
-File: pictures/Hamamatsu_S10362-11-100C_tau_f_vs_T.pdf Graphic file (type pdf)
- <use pictures/Hamamatsu_S10362-11-100C_tau_f_vs_T.pdf>
-Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_tau_f_vs_T.pdf used 
-on input line 726.
-(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-<pictures/Hamamatsu_S10362-11-100C_tau_f_vs_V.pdf, id=2118, 821.0675pt x 572.13
-75pt>
-File: pictures/Hamamatsu_S10362-11-100C_tau_f_vs_V.pdf Graphic file (type pdf)
- <use pictures/Hamamatsu_S10362-11-100C_tau_f_vs_V.pdf>
-Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_tau_f_vs_V.pdf used 
-on input line 733.
-(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-<pictures/Hamamatsu_S10362-11-100C_tau_s_vs_T.pdf, id=2119, 821.0675pt x 572.13
-75pt>
-File: pictures/Hamamatsu_S10362-11-100C_tau_s_vs_T.pdf Graphic file (type pdf)
- <use pictures/Hamamatsu_S10362-11-100C_tau_s_vs_T.pdf>
-Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_tau_s_vs_T.pdf used 
-on input line 740.
-(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-<pictures/Hamamatsu_S10362-11-100C_tau_s_vs_V.pdf, id=2120, 821.0675pt x 572.13
-75pt>
-File: pictures/Hamamatsu_S10362-11-100C_tau_s_vs_V.pdf Graphic file (type pdf)
- <use pictures/Hamamatsu_S10362-11-100C_tau_s_vs_V.pdf>
-Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_tau_s_vs_V.pdf used 
-on input line 747.
-(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[39 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_xtalk_ra
-tio_vs_T.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 762--762
 []\T2A/cmr/m/n/12 Параметр /
  []
@@ -1438,9 +1851,8 @@ Overfull \hbox (45.77357pt too wide) in paragraph at lines 760--769
  [] 
  []
 
-[40 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_p_f_vs_T
-.pdf> <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_p_f_vs
-_V.pdf>]
+[38 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_295K_1_O
+V_dt_spectrum.pdf, page is rotated 90 degrees>]
 Underfull \hbox (badness 10000) in paragraph at lines 783--783
 []\T2A/cmr/m/n/12 Параметр /
  []
@@ -1480,20 +1892,32 @@ Overfull \hbox (45.77357pt too wide) in paragraph at lines 781--794
  [] 
  []
 
-[41 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_p_s_vs_T
-.pdf> <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_p_s_vs
-_V.pdf>] [42 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C
-_tau_f_vs_T.pdf> <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-
-100C_tau_f_vs_V.pdf>] [43 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S
-10362-11-100C_tau_s_vs_T.pdf> <D:/git_repositories/PhD/paper_1/pictures/Hamamat
-su_S10362-11-100C_tau_s_vs_V.pdf>]
-<pictures/Hamamatsu_S10362-11-100C_ENF_vs_V.pdf, id=3061, 821.0675pt x 572.1375
-pt>
-File: pictures/Hamamatsu_S10362-11-100C_ENF_vs_V.pdf Graphic file (type pdf)
- <use pictures/Hamamatsu_S10362-11-100C_ENF_vs_V.pdf>
-Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_ENF_vs_V.pdf used on
- input line 827.
-(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
+[39 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_295K_1_O
+V_dt_spectrum_timecut_rus-eps-converted-to.pdf>] [40 <D:/git_repositories/PhD/p
+aper_1/pictures/Hamamatsu_S10362-11-100C_dc_vs_T_rus-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <pictures/Hamamatsu_S10362-11-100C_ENF_vs_V
+_rus.eps>
+(epstopdf)                    date: 2016-01-11 19:42:27
+(epstopdf)                    size: 118798 bytes
+(epstopdf)             Output file: <pictures/Hamamatsu_S10362-11-100C_ENF_vs_V
+_rus-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-11 19:45:09
+(epstopdf)                    size: 60779 bytes
+(epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S10362-1
+1-100C_ENF_vs_V_rus-eps-converted-to.pdf pictures/Hamamatsu_S10362-11-100C_ENF_
+vs_V_rus.eps>
+(epstopdf)             \includegraphics on input line 827.
+Package epstopdf Info: Output file is already uptodate.
+
+<pictures/Hamamatsu_S10362-11-100C_ENF_vs_V_rus-eps-converted-to.pdf, id=1187, 
+821.0675pt x 801.99625pt>
+File: pictures/Hamamatsu_S10362-11-100C_ENF_vs_V_rus-eps-converted-to.pdf Graph
+ic file (type pdf)
+
+<use pictures/Hamamatsu_S10362-11-100C_ENF_vs_V_rus-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_ENF_vs_V_rus-eps-con
+verted-to.pdf used on input line 827.
+(pdftex.def)             Requested size: 227.62204pt x 222.3302pt.
 
 Underfull \hbox (badness 1742) in paragraph at lines 829--829
 []\T2A/cmr/m/n/12 Рис. 44. За-ви-си-мость из-бы-точ-но-го фак-то-ра шу-ма от пе
@@ -1501,21 +1925,43 @@ Underfull \hbox (badness 1742) in paragraph at lines 829--829
  []
 
 
-<pictures/Hamamatsu_S10362-11-100C_QF_vs_V.pdf, id=3062, 821.0675pt x 572.1375p
-t>
-File: pictures/Hamamatsu_S10362-11-100C_QF_vs_V.pdf Graphic file (type pdf)
- <use pictures/Hamamatsu_S10362-11-100C_QF_vs_V.pdf>
-Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_QF_vs_V.pdf used on 
-input line 845.
-(pdftex.def)             Requested size: 227.62204pt x 158.60852pt.
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package epstopdf Info: Source file: <pictures/Hamamatsu_S10362-11-100C_QF_vs_V_
+rus.eps>
+(epstopdf)                    date: 2016-01-11 19:53:03
+(epstopdf)                    size: 112922 bytes
+(epstopdf)             Output file: <pictures/Hamamatsu_S10362-11-100C_QF_vs_V_
+rus-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-01-11 19:55:39
+(epstopdf)                    size: 49412 bytes
+(epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S10362-1
+1-100C_QF_vs_V_rus-eps-converted-to.pdf pictures/Hamamatsu_S10362-11-100C_QF_vs
+_V_rus.eps>
+(epstopdf)             \includegraphics on input line 845.
+Package epstopdf Info: Output file is already uptodate.
+
+<pictures/Hamamatsu_S10362-11-100C_QF_vs_V_rus-eps-converted-to.pdf, id=1188, 8
+21.0675pt x 817.0525pt>
+File: pictures/Hamamatsu_S10362-11-100C_QF_vs_V_rus-eps-converted-to.pdf Graphi
+c file (type pdf)
+
+<use pictures/Hamamatsu_S10362-11-100C_QF_vs_V_rus-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_QF_vs_V_rus-eps-conv
+erted-to.pdf used on input line 845.
+(pdftex.def)             Requested size: 227.62204pt x 226.5041pt.
 
 Underfull \hbox (badness 4595) in paragraph at lines 847--847
 []\T2A/cmr/m/n/12 Рис. 45. За-ви-си-мость кван-то-вой эф-фек-тив-но-сти от пе-р
 е-на-пря-же-ния для
  []
 
-[44 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_ENF_vs_V
-.pdf>]
+[41 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_dc_vs_V_
+rus-eps-converted-to.pdf>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 854--854
 []\T2A/cmr/m/n/12 Параметр /
  []
@@ -1555,8 +2001,25 @@ Overfull \hbox (45.77357pt too wide) in paragraph at lines 852--861
  [] 
  []
 
-) [45 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_QF_vs_
-V.pdf>] (D:\git_repositories\PhD\paper_1\bibliography.tex
+[42 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_xtalk_vs
+_T_rus-eps-converted-to.pdf>]) [43 <D:/git_repositories/PhD/paper_1/pictures/Ha
+mamatsu_S10362-11-100C_xtalk_vs_V_rus-eps-converted-to.pdf>] [44 <D:/git_reposi
+tories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_xtalk_ratio_vs_T_rus-eps-c
+onverted-to.pdf> <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-
+100C_p_f_vs_T_rus-eps-converted-to.pdf>] [45 <D:/git_repositories/PhD/paper_1/p
+ictures/Hamamatsu_S10362-11-100C_p_f_vs_V_rus-eps-converted-to.pdf> <D:/git_rep
+ositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_p_s_vs_T_rus-eps-conver
+ted-to.pdf>] [46 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-
+100C_p_s_vs_V_rus-eps-converted-to.pdf> <D:/git_repositories/PhD/paper_1/pictur
+es/Hamamatsu_S10362-11-100C_tau_f_vs_T_rus-eps-converted-to.pdf>] [47 <D:/git_r
+epositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_tau_f_vs_V_rus-eps-co
+nverted-to.pdf> <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-1
+00C_tau_s_vs_T_rus-eps-converted-to.pdf>] [48 <D:/git_repositories/PhD/paper_1/
+pictures/Hamamatsu_S10362-11-100C_tau_s_vs_V_rus-eps-converted-to.pdf> <D:/git_
+repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_ENF_vs_V_rus-eps-con
+verted-to.pdf>] [49 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-
+11-100C_QF_vs_V_rus-eps-converted-to.pdf>]
+(D:\git_repositories\PhD\paper_1\bibliography.tex
 Underfull \hbox (badness 10000) in paragraph at lines 9--10
 []\T2A/cmr/m/n/12 TOWARD A USER`S TOOLKIT FOR MODELING SCINTILLATOR
  []
@@ -1567,10 +2030,10 @@ Underfull \hbox (badness 1708) in paragraph at lines 20--22
 Eckert, Hans-
  []
 
-) [46
+) [50
 
 
-] [47] (D:\git_repositories\PhD\paper_1\main.aux
+] [51] (D:\git_repositories\PhD\paper_1\main.aux
 (D:\git_repositories\PhD\paper_1\content_theory.aux)
 (D:\git_repositories\PhD\paper_1\content_experiment.aux)
 (D:\git_repositories\PhD\paper_1\bibliography.aux))
@@ -1583,8 +2046,8 @@ LaTeX Warning: There were multiply-defined labels.
  ) 
 Here is how much of TeX's memory you used:
  5328 strings out of 493921
- 80973 string characters out of 3150556
- 143575 words of memory out of 3000000
+ 83437 string characters out of 3150556
+ 146575 words of memory out of 3000000
  8345 multiletter control sequences out of 15000+200000
  19913 words of font info for 51 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
@@ -1605,9 +2068,9 @@ TeX/texmf/fonts/type1/public/cm-super/sfbx2488.pfb><D:/LaTex/Full_TeX/texmf/fon
 ts/type1/public/cm-super/sfrm0800.pfb><D:/LaTex/Full_TeX/texmf/fonts/type1/publ
 ic/cm-super/sfrm1200.pfb><D:/LaTex/Full_TeX/texmf/fonts/type1/public/cm-super/s
 fti1200.pfb>
-Output written on main.pdf (47 pages, 7259371 bytes).
+Output written on main.pdf (51 pages, 4398949 bytes).
 PDF statistics:
- 3336 PDF objects out of 3580 (max. 8388607)
+ 1713 PDF objects out of 1728 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  246 words of extra memory for PDF output out of 10000 (max. 10000000)
 
