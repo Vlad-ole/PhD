@@ -12,6 +12,7 @@
 \usepackage{calc}
 
 \usepackage[pdftex]{graphicx}
+\usepackage{epstopdf}
 \graphicspath{{pictures/}}
 
 \usepackage{latexsym,amsfonts,amssymb,amsmath,eucal}
@@ -41,6 +42,7 @@
 
 \include{content_theory}
 \include{content_experiment}
+\include{content_crustall_er}
 
 \include{bibliography}
 \end{document}
