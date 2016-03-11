@@ -119,8 +119,8 @@ $$ Var \left[ \sum \limits_{i=0}^{N} X_{i} \right] = Var[N] \cdot ( E[X] )^2 + V
 
 »того, пренебрега€ вкладами флуктуаций светосбора и усилени€ и пользу€сь тем, что $E[n_{p.e.}] = \varepsilon$,
 с достаточно хорошей точность можно использовать следующую формулу дл€ вычислени€ энергетического разрешени€:
-\begin{eqnarray}\label{eq:ener_resol_base}
-{\delta E}^2 / \Delta^2 \approx \frac{Var[N_{born}]}{(E[N_{born}])^2} + \frac{1 - \varepsilon}{N_{p.e.}}
+\begin{eqnarray}\label{eq:ener_resol_redused}
+{\delta E}^2 / \Delta^2 \approx \frac{Var[N_{born}]}{(E[N_{born}])^2} + \frac{1 - \varepsilon  \cdot E[n_{abs}]}{E[N_{p.e.}]}
 \end{eqnarray}
 
 \subsection{”чет собственных шумов ‘Ё” и шумов электроники}

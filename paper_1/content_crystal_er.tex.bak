@@ -2,6 +2,9 @@
 Одним из решающих факторов, оказывающих влияние на энергетическое разрешение детектора, является собственное энергетическое разрешение сцинтиллятора.
 Было произведено несколько измерений: без источника света с внешним триггером, с источником света и внешним триггером, с изотопом Am и триггером по порогу.
 
+
+
+
 \begin{figure}[h]
 \includegraphics[width=0.47\textwidth]{PMT_Ham_big_950V_noise_vs_light}
 \hfill
@@ -18,11 +21,29 @@
 \begin{figure}[h]
 \includegraphics[width=0.47\textwidth]{LuYAG_PMT_ER_factors_rus}
 \hfill
-\includegraphics[width=0.47\textwidth]{LuYAG_PMT_ER_factors_rus}
+\includegraphics[width=0.47\textwidth]{LFS-3_LYSO_LuYAG_rus}
 \\
-\parbox[t]{0.47\textwidth}{\caption{Зависимость энергетического разрешения детектора на основе ФЭУ и LuYAG для }
+\parbox[t]{0.47\textwidth}{\caption{Зависимость энергетического разрешения от энергии гамма кванта для детектора на основе ФЭУ (квантовая эффективность 28\%.) и LuYAG. }
+\label{image:}}
+\hfill
+\parbox[t]{0.47\textwidth}{\caption{Зависимость собственного энергетического разрешения сцинтилляторов от энергии гамма кванта.}
+\label{image:}}
+\end{figure}
+
+Часто удобно описывать отличие реального сцинтиллятора от идеального с помощью фактора Фано.
+По определению, фактор Фано $F$ определяется как отличие собственного энергетического разрешения сцинтиллятора от пуассоновской статистики.
+\begin{eqnarray}\label{eq:fano}
+F = \frac{\delta E_{intrinsic}}{}
+\end{eqnarray} 
+
+\begin{figure}[h]
+\includegraphics[width=0.47\textwidth]{Fano_LFS_LYSO_LuYAG_rus}
+\hfill
+\includegraphics[width=0.47\textwidth]{Nonlinear_LFS_LYSO_LuYAG_rus}
+\\
+\parbox[t]{0.47\textwidth}{\caption{}
 \label{image:}}
 \hfill
 \parbox[t]{0.47\textwidth}{\caption{}
 \label{image:}}
-\end{figure}
+\end{figure} 

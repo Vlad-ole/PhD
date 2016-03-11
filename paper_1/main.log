@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  3 FEB 2016 11:47
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.8)  11 MAR 2016 18:36
 entering extended mode
 **D:/git_repositories/PhD/paper_1/main.tex
 (D:/git_repositories/PhD/paper_1/main.tex
@@ -471,22 +471,11 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 (D:\git_repositories\PhD\paper_1\main.aux
 (D:\git_repositories\PhD\paper_1\content_theory.aux
 
-LaTeX Warning: Label `eq:ener_resol_base' multiply defined.
-
-
 LaTeX Warning: Label `eq:ENF_var2' multiply defined.
 
 ) (D:\git_repositories\PhD\paper_1\content_experiment.aux
 
 LaTeX Warning: Label `image:recovery_time-ketec_11_4_5OV' multiply defined.
-
-
-LaTeX Warning: Label `image:Hamamatsu_S10362-11-100C_303K_70V_dt_example' multi
-ply defined.
-
-
-LaTeX Warning: Label `image:Hamamatsu_S10362-11-100C_303K_70V_dt_example' multi
-ply defined.
 
 
 LaTeX Warning: Label `image:Hamamatsu_S10362-11-100C_p_f_vs_V' multiply defined
@@ -1177,12 +1166,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 302--302
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 302--302
+[]\T2A/cmr/m/n/12 Hamamatsu
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 302--303
 []\T2A/cmr/m/n/12 Hamamatsu
  []
 
 
-Overfull \hbox (45.77357pt too wide) in paragraph at lines 300--317
+Overfull \hbox (143.13184pt too wide) in paragraph at lines 300--317
  [] 
  []
 
@@ -1587,7 +1581,7 @@ us-eps-converted-to.pdf>
 (epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S13360-3
 050CS_dc_vs_V_rus-eps-converted-to.pdf pictures/Hamamatsu_S13360-3050CS_dc_vs_V
 _rus.eps>
-(epstopdf)             \includegraphics on input line 586.
+(epstopdf)             \includegraphics on input line 587.
 Package epstopdf Info: Output file is already uptodate.
 
 <pictures/Hamamatsu_S13360-3050CS_dc_vs_V_rus-eps-converted-to.pdf, id=842, 821
@@ -1597,8 +1591,30 @@ File: pictures/Hamamatsu_S13360-3050CS_dc_vs_V_rus-eps-converted-to.pdf Graphic
 
 <use pictures/Hamamatsu_S13360-3050CS_dc_vs_V_rus-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/Hamamatsu_S13360-3050CS_dc_vs_V_rus-eps-conve
-rted-to.pdf used on input line 586.
-(pdftex.def)             Requested size: 227.62204pt x 223.44324pt.
+rted-to.pdf used on input line 587.
+(pdftex.def)             Requested size: 207.27887pt x 203.47011pt.
+Package epstopdf Info: Source file: <pictures/KETEK_PM1125NS_SB0_dc_vs_V_rus.ep
+s>
+(epstopdf)                    date: 2016-03-11 16:52:38
+(epstopdf)                    size: 88624 bytes
+(epstopdf)             Output file: <pictures/KETEK_PM1125NS_SB0_dc_vs_V_rus-ep
+s-converted-to.pdf>
+(epstopdf)                    date: 2016-03-11 16:53:28
+(epstopdf)                    size: 40690 bytes
+(epstopdf)             Command: <epstopdf --outfile=pictures/KETEK_PM1125NS_SB0
+_dc_vs_V_rus-eps-converted-to.pdf pictures/KETEK_PM1125NS_SB0_dc_vs_V_rus.eps>
+(epstopdf)             \includegraphics on input line 589.
+Package epstopdf Info: Output file is already uptodate.
+
+<pictures/KETEK_PM1125NS_SB0_dc_vs_V_rus-eps-converted-to.pdf, id=843, 822.0712
+4pt x 818.05624pt>
+File: pictures/KETEK_PM1125NS_SB0_dc_vs_V_rus-eps-converted-to.pdf Graphic file
+ (type pdf)
+
+<use pictures/KETEK_PM1125NS_SB0_dc_vs_V_rus-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/KETEK_PM1125NS_SB0_dc_vs_V_rus-eps-converted-
+to.pdf used on input line 589.
+(pdftex.def)             Requested size: 207.27887pt x 206.26111pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1610,7 +1626,8 @@ ted-to.pdf>] [32 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-
 100C_dc_vs_T_rus-eps-converted-to.pdf> <D:/git_repositories/PhD/paper_1/picture
 s/Hamamatsu_S10362-11-100C_dc_vs_V_rus-eps-converted-to.pdf>] [33 <D:/git_repos
 itories/PhD/paper_1/pictures/Hamamatsu_S13360-3050CS_dc_vs_V_rus-eps-converted-
-to.pdf>]
+to.pdf> <D:/git_repositories/PhD/paper_1/pictures/KETEK_PM1125NS_SB0_dc_vs_V_ru
+s-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <pictures/Hamamatsu_S10362-11-100C_xtalk_vs
 _T_rus.eps>
 (epstopdf)                    date: 2016-01-11 16:52:20
@@ -1622,17 +1639,17 @@ _T_rus-eps-converted-to.pdf>
 (epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S10362-1
 1-100C_xtalk_vs_T_rus-eps-converted-to.pdf pictures/Hamamatsu_S10362-11-100C_xt
 alk_vs_T_rus.eps>
-(epstopdf)             \includegraphics on input line 647.
+(epstopdf)             \includegraphics on input line 655.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/Hamamatsu_S10362-11-100C_xtalk_vs_T_rus-eps-converted-to.pdf, id=998,
- 820.06375pt x 797.98125pt>
+<pictures/Hamamatsu_S10362-11-100C_xtalk_vs_T_rus-eps-converted-to.pdf, id=1026
+, 820.06375pt x 797.98125pt>
 File: pictures/Hamamatsu_S10362-11-100C_xtalk_vs_T_rus-eps-converted-to.pdf Gra
 phic file (type pdf)
 
 <use pictures/Hamamatsu_S10362-11-100C_xtalk_vs_T_rus-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_xtalk_vs_T_rus-eps-c
-onverted-to.pdf used on input line 647.
+onverted-to.pdf used on input line 655.
 (pdftex.def)             Requested size: 207.27887pt x 201.69872pt.
 Package epstopdf Info: Source file: <pictures/Hamamatsu_S10362-11-100C_xtalk_vs
 _V_rus.eps>
@@ -1645,55 +1662,55 @@ _V_rus-eps-converted-to.pdf>
 (epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S10362-1
 1-100C_xtalk_vs_V_rus-eps-converted-to.pdf pictures/Hamamatsu_S10362-11-100C_xt
 alk_vs_V_rus.eps>
-(epstopdf)             \includegraphics on input line 649.
+(epstopdf)             \includegraphics on input line 657.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/Hamamatsu_S10362-11-100C_xtalk_vs_V_rus-eps-converted-to.pdf, id=999,
- 820.06375pt x 773.89125pt>
+<pictures/Hamamatsu_S10362-11-100C_xtalk_vs_V_rus-eps-converted-to.pdf, id=1027
+, 820.06375pt x 773.89125pt>
 File: pictures/Hamamatsu_S10362-11-100C_xtalk_vs_V_rus-eps-converted-to.pdf Gra
 phic file (type pdf)
 
 <use pictures/Hamamatsu_S10362-11-100C_xtalk_vs_V_rus-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_xtalk_vs_V_rus-eps-c
-onverted-to.pdf used on input line 649.
+onverted-to.pdf used on input line 657.
 (pdftex.def)             Requested size: 207.27887pt x 195.6097pt.
 
-Underfull \hbox (badness 6995) in paragraph at lines 653--653
-[]\T2A/cmr/m/n/12 Рис. 32. За-ви-си-мость ве-ро-ят-но-сти
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 653--653
-\T2A/cmr/m/n/12 си-ро-ван-ном пе-ре-на-пря-же-нии для
- []
-
-
-Underfull \hbox (badness 2277) in paragraph at lines 653--653
-\T2A/cmr/m/n/12 Hamamatsu S10362-11-100C. Дан-ные
- []
-
-
-Underfull \hbox (badness 6995) in paragraph at lines 657--657
+Underfull \hbox (badness 6995) in paragraph at lines 661--661
 []\T2A/cmr/m/n/12 Рис. 33. За-ви-си-мость ве-ро-ят-но-сти
  []
 
 
-Underfull \hbox (badness 5203) in paragraph at lines 657--657
+Underfull \hbox (badness 10000) in paragraph at lines 661--661
+\T2A/cmr/m/n/12 си-ро-ван-ном пе-ре-на-пря-же-нии для
+ []
+
+
+Underfull \hbox (badness 2277) in paragraph at lines 661--661
+\T2A/cmr/m/n/12 Hamamatsu S10362-11-100C. Дан-ные
+ []
+
+
+Underfull \hbox (badness 6995) in paragraph at lines 665--665
+[]\T2A/cmr/m/n/12 Рис. 34. За-ви-си-мость ве-ро-ят-но-сти
+ []
+
+
+Underfull \hbox (badness 5203) in paragraph at lines 665--665
 \T2A/cmr/m/n/12 крос-сто-ка от пе-ре-на-пря-же-ния при
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 657--657
+Underfull \hbox (badness 10000) in paragraph at lines 665--665
 \T2A/cmr/m/n/12 фик-си-ро-ван-ной тем-пе-ра-ту-ре для
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 657--657
+Underfull \hbox (badness 10000) in paragraph at lines 665--665
 \T2A/cmr/m/n/12 Hamamatsu S10362-11-100C. Дан-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 657--657
+Underfull \hbox (badness 10000) in paragraph at lines 665--665
 \T2A/cmr/m/n/12 ные ап-прок-си-ми-ро-ва-ны ли-ней-ной
  []
 
@@ -1708,18 +1725,70 @@ V_rus-eps-converted-to.pdf>
 (epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S13360-3
 050CS_xtalk_vs_V_rus-eps-converted-to.pdf pictures/Hamamatsu_S13360-3050CS_xtal
 k_vs_V_rus.eps>
-(epstopdf)             \includegraphics on input line 661.
+(epstopdf)             \includegraphics on input line 669.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/Hamamatsu_S13360-3050CS_xtalk_vs_V_rus-eps-converted-to.pdf, id=1000,
+<pictures/Hamamatsu_S13360-3050CS_xtalk_vs_V_rus-eps-converted-to.pdf, id=1028,
  820.06375pt x 784.9325pt>
 File: pictures/Hamamatsu_S13360-3050CS_xtalk_vs_V_rus-eps-converted-to.pdf Grap
 hic file (type pdf)
 
 <use pictures/Hamamatsu_S13360-3050CS_xtalk_vs_V_rus-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/Hamamatsu_S13360-3050CS_xtalk_vs_V_rus-eps-co
-nverted-to.pdf used on input line 661.
-(pdftex.def)             Requested size: 227.62204pt x 217.86327pt.
+nverted-to.pdf used on input line 669.
+(pdftex.def)             Requested size: 207.27887pt x 198.40048pt.
+Package epstopdf Info: Source file: <pictures/KETEK_PM1125NS_SB0_x-tlak_vs_V_ru
+s.eps>
+(epstopdf)                    date: 2016-03-11 17:09:16
+(epstopdf)                    size: 98338 bytes
+(epstopdf)             Output file: <pictures/KETEK_PM1125NS_SB0_x-tlak_vs_V_ru
+s-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-03-11 17:09:19
+(epstopdf)                    size: 42225 bytes
+(epstopdf)             Command: <epstopdf --outfile=pictures/KETEK_PM1125NS_SB0
+_x-tlak_vs_V_rus-eps-converted-to.pdf pictures/KETEK_PM1125NS_SB0_x-tlak_vs_V_r
+us.eps>
+(epstopdf)             \includegraphics on input line 671.
+Package epstopdf Info: Output file is already uptodate.
+
+<pictures/KETEK_PM1125NS_SB0_x-tlak_vs_V_rus-eps-converted-to.pdf, id=1029, 821
+.0675pt x 801.99625pt>
+File: pictures/KETEK_PM1125NS_SB0_x-tlak_vs_V_rus-eps-converted-to.pdf Graphic 
+file (type pdf)
+
+<use pictures/KETEK_PM1125NS_SB0_x-tlak_vs_V_rus-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/KETEK_PM1125NS_SB0_x-tlak_vs_V_rus-eps-conver
+ted-to.pdf used on input line 671.
+(pdftex.def)             Requested size: 207.27887pt x 202.45656pt.
+
+Underfull \hbox (badness 6995) in paragraph at lines 675--675
+[]\T2A/cmr/m/n/12 Рис. 35. За-ви-си-мость ве-ро-ят-но-сти
+ []
+
+
+Underfull \hbox (badness 5203) in paragraph at lines 675--675
+\T2A/cmr/m/n/12 крос-сто-ка от пе-ре-на-пря-же-ния при
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 675--675
+\T2A/cmr/m/n/12 фик-си-ро-ван-ной тем-пе-ра-ту-ре для
+ []
+
+
+Underfull \hbox (badness 6995) in paragraph at lines 679--679
+[]\T2A/cmr/m/n/12 Рис. 36. За-ви-си-мость ве-ро-ят-но-сти
+ []
+
+
+Underfull \hbox (badness 5203) in paragraph at lines 679--679
+\T2A/cmr/m/n/12 крос-сто-ка от пе-ре-на-пря-же-ния при
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 679--679
+\T2A/cmr/m/n/12 фик-си-ро-ван-ной тем-пе-ра-ту-ре для
+ []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1727,50 +1796,53 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [34 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_xtalk_vs
 _T_rus-eps-converted-to.pdf> <D:/git_repositories/PhD/paper_1/pictures/Hamamats
 u_S10362-11-100C_xtalk_vs_V_rus-eps-converted-to.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 685--685
+Underfull \hbox (badness 10000) in paragraph at lines 701--701
 []\T2A/cmr/m/n/12 Параметр /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 685--685
+Underfull \hbox (badness 10000) in paragraph at lines 701--701
 []\T2A/cmr/m/n/12 KETEK
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 685--685
+Underfull \hbox (badness 10000) in paragraph at lines 701--701
 \T2A/cmr/m/n/12 PM3325NP-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 685--685
+Underfull \hbox (badness 10000) in paragraph at lines 701--701
 []\T2A/cmr/m/n/12 KETEK
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 685--685
+Underfull \hbox (badness 10000) in paragraph at lines 701--701
 \T2A/cmr/m/n/12 PM1125NS-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 685--685
+Underfull \hbox (badness 10000) in paragraph at lines 701--701
 []\T2A/cmr/m/n/12 Hamamatsu
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 685--685
+Underfull \hbox (badness 10000) in paragraph at lines 701--701
 []\T2A/cmr/m/n/12 Hamamatsu
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 685--686
+Underfull \hbox (badness 10000) in paragraph at lines 701--702
 []\T2A/cmr/m/n/12 Hamamatsu
  []
 
 
-Overfull \hbox (143.13184pt too wide) in paragraph at lines 683--690
+Overfull \hbox (143.13184pt too wide) in paragraph at lines 699--706
  [] 
  []
 
+[35 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S13360-3050CS_xtalk_vs_
+V_rus-eps-converted-to.pdf> <D:/git_repositories/PhD/paper_1/pictures/KETEK_PM1
+125NS_SB0_x-tlak_vs_V_rus-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <pictures/Hamamatsu_S10362-11-100C_xtalk_ra
 tio_vs_T_rus.eps>
 (epstopdf)                    date: 2016-01-11 17:17:04
@@ -1782,18 +1854,18 @@ tio_vs_T_rus-eps-converted-to.pdf>
 (epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S10362-1
 1-100C_xtalk_ratio_vs_T_rus-eps-converted-to.pdf pictures/Hamamatsu_S10362-11-1
 00C_xtalk_ratio_vs_T_rus.eps>
-(epstopdf)             \includegraphics on input line 707.
+(epstopdf)             \includegraphics on input line 723.
 Package epstopdf Info: Output file is already uptodate.
 
 <pictures/Hamamatsu_S10362-11-100C_xtalk_ratio_vs_T_rus-eps-converted-to.pdf, i
-d=1065, 820.06375pt x 789.95125pt>
+d=1148, 820.06375pt x 789.95125pt>
 File: pictures/Hamamatsu_S10362-11-100C_xtalk_ratio_vs_T_rus-eps-converted-to.p
 df Graphic file (type pdf)
 
 <use pictures/Hamamatsu_S10362-11-100C_xtalk_ratio_vs_T_rus-eps-converted-to.pd
 f>
 Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_xtalk_ratio_vs_T_rus
--eps-converted-to.pdf used on input line 707.
+-eps-converted-to.pdf used on input line 723.
 (pdftex.def)             Requested size: 207.27887pt x 199.66904pt.
 Package epstopdf Info: Source file: <pictures/Hamamatsu_S13360-3050CS_xtalk_rat
 io_vs_V_rus.eps>
@@ -1806,34 +1878,56 @@ io_vs_V_rus-eps-converted-to.pdf>
 (epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S13360-3
 050CS_xtalk_ratio_vs_V_rus-eps-converted-to.pdf pictures/Hamamatsu_S13360-3050C
 S_xtalk_ratio_vs_V_rus.eps>
-(epstopdf)             \includegraphics on input line 709.
+(epstopdf)             \includegraphics on input line 725.
 Package epstopdf Info: Output file is already uptodate.
 
 <pictures/Hamamatsu_S13360-3050CS_xtalk_ratio_vs_V_rus-eps-converted-to.pdf, id
-=1066, 819.06pt x 781.92125pt>
+=1149, 819.06pt x 781.92125pt>
 File: pictures/Hamamatsu_S13360-3050CS_xtalk_ratio_vs_V_rus-eps-converted-to.pd
 f Graphic file (type pdf)
 
 <use pictures/Hamamatsu_S13360-3050CS_xtalk_ratio_vs_V_rus-eps-converted-to.pdf
 >
 Package pdftex.def Info: pictures/Hamamatsu_S13360-3050CS_xtalk_ratio_vs_V_rus-
-eps-converted-to.pdf used on input line 709.
+eps-converted-to.pdf used on input line 725.
 (pdftex.def)             Requested size: 207.27887pt x 197.87799pt.
 
-Underfull \hbox (badness 1112) in paragraph at lines 713--713
+Underfull \hbox (badness 1112) in paragraph at lines 729--729
 \T2A/cmr/m/n/12 ва-ния до-пол-ни-тель-ной ячей-ки из--за
  []
 
 
-Underfull \hbox (badness 1112) in paragraph at lines 717--717
+Underfull \hbox (badness 1112) in paragraph at lines 733--733
 \T2A/cmr/m/n/12 ва-ния до-пол-ни-тель-ной ячей-ки из--за
  []
+
+Package epstopdf Info: Source file: <pictures/KETEK_PM1125NS_SB0_xtalk_ratio_vs
+_V_rus.eps>
+(epstopdf)                    date: 2016-03-11 17:19:01
+(epstopdf)                    size: 72279 bytes
+(epstopdf)             Output file: <pictures/KETEK_PM1125NS_SB0_xtalk_ratio_vs
+_V_rus-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-03-11 17:20:32
+(epstopdf)                    size: 33638 bytes
+(epstopdf)             Command: <epstopdf --outfile=pictures/KETEK_PM1125NS_SB0
+_xtalk_ratio_vs_V_rus-eps-converted-to.pdf pictures/KETEK_PM1125NS_SB0_xtalk_ra
+tio_vs_V_rus.eps>
+(epstopdf)             \includegraphics on input line 737.
+Package epstopdf Info: Output file is already uptodate.
+
+<pictures/KETEK_PM1125NS_SB0_xtalk_ratio_vs_V_rus-eps-converted-to.pdf, id=1150
+, 820.06375pt x 797.98125pt>
+File: pictures/KETEK_PM1125NS_SB0_xtalk_ratio_vs_V_rus-eps-converted-to.pdf Gra
+phic file (type pdf)
+
+<use pictures/KETEK_PM1125NS_SB0_xtalk_ratio_vs_V_rus-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/KETEK_PM1125NS_SB0_xtalk_ratio_vs_V_rus-eps-c
+onverted-to.pdf used on input line 737.
+(pdftex.def)             Requested size: 227.62204pt x 221.48503pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[35 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S13360-3050CS_xtalk_vs_
-V_rus-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <pictures/Hamamatsu_S10362-11-100C_p_f_vs_T
 _rus.eps>
 (epstopdf)                    date: 2016-01-13 12:02:34
@@ -1845,17 +1939,17 @@ _rus-eps-converted-to.pdf>
 (epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S10362-1
 1-100C_p_f_vs_T_rus-eps-converted-to.pdf pictures/Hamamatsu_S10362-11-100C_p_f_
 vs_T_rus.eps>
-(epstopdf)             \includegraphics on input line 727.
+(epstopdf)             \includegraphics on input line 750.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/Hamamatsu_S10362-11-100C_p_f_vs_T_rus-eps-converted-to.pdf, id=1097, 
+<pictures/Hamamatsu_S10362-11-100C_p_f_vs_T_rus-eps-converted-to.pdf, id=1151, 
 820.06375pt x 779.91376pt>
 File: pictures/Hamamatsu_S10362-11-100C_p_f_vs_T_rus-eps-converted-to.pdf Graph
 ic file (type pdf)
 
 <use pictures/Hamamatsu_S10362-11-100C_p_f_vs_T_rus-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_p_f_vs_T_rus-eps-con
-verted-to.pdf used on input line 727.
+verted-to.pdf used on input line 750.
 (pdftex.def)             Requested size: 207.27887pt x 197.13196pt.
 Package epstopdf Info: Source file: <pictures/Hamamatsu_S10362-11-100C_p_f_vs_V
 _rus.eps>
@@ -1868,35 +1962,35 @@ _rus-eps-converted-to.pdf>
 (epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S10362-1
 1-100C_p_f_vs_V_rus-eps-converted-to.pdf pictures/Hamamatsu_S10362-11-100C_p_f_
 vs_V_rus.eps>
-(epstopdf)             \includegraphics on input line 729.
+(epstopdf)             \includegraphics on input line 752.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/Hamamatsu_S10362-11-100C_p_f_vs_V_rus-eps-converted-to.pdf, id=1098, 
+<pictures/Hamamatsu_S10362-11-100C_p_f_vs_V_rus-eps-converted-to.pdf, id=1152, 
 820.06375pt x 797.98125pt>
 File: pictures/Hamamatsu_S10362-11-100C_p_f_vs_V_rus-eps-converted-to.pdf Graph
 ic file (type pdf)
 
 <use pictures/Hamamatsu_S10362-11-100C_p_f_vs_V_rus-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_p_f_vs_V_rus-eps-con
-verted-to.pdf used on input line 729.
+verted-to.pdf used on input line 752.
 (pdftex.def)             Requested size: 207.27887pt x 201.69872pt.
 
-Underfull \hbox (badness 6995) in paragraph at lines 733--733
-[]\T2A/cmr/m/n/12 Рис. 37. За-ви-си-мость ве-ро-ят-но-сти
+Underfull \hbox (badness 6995) in paragraph at lines 756--756
+[]\T2A/cmr/m/n/12 Рис. 40. За-ви-си-мость ве-ро-ят-но-сти
  []
 
 
-Underfull \hbox (badness 2119) in paragraph at lines 733--733
+Underfull \hbox (badness 2119) in paragraph at lines 756--756
 \T2A/cmr/m/n/12 быст-рой ком-по-нен-ты по-сле-им-пуль-са
  []
 
 
-Underfull \hbox (badness 6995) in paragraph at lines 737--737
-[]\T2A/cmr/m/n/12 Рис. 38. За-ви-си-мость ве-ро-ят-но-сти
+Underfull \hbox (badness 6995) in paragraph at lines 760--760
+[]\T2A/cmr/m/n/12 Рис. 41. За-ви-си-мость ве-ро-ят-но-сти
  []
 
 
-Underfull \hbox (badness 2119) in paragraph at lines 737--737
+Underfull \hbox (badness 2119) in paragraph at lines 760--760
 \T2A/cmr/m/n/12 быст-рой ком-по-нен-ты по-сле-им-пуль-са
  []
 
@@ -1914,17 +2008,17 @@ _rus-eps-converted-to.pdf>
 (epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S10362-1
 1-100C_p_s_vs_T_rus-eps-converted-to.pdf pictures/Hamamatsu_S10362-11-100C_p_s_
 vs_T_rus.eps>
-(epstopdf)             \includegraphics on input line 742.
+(epstopdf)             \includegraphics on input line 765.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/Hamamatsu_S10362-11-100C_p_s_vs_T_rus-eps-converted-to.pdf, id=1099, 
+<pictures/Hamamatsu_S10362-11-100C_p_s_vs_T_rus-eps-converted-to.pdf, id=1153, 
 820.06375pt x 779.91376pt>
 File: pictures/Hamamatsu_S10362-11-100C_p_s_vs_T_rus-eps-converted-to.pdf Graph
 ic file (type pdf)
 
 <use pictures/Hamamatsu_S10362-11-100C_p_s_vs_T_rus-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_p_s_vs_T_rus-eps-con
-verted-to.pdf used on input line 742.
+verted-to.pdf used on input line 765.
 (pdftex.def)             Requested size: 207.27887pt x 197.13196pt.
 Package epstopdf Info: Source file: <pictures/Hamamatsu_S10362-11-100C_p_s_vs_V
 _rus.eps>
@@ -1937,26 +2031,26 @@ _rus-eps-converted-to.pdf>
 (epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S10362-1
 1-100C_p_s_vs_V_rus-eps-converted-to.pdf pictures/Hamamatsu_S10362-11-100C_p_s_
 vs_V_rus.eps>
-(epstopdf)             \includegraphics on input line 744.
+(epstopdf)             \includegraphics on input line 767.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/Hamamatsu_S10362-11-100C_p_s_vs_V_rus-eps-converted-to.pdf, id=1100, 
+<pictures/Hamamatsu_S10362-11-100C_p_s_vs_V_rus-eps-converted-to.pdf, id=1154, 
 820.06375pt x 781.92125pt>
 File: pictures/Hamamatsu_S10362-11-100C_p_s_vs_V_rus-eps-converted-to.pdf Graph
 ic file (type pdf)
 
 <use pictures/Hamamatsu_S10362-11-100C_p_s_vs_V_rus-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_p_s_vs_V_rus-eps-con
-verted-to.pdf used on input line 744.
+verted-to.pdf used on input line 767.
 (pdftex.def)             Requested size: 207.27887pt x 197.63936pt.
 
-Underfull \hbox (badness 6995) in paragraph at lines 748--748
-[]\T2A/cmr/m/n/12 Рис. 39. За-ви-си-мость ве-ро-ят-но-сти
+Underfull \hbox (badness 6995) in paragraph at lines 771--771
+[]\T2A/cmr/m/n/12 Рис. 42. За-ви-си-мость ве-ро-ят-но-сти
  []
 
 
-Underfull \hbox (badness 6995) in paragraph at lines 752--752
-[]\T2A/cmr/m/n/12 Рис. 40. За-ви-си-мость ве-ро-ят-но-сти
+Underfull \hbox (badness 6995) in paragraph at lines 775--775
+[]\T2A/cmr/m/n/12 Рис. 43. За-ви-си-мость ве-ро-ят-но-сти
  []
 
 
@@ -1973,17 +2067,17 @@ _T_rus-eps-converted-to.pdf>
 (epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S10362-1
 1-100C_tau_f_vs_T_rus-eps-converted-to.pdf pictures/Hamamatsu_S10362-11-100C_ta
 u_f_vs_T_rus.eps>
-(epstopdf)             \includegraphics on input line 758.
+(epstopdf)             \includegraphics on input line 781.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/Hamamatsu_S10362-11-100C_tau_f_vs_T_rus-eps-converted-to.pdf, id=1101
+<pictures/Hamamatsu_S10362-11-100C_tau_f_vs_T_rus-eps-converted-to.pdf, id=1155
 , 820.06375pt x 791.95876pt>
 File: pictures/Hamamatsu_S10362-11-100C_tau_f_vs_T_rus-eps-converted-to.pdf Gra
 phic file (type pdf)
 
 <use pictures/Hamamatsu_S10362-11-100C_tau_f_vs_T_rus-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_tau_f_vs_T_rus-eps-c
-onverted-to.pdf used on input line 758.
+onverted-to.pdf used on input line 781.
 (pdftex.def)             Requested size: 207.27887pt x 200.17645pt.
 Package epstopdf Info: Source file: <pictures/Hamamatsu_S10362-11-100C_tau_f_vs
 _V_rus.eps>
@@ -1996,35 +2090,35 @@ _V_rus-eps-converted-to.pdf>
 (epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S10362-1
 1-100C_tau_f_vs_V_rus-eps-converted-to.pdf pictures/Hamamatsu_S10362-11-100C_ta
 u_f_vs_V_rus.eps>
-(epstopdf)             \includegraphics on input line 760.
+(epstopdf)             \includegraphics on input line 783.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/Hamamatsu_S10362-11-100C_tau_f_vs_V_rus-eps-converted-to.pdf, id=1102
+<pictures/Hamamatsu_S10362-11-100C_tau_f_vs_V_rus-eps-converted-to.pdf, id=1156
 , 820.06375pt x 811.03pt>
 File: pictures/Hamamatsu_S10362-11-100C_tau_f_vs_V_rus-eps-converted-to.pdf Gra
 phic file (type pdf)
 
 <use pictures/Hamamatsu_S10362-11-100C_tau_f_vs_V_rus-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_tau_f_vs_V_rus-eps-c
-onverted-to.pdf used on input line 760.
+onverted-to.pdf used on input line 783.
 (pdftex.def)             Requested size: 207.27887pt x 204.99693pt.
 
-Underfull \hbox (badness 5105) in paragraph at lines 764--764
+Underfull \hbox (badness 5105) in paragraph at lines 787--787
 \T2A/cmr/m/n/12 рой ком-по-нен-ты по-сле-им-пуль-са $\OML/cmm/m/it/12 []$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 764--764
+Underfull \hbox (badness 10000) in paragraph at lines 787--787
 \T2A/cmr/m/n/12 пе-ре-на-пря-же-нии для Hamamatsu
  []
 
 
-Underfull \hbox (badness 5105) in paragraph at lines 768--768
+Underfull \hbox (badness 5105) in paragraph at lines 791--791
 \T2A/cmr/m/n/12 рой ком-по-нен-ты по-сле-им-пуль-са $\OML/cmm/m/it/12 []$
  []
 
 
-Underfull \hbox (badness 7888) in paragraph at lines 768--768
+Underfull \hbox (badness 7888) in paragraph at lines 791--791
 \T2A/cmr/m/n/12 от пе-ре-на-пря-же-ния при фик-си-ро-
  []
 
@@ -2042,17 +2136,17 @@ _T_rus-eps-converted-to.pdf>
 (epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S10362-1
 1-100C_tau_s_vs_T_rus-eps-converted-to.pdf pictures/Hamamatsu_S10362-11-100C_ta
 u_s_vs_T_rus.eps>
-(epstopdf)             \includegraphics on input line 773.
+(epstopdf)             \includegraphics on input line 796.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/Hamamatsu_S10362-11-100C_tau_s_vs_T_rus-eps-converted-to.pdf, id=1103
+<pictures/Hamamatsu_S10362-11-100C_tau_s_vs_T_rus-eps-converted-to.pdf, id=1157
 , 819.06pt x 781.92125pt>
 File: pictures/Hamamatsu_S10362-11-100C_tau_s_vs_T_rus-eps-converted-to.pdf Gra
 phic file (type pdf)
 
 <use pictures/Hamamatsu_S10362-11-100C_tau_s_vs_T_rus-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_tau_s_vs_T_rus-eps-c
-onverted-to.pdf used on input line 773.
+onverted-to.pdf used on input line 796.
 (pdftex.def)             Requested size: 207.27887pt x 197.87799pt.
 Package epstopdf Info: Source file: <pictures/Hamamatsu_S10362-11-100C_tau_s_vs
 _V_rus.eps>
@@ -2065,35 +2159,35 @@ _V_rus-eps-converted-to.pdf>
 (epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S10362-1
 1-100C_tau_s_vs_V_rus-eps-converted-to.pdf pictures/Hamamatsu_S10362-11-100C_ta
 u_s_vs_V_rus.eps>
-(epstopdf)             \includegraphics on input line 775.
+(epstopdf)             \includegraphics on input line 798.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/Hamamatsu_S10362-11-100C_tau_s_vs_V_rus-eps-converted-to.pdf, id=1104
+<pictures/Hamamatsu_S10362-11-100C_tau_s_vs_V_rus-eps-converted-to.pdf, id=1158
 , 819.06pt x 784.9325pt>
 File: pictures/Hamamatsu_S10362-11-100C_tau_s_vs_V_rus-eps-converted-to.pdf Gra
 phic file (type pdf)
 
 <use pictures/Hamamatsu_S10362-11-100C_tau_s_vs_V_rus-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_tau_s_vs_V_rus-eps-c
-onverted-to.pdf used on input line 775.
+onverted-to.pdf used on input line 798.
 (pdftex.def)             Requested size: 207.27887pt x 198.64003pt.
 
-Underfull \hbox (badness 1320) in paragraph at lines 779--779
-[]\T2A/cmr/m/n/12 Рис. 43. За-ви-си-мость вре-ме-ни мед-
+Underfull \hbox (badness 1320) in paragraph at lines 802--802
+[]\T2A/cmr/m/n/12 Рис. 46. За-ви-си-мость вре-ме-ни мед-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 779--779
+Underfull \hbox (badness 10000) in paragraph at lines 802--802
 \T2A/cmr/m/n/12 пе-ре-на-пря-же-нии для Hamamatsu
  []
 
 
-Underfull \hbox (badness 1320) in paragraph at lines 783--783
-[]\T2A/cmr/m/n/12 Рис. 44. За-ви-си-мость вре-ме-ни мед-
+Underfull \hbox (badness 1320) in paragraph at lines 806--806
+[]\T2A/cmr/m/n/12 Рис. 47. За-ви-си-мость вре-ме-ни мед-
  []
 
 
-Underfull \hbox (badness 7888) in paragraph at lines 783--783
+Underfull \hbox (badness 7888) in paragraph at lines 806--806
 \T2A/cmr/m/n/12 от пе-ре-на-пря-же-ния при фик-си-ро-
  []
 
@@ -2111,17 +2205,17 @@ rus-eps-converted-to.pdf>
 (epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S13360-3
 050CS_p_f_vs_V_rus-eps-converted-to.pdf pictures/Hamamatsu_S13360-3050CS_p_f_vs
 _V_rus.eps>
-(epstopdf)             \includegraphics on input line 787.
+(epstopdf)             \includegraphics on input line 810.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/Hamamatsu_S13360-3050CS_p_f_vs_V_rus-eps-converted-to.pdf, id=1105, 8
+<pictures/Hamamatsu_S13360-3050CS_p_f_vs_V_rus-eps-converted-to.pdf, id=1159, 8
 20.06375pt x 781.92125pt>
 File: pictures/Hamamatsu_S13360-3050CS_p_f_vs_V_rus-eps-converted-to.pdf Graphi
 c file (type pdf)
 
 <use pictures/Hamamatsu_S13360-3050CS_p_f_vs_V_rus-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/Hamamatsu_S13360-3050CS_p_f_vs_V_rus-eps-conv
-erted-to.pdf used on input line 787.
+erted-to.pdf used on input line 810.
 (pdftex.def)             Requested size: 207.27887pt x 197.63936pt.
 Package epstopdf Info: Source file: <pictures/Hamamatsu_S13360-3050CS_tau_f_vs_
 V_rus.eps>
@@ -2134,142 +2228,217 @@ V_rus-eps-converted-to.pdf>
 (epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S13360-3
 050CS_tau_f_vs_V_rus-eps-converted-to.pdf pictures/Hamamatsu_S13360-3050CS_tau_
 f_vs_V_rus.eps>
-(epstopdf)             \includegraphics on input line 789.
+(epstopdf)             \includegraphics on input line 812.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/Hamamatsu_S13360-3050CS_tau_f_vs_V_rus-eps-converted-to.pdf, id=1106,
+<pictures/Hamamatsu_S13360-3050CS_tau_f_vs_V_rus-eps-converted-to.pdf, id=1160,
  819.06pt x 794.97pt>
 File: pictures/Hamamatsu_S13360-3050CS_tau_f_vs_V_rus-eps-converted-to.pdf Grap
 hic file (type pdf)
 
 <use pictures/Hamamatsu_S13360-3050CS_tau_f_vs_V_rus-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/Hamamatsu_S13360-3050CS_tau_f_vs_V_rus-eps-co
-nverted-to.pdf used on input line 789.
+nverted-to.pdf used on input line 812.
 (pdftex.def)             Requested size: 207.27887pt x 201.18019pt.
 
-Underfull \hbox (badness 6995) in paragraph at lines 793--793
-[]\T2A/cmr/m/n/12 Рис. 45. За-ви-си-мость ве-ро-ят-но-сти
+Underfull \hbox (badness 6995) in paragraph at lines 816--816
+[]\T2A/cmr/m/n/12 Рис. 48. За-ви-си-мость ве-ро-ят-но-сти
  []
 
 
-Underfull \hbox (badness 2119) in paragraph at lines 793--793
+Underfull \hbox (badness 2119) in paragraph at lines 816--816
 \T2A/cmr/m/n/12 быст-рой ком-по-нен-ты по-сле-им-пуль-са
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 793--793
+Underfull \hbox (badness 1043) in paragraph at lines 816--816
 \T2A/cmr/m/n/12 S13360-3050CS. Дан-ные ап-прок-си-ми-
  []
 
 
-Underfull \hbox (badness 5105) in paragraph at lines 797--797
+Underfull \hbox (badness 5105) in paragraph at lines 820--820
 \T2A/cmr/m/n/12 рой ком-по-нен-ты по-сле-им-пуль-са $\OML/cmm/m/it/12 []$
  []
 
 
-Underfull \hbox (badness 7888) in paragraph at lines 797--797
+Underfull \hbox (badness 7888) in paragraph at lines 820--820
 \T2A/cmr/m/n/12 от пе-ре-на-пря-же-ния при фик-си-ро-
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 797--797
+Underfull \hbox (badness 1043) in paragraph at lines 820--820
 \T2A/cmr/m/n/12 S13360-3050CS. Дан-ные ап-прок-си-ми-
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
+Package epstopdf Info: Source file: <pictures/KETEK_PM1125NS_SB0_p_f_vs_V_rus.e
+ps>
+(epstopdf)                    date: 2016-03-11 18:03:13
+(epstopdf)                    size: 101557 bytes
+(epstopdf)             Output file: <pictures/KETEK_PM1125NS_SB0_p_f_vs_V_rus-e
+ps-converted-to.pdf>
+(epstopdf)                    date: 2016-03-11 18:31:53
+(epstopdf)                    size: 47918 bytes
+(epstopdf)             Command: <epstopdf --outfile=pictures/KETEK_PM1125NS_SB0
+_p_f_vs_V_rus-eps-converted-to.pdf pictures/KETEK_PM1125NS_SB0_p_f_vs_V_rus.eps
+>
+(epstopdf)             \includegraphics on input line 824.
+Package epstopdf Info: Output file is already uptodate.
 
-Underfull \hbox (badness 10000) in paragraph at lines 810--810
+<pictures/KETEK_PM1125NS_SB0_p_f_vs_V_rus-eps-converted-to.pdf, id=1161, 821.06
+75pt x 814.04124pt>
+File: pictures/KETEK_PM1125NS_SB0_p_f_vs_V_rus-eps-converted-to.pdf Graphic fil
+e (type pdf)
+
+<use pictures/KETEK_PM1125NS_SB0_p_f_vs_V_rus-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/KETEK_PM1125NS_SB0_p_f_vs_V_rus-eps-converted
+-to.pdf used on input line 824.
+(pdftex.def)             Requested size: 207.27887pt x 205.49721pt.
+Package epstopdf Info: Source file: <pictures/KETEK_PM1125NS_SB0_tau_f_vs_V_rus
+.eps>
+(epstopdf)                    date: 2016-03-11 18:36:45
+(epstopdf)                    size: 83009 bytes
+(epstopdf)             Output file: <pictures/KETEK_PM1125NS_SB0_tau_f_vs_V_rus
+-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-03-11 18:36:51
+(epstopdf)                    size: 39116 bytes
+(epstopdf)             Command: <epstopdf --outfile=pictures/KETEK_PM1125NS_SB0
+_tau_f_vs_V_rus-eps-converted-to.pdf pictures/KETEK_PM1125NS_SB0_tau_f_vs_V_rus
+.eps>
+(epstopdf)             \includegraphics on input line 826.
+Package epstopdf Info: Output file is already uptodate.
+
+<pictures/KETEK_PM1125NS_SB0_tau_f_vs_V_rus-eps-converted-to.pdf, id=1162, 821.
+0675pt x 812.03375pt>
+File: pictures/KETEK_PM1125NS_SB0_tau_f_vs_V_rus-eps-converted-to.pdf Graphic f
+ile (type pdf)
+
+<use pictures/KETEK_PM1125NS_SB0_tau_f_vs_V_rus-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/KETEK_PM1125NS_SB0_tau_f_vs_V_rus-eps-convert
+ed-to.pdf used on input line 826.
+(pdftex.def)             Requested size: 207.27887pt x 204.99043pt.
+
+Underfull \hbox (badness 6995) in paragraph at lines 830--830
+[]\T2A/cmr/m/n/12 Рис. 50. За-ви-си-мость ве-ро-ят-но-сти
+ []
+
+
+Underfull \hbox (badness 2119) in paragraph at lines 830--830
+\T2A/cmr/m/n/12 быст-рой ком-по-нен-ты по-сле-им-пуль-са
+ []
+
+
+Underfull \hbox (badness 2310) in paragraph at lines 830--830
+\OML/cmm/m/it/12 p[]$ \T2A/cmr/m/n/12 от пе-ре-на-пря-же-ния при фик-си-
+ []
+
+
+Underfull \hbox (badness 2376) in paragraph at lines 830--830
+\T2A/cmr/m/n/12 ро-ван-ной тем-пе-ра-ту-ре для KETEK
+ []
+
+
+Underfull \hbox (badness 1297) in paragraph at lines 834--834
+\T2A/cmr/m/n/12 Дан-ные ап-прок-си-ми-ро-ва-ны кон-стан-
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 848--848
 []\T2A/cmr/m/n/12 Параметр /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 810--810
+Underfull \hbox (badness 10000) in paragraph at lines 848--848
 []\T2A/cmr/m/n/12 KETEK
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 810--810
+Underfull \hbox (badness 10000) in paragraph at lines 848--848
 \T2A/cmr/m/n/12 PM3325NP-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 810--810
+Underfull \hbox (badness 10000) in paragraph at lines 848--848
 []\T2A/cmr/m/n/12 KETEK
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 810--810
+Underfull \hbox (badness 10000) in paragraph at lines 848--848
 \T2A/cmr/m/n/12 PM1125NS-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 810--810
+Underfull \hbox (badness 10000) in paragraph at lines 848--848
 []\T2A/cmr/m/n/12 Hamamatsu
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 810--811
+Underfull \hbox (badness 10000) in paragraph at lines 848--849
 []\T2A/cmr/m/n/12 Hamamatsu
  []
 
 
-Overfull \hbox (45.77357pt too wide) in paragraph at lines 808--817
+Overfull \hbox (45.77357pt too wide) in paragraph at lines 846--855
  [] 
  []
 
 [36 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_xtalk_ra
 tio_vs_T_rus-eps-converted-to.pdf> <D:/git_repositories/PhD/paper_1/pictures/Ha
 mamatsu_S13360-3050CS_xtalk_ratio_vs_V_rus-eps-converted-to.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 831--831
+Underfull \hbox (badness 10000) in paragraph at lines 869--869
 []\T2A/cmr/m/n/12 Параметр /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 831--831
+Underfull \hbox (badness 10000) in paragraph at lines 869--869
 []\T2A/cmr/m/n/12 KETEK
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 831--831
+Underfull \hbox (badness 10000) in paragraph at lines 869--869
 \T2A/cmr/m/n/12 PM3325NP-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 831--831
+Underfull \hbox (badness 10000) in paragraph at lines 869--869
 []\T2A/cmr/m/n/12 KETEK
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 831--831
+Underfull \hbox (badness 10000) in paragraph at lines 869--869
 \T2A/cmr/m/n/12 PM1125NS-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 831--831
+Underfull \hbox (badness 10000) in paragraph at lines 869--869
 []\T2A/cmr/m/n/12 Hamamatsu
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 831--832
+Underfull \hbox (badness 10000) in paragraph at lines 869--870
 []\T2A/cmr/m/n/12 Hamamatsu
  []
 
 
-Overfull \hbox (45.77357pt too wide) in paragraph at lines 829--842
+Overfull \hbox (45.77357pt too wide) in paragraph at lines 867--880
  [] 
  []
 
-[37 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_p_f_vs_T
-_rus-eps-converted-to.pdf> <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_
-S10362-11-100C_p_f_vs_V_rus-eps-converted-to.pdf>] [38 <D:/git_repositories/PhD
-/paper_1/pictures/Hamamatsu_S10362-11-100C_p_s_vs_T_rus-eps-converted-to.pdf> <
-D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_p_s_vs_V_rus-
-eps-converted-to.pdf>]
+[37 <D:/git_repositories/PhD/paper_1/pictures/KETEK_PM1125NS_SB0_xtalk_ratio_vs
+_V_rus-eps-converted-to.pdf>] [38 <D:/git_repositories/PhD/paper_1/pictures/Ham
+amatsu_S10362-11-100C_p_f_vs_T_rus-eps-converted-to.pdf> <D:/git_repositories/P
+hD/paper_1/pictures/Hamamatsu_S10362-11-100C_p_f_vs_V_rus-eps-converted-to.pdf>
+] [39 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_p_s_vs
+_T_rus-eps-converted-to.pdf> <D:/git_repositories/PhD/paper_1/pictures/Hamamats
+u_S10362-11-100C_p_s_vs_V_rus-eps-converted-to.pdf>]
 
-LaTeX Warning: Reference `image:Hamamatsu_S10362-11-100C_ENF_vs_V' on page 39 u
-ndefined on input line 873.
+LaTeX Warning: Reference `image:Hamamatsu_S10362-11-100C_ENF_vs_V' on page 40 u
+ndefined on input line 911.
 
 Package epstopdf Info: Source file: <pictures/Hamamatsu_S10362-11-100C_ENF_vs_V
 _rus.eps>
@@ -2282,17 +2451,17 @@ _rus-eps-converted-to.pdf>
 (epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S10362-1
 1-100C_ENF_vs_V_rus-eps-converted-to.pdf pictures/Hamamatsu_S10362-11-100C_ENF_
 vs_V_rus.eps>
-(epstopdf)             \includegraphics on input line 876.
+(epstopdf)             \includegraphics on input line 914.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/Hamamatsu_S10362-11-100C_ENF_vs_V_rus-eps-converted-to.pdf, id=1315, 
+<pictures/Hamamatsu_S10362-11-100C_ENF_vs_V_rus-eps-converted-to.pdf, id=1409, 
 821.0675pt x 801.99625pt>
 File: pictures/Hamamatsu_S10362-11-100C_ENF_vs_V_rus-eps-converted-to.pdf Graph
 ic file (type pdf)
 
 <use pictures/Hamamatsu_S10362-11-100C_ENF_vs_V_rus-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_ENF_vs_V_rus-eps-con
-verted-to.pdf used on input line 876.
+verted-to.pdf used on input line 914.
 (pdftex.def)             Requested size: 207.27887pt x 202.45656pt.
 Package epstopdf Info: Source file: <pictures/Hamamatsu_S13360-3050CS_ENF_vs_V_
 rus.eps>
@@ -2305,26 +2474,26 @@ rus-eps-converted-to.pdf>
 (epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S13360-3
 050CS_ENF_vs_V_rus-eps-converted-to.pdf pictures/Hamamatsu_S13360-3050CS_ENF_vs
 _V_rus.eps>
-(epstopdf)             \includegraphics on input line 878.
+(epstopdf)             \includegraphics on input line 916.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/Hamamatsu_S13360-3050CS_ENF_vs_V_rus-eps-converted-to.pdf, id=1316, 8
+<pictures/Hamamatsu_S13360-3050CS_ENF_vs_V_rus-eps-converted-to.pdf, id=1410, 8
 20.06375pt x 799.98875pt>
 File: pictures/Hamamatsu_S13360-3050CS_ENF_vs_V_rus-eps-converted-to.pdf Graphi
 c file (type pdf)
 
 <use pictures/Hamamatsu_S13360-3050CS_ENF_vs_V_rus-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/Hamamatsu_S13360-3050CS_ENF_vs_V_rus-eps-conv
-erted-to.pdf used on input line 878.
+erted-to.pdf used on input line 916.
 (pdftex.def)             Requested size: 207.27887pt x 202.20613pt.
 
-Underfull \hbox (badness 5091) in paragraph at lines 882--882
-[]\T2A/cmr/m/n/12 Рис. 47. За-ви-си-мость из-бы-точ-но-го
+Underfull \hbox (badness 5091) in paragraph at lines 920--920
+[]\T2A/cmr/m/n/12 Рис. 52. За-ви-си-мость из-бы-точ-но-го
  []
 
 
-Underfull \hbox (badness 5091) in paragraph at lines 886--886
-[]\T2A/cmr/m/n/12 Рис. 48. За-ви-си-мость из-бы-точ-но-го
+Underfull \hbox (badness 5091) in paragraph at lines 924--924
+[]\T2A/cmr/m/n/12 Рис. 53. За-ви-си-мость из-бы-точ-но-го
  []
 
 
@@ -2341,17 +2510,17 @@ rus-eps-converted-to.pdf>
 (epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S10362-1
 1-100C_QF_vs_V_rus-eps-converted-to.pdf pictures/Hamamatsu_S10362-11-100C_QF_vs
 _V_rus.eps>
-(epstopdf)             \includegraphics on input line 902.
+(epstopdf)             \includegraphics on input line 940.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/Hamamatsu_S10362-11-100C_QF_vs_V_rus-eps-converted-to.pdf, id=1317, 8
+<pictures/Hamamatsu_S10362-11-100C_QF_vs_V_rus-eps-converted-to.pdf, id=1411, 8
 21.0675pt x 817.0525pt>
 File: pictures/Hamamatsu_S10362-11-100C_QF_vs_V_rus-eps-converted-to.pdf Graphi
 c file (type pdf)
 
 <use pictures/Hamamatsu_S10362-11-100C_QF_vs_V_rus-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_QF_vs_V_rus-eps-conv
-erted-to.pdf used on input line 902.
+erted-to.pdf used on input line 940.
 (pdftex.def)             Requested size: 207.27887pt x 206.25737pt.
 Package epstopdf Info: Source file: <pictures/Hamamatsu_S13360-3050CS_QF_vs_V_r
 us.eps>
@@ -2364,71 +2533,71 @@ us-eps-converted-to.pdf>
 (epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S13360-3
 050CS_QF_vs_V_rus-eps-converted-to.pdf pictures/Hamamatsu_S13360-3050CS_QF_vs_V
 _rus.eps>
-(epstopdf)             \includegraphics on input line 904.
+(epstopdf)             \includegraphics on input line 942.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/Hamamatsu_S13360-3050CS_QF_vs_V_rus-eps-converted-to.pdf, id=1318, 82
+<pictures/Hamamatsu_S13360-3050CS_QF_vs_V_rus-eps-converted-to.pdf, id=1412, 82
 0.06375pt x 799.98875pt>
 File: pictures/Hamamatsu_S13360-3050CS_QF_vs_V_rus-eps-converted-to.pdf Graphic
  file (type pdf)
 
 <use pictures/Hamamatsu_S13360-3050CS_QF_vs_V_rus-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/Hamamatsu_S13360-3050CS_QF_vs_V_rus-eps-conve
-rted-to.pdf used on input line 904.
+rted-to.pdf used on input line 942.
 (pdftex.def)             Requested size: 207.27887pt x 202.20613pt.
 
-[39 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_tau_f_vs
+[40 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_tau_f_vs
 _T_rus-eps-converted-to.pdf> <D:/git_repositories/PhD/paper_1/pictures/Hamamats
 u_S10362-11-100C_tau_f_vs_V_rus-eps-converted-to.pdf>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 921--921
+Underfull \hbox (badness 10000) in paragraph at lines 959--959
 []\T2A/cmr/m/n/12 Параметр /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 921--921
+Underfull \hbox (badness 10000) in paragraph at lines 959--959
 []\T2A/cmr/m/n/12 KETEK
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 921--921
+Underfull \hbox (badness 10000) in paragraph at lines 959--959
 \T2A/cmr/m/n/12 PM3325NP-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 921--921
+Underfull \hbox (badness 10000) in paragraph at lines 959--959
 []\T2A/cmr/m/n/12 KETEK
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 921--921
+Underfull \hbox (badness 10000) in paragraph at lines 959--959
 \T2A/cmr/m/n/12 PM1125NS-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 921--921
+Underfull \hbox (badness 10000) in paragraph at lines 959--959
 []\T2A/cmr/m/n/12 Hamamatsu
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 921--921
+Underfull \hbox (badness 10000) in paragraph at lines 959--959
 []\T2A/cmr/m/n/12 Hamamatsu
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 921--922
+Underfull \hbox (badness 10000) in paragraph at lines 959--960
 []\T2A/cmr/m/n/12 Hamamatsu
  []
 
 
-Overfull \hbox (143.13184pt too wide) in paragraph at lines 919--928
+Overfull \hbox (143.13184pt too wide) in paragraph at lines 957--966
  [] 
  []
 
-[40 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_tau_s_vs
+[41 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_tau_s_vs
 _T_rus-eps-converted-to.pdf> <D:/git_repositories/PhD/paper_1/pictures/Hamamats
 u_S10362-11-100C_tau_s_vs_V_rus-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <pictures/Hamamatsu_S10362-11-100C_ER_vs_V_
@@ -2442,17 +2611,17 @@ rus-eps-converted-to.pdf>
 (epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S10362-1
 1-100C_ER_vs_V_rus-eps-converted-to.pdf pictures/Hamamatsu_S10362-11-100C_ER_vs
 _V_rus.eps>
-(epstopdf)             \includegraphics on input line 946.
+(epstopdf)             \includegraphics on input line 984.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/Hamamatsu_S10362-11-100C_ER_vs_V_rus-eps-converted-to.pdf, id=1436, 5
+<pictures/Hamamatsu_S10362-11-100C_ER_vs_V_rus-eps-converted-to.pdf, id=1530, 5
 72.1375pt x 566.115pt>
 File: pictures/Hamamatsu_S10362-11-100C_ER_vs_V_rus-eps-converted-to.pdf Graphi
 c file (type pdf)
 
 <use pictures/Hamamatsu_S10362-11-100C_ER_vs_V_rus-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/Hamamatsu_S10362-11-100C_ER_vs_V_rus-eps-conv
-erted-to.pdf used on input line 946.
+erted-to.pdf used on input line 984.
 (pdftex.def)             Requested size: 207.27887pt x 205.09697pt.
 Package epstopdf Info: Source file: <pictures/Hamamatsu_S13360-3050CS_ER_vs_V_r
 us.eps>
@@ -2465,37 +2634,39 @@ us-eps-converted-to.pdf>
 (epstopdf)             Command: <epstopdf --outfile=pictures/Hamamatsu_S13360-3
 050CS_ER_vs_V_rus-eps-converted-to.pdf pictures/Hamamatsu_S13360-3050CS_ER_vs_V
 _rus.eps>
-(epstopdf)             \includegraphics on input line 948.
+(epstopdf)             \includegraphics on input line 986.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/Hamamatsu_S13360-3050CS_ER_vs_V_rus-eps-converted-to.pdf, id=1437, 82
+<pictures/Hamamatsu_S13360-3050CS_ER_vs_V_rus-eps-converted-to.pdf, id=1531, 82
 1.0675pt x 814.04124pt>
 File: pictures/Hamamatsu_S13360-3050CS_ER_vs_V_rus-eps-converted-to.pdf Graphic
  file (type pdf)
 
 <use pictures/Hamamatsu_S13360-3050CS_ER_vs_V_rus-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/Hamamatsu_S13360-3050CS_ER_vs_V_rus-eps-conve
-rted-to.pdf used on input line 948.
+rted-to.pdf used on input line 986.
 (pdftex.def)             Requested size: 207.27887pt x 205.49721pt.
 
-Underfull \hbox (badness 2932) in paragraph at lines 952--952
+Underfull \hbox (badness 2932) in paragraph at lines 990--990
 \T2A/cmr/m/n/12 Hamamatsu S10362-11-100C. Сплош-
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [41 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S13360-3050CS_p_f_vs_
+) [42 <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S13360-3050CS_p_f_vs_
 V_rus-eps-converted-to.pdf> <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu
-_S13360-3050CS_tau_f_vs_V_rus-eps-converted-to.pdf>] [42 <D:/git_repositories/P
-hD/paper_1/pictures/Hamamatsu_S10362-11-100C_ENF_vs_V_rus-eps-converted-to.pdf>
- <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S13360-3050CS_ENF_vs_V_rus
--eps-converted-to.pdf> <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S103
-62-11-100C_QF_vs_V_rus-eps-converted-to.pdf> <D:/git_repositories/PhD/paper_1/p
-ictures/Hamamatsu_S13360-3050CS_QF_vs_V_rus-eps-converted-to.pdf>] [43 <D:/git_
-repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_ER_vs_V_rus-eps-conv
-erted-to.pdf> <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S13360-3050CS
-_ER_vs_V_rus-eps-converted-to.pdf>]
+_S13360-3050CS_tau_f_vs_V_rus-eps-converted-to.pdf>] [43 <D:/git_repositories/P
+hD/paper_1/pictures/KETEK_PM1125NS_SB0_p_f_vs_V_rus-eps-converted-to.pdf> <D:/g
+it_repositories/PhD/paper_1/pictures/KETEK_PM1125NS_SB0_tau_f_vs_V_rus-eps-conv
+erted-to.pdf> <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100
+C_ENF_vs_V_rus-eps-converted-to.pdf> <D:/git_repositories/PhD/paper_1/pictures/
+Hamamatsu_S13360-3050CS_ENF_vs_V_rus-eps-converted-to.pdf>] [44 <D:/git_reposit
+ories/PhD/paper_1/pictures/Hamamatsu_S10362-11-100C_QF_vs_V_rus-eps-converted-t
+o.pdf> <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu_S13360-3050CS_QF_vs_
+V_rus-eps-converted-to.pdf> <D:/git_repositories/PhD/paper_1/pictures/Hamamatsu
+_S10362-11-100C_ER_vs_V_rus-eps-converted-to.pdf> <D:/git_repositories/PhD/pape
+r_1/pictures/Hamamatsu_S13360-3050CS_ER_vs_V_rus-eps-converted-to.pdf>]
 (D:\git_repositories\PhD\paper_1\content_crystal_er.tex
 Package epstopdf Info: Source file: <pictures/PMT_Ham_big_950V_noise_vs_light.e
 ps>
@@ -2508,17 +2679,17 @@ ps-converted-to.pdf>
 (epstopdf)             Command: <epstopdf --outfile=pictures/PMT_Ham_big_950V_n
 oise_vs_light-eps-converted-to.pdf pictures/PMT_Ham_big_950V_noise_vs_light.eps
 >
-(epstopdf)             \includegraphics on input line 6.
+(epstopdf)             \includegraphics on input line 9.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/PMT_Ham_big_950V_noise_vs_light-eps-converted-to.pdf, id=1679, 821.06
+<pictures/PMT_Ham_big_950V_noise_vs_light-eps-converted-to.pdf, id=1827, 821.06
 75pt x 782.925pt>
 File: pictures/PMT_Ham_big_950V_noise_vs_light-eps-converted-to.pdf Graphic fil
 e (type pdf)
 
 <use pictures/PMT_Ham_big_950V_noise_vs_light-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/PMT_Ham_big_950V_noise_vs_light-eps-converted
--to.pdf used on input line 6.
+-to.pdf used on input line 9.
 (pdftex.def)             Requested size: 207.27887pt x 197.6422pt.
 Package epstopdf Info: Source file: <pictures/PMT_Ham_big_950V_Am_rus.eps>
 (epstopdf)                    date: 2016-02-02 18:09:30
@@ -2529,66 +2700,122 @@ rted-to.pdf>
 (epstopdf)                    size: 629978 bytes
 (epstopdf)             Command: <epstopdf --outfile=pictures/PMT_Ham_big_950V_A
 m_rus-eps-converted-to.pdf pictures/PMT_Ham_big_950V_Am_rus.eps>
-(epstopdf)             \includegraphics on input line 8.
+(epstopdf)             \includegraphics on input line 11.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/PMT_Ham_big_950V_Am_rus-eps-converted-to.pdf, id=1680, 820.06375pt x 
+<pictures/PMT_Ham_big_950V_Am_rus-eps-converted-to.pdf, id=1828, 820.06375pt x 
 778.91pt>
 File: pictures/PMT_Ham_big_950V_Am_rus-eps-converted-to.pdf Graphic file (type 
 pdf)
  <use pictures/PMT_Ham_big_950V_Am_rus-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/PMT_Ham_big_950V_Am_rus-eps-converted-to.pdf 
-used on input line 8.
+used on input line 11.
 (pdftex.def)             Requested size: 207.27887pt x 196.87823pt.
 Package epstopdf Info: Source file: <pictures/LuYAG_PMT_ER_factors_rus.eps>
-(epstopdf)                    date: 2016-02-03 11:43:28
-(epstopdf)                    size: 163782 bytes
+(epstopdf)                    date: 2016-02-12 15:43:16
+(epstopdf)                    size: 146402 bytes
 (epstopdf)             Output file: <pictures/LuYAG_PMT_ER_factors_rus-eps-conv
 erted-to.pdf>
-(epstopdf)                    date: 2016-02-03 11:47:43
-(epstopdf)                    size: 86511 bytes
+(epstopdf)                    date: 2016-02-12 15:43:34
+(epstopdf)                    size: 83052 bytes
 (epstopdf)             Command: <epstopdf --outfile=pictures/LuYAG_PMT_ER_facto
 rs_rus-eps-converted-to.pdf pictures/LuYAG_PMT_ER_factors_rus.eps>
-(epstopdf)             \includegraphics on input line 19.
+(epstopdf)             \includegraphics on input line 31.
 Package epstopdf Info: Output file is already uptodate.
 
-<pictures/LuYAG_PMT_ER_factors_rus-eps-converted-to.pdf, id=1681, 821.0675pt x 
-787.94376pt>
+<pictures/LuYAG_PMT_ER_factors_rus-eps-converted-to.pdf, id=1829, 822.07124pt x
+ 829.0975pt>
 File: pictures/LuYAG_PMT_ER_factors_rus-eps-converted-to.pdf Graphic file (type
  pdf)
  <use pictures/LuYAG_PMT_ER_factors_rus-eps-converted-to.pdf>
 Package pdftex.def Info: pictures/LuYAG_PMT_ER_factors_rus-eps-converted-to.pdf
- used on input line 19.
-(pdftex.def)             Requested size: 207.27887pt x 198.90913pt.
-Package epstopdf Info: Source file: <pictures/LuYAG_PMT_ER_factors_rus.eps>
-(epstopdf)                    date: 2016-02-03 11:43:28
-(epstopdf)                    size: 163782 bytes
-(epstopdf)             Output file: <pictures/LuYAG_PMT_ER_factors_rus-eps-conv
-erted-to.pdf>
-(epstopdf)                    date: 2016-02-03 11:47:43
-(epstopdf)                    size: 86511 bytes
-(epstopdf)             Command: <epstopdf --outfile=pictures/LuYAG_PMT_ER_facto
-rs_rus-eps-converted-to.pdf pictures/LuYAG_PMT_ER_factors_rus.eps>
-(epstopdf)             \includegraphics on input line 21.
+ used on input line 31.
+(pdftex.def)             Requested size: 207.27887pt x 209.045pt.
+Package epstopdf Info: Source file: <pictures/LFS-3_LYSO_LuYAG_rus.eps>
+(epstopdf)                    date: 2016-02-12 15:49:08
+(epstopdf)                    size: 166134 bytes
+(epstopdf)             Output file: <pictures/LFS-3_LYSO_LuYAG_rus-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2016-02-12 15:49:15
+(epstopdf)                    size: 71110 bytes
+(epstopdf)             Command: <epstopdf --outfile=pictures/LFS-3_LYSO_LuYAG_r
+us-eps-converted-to.pdf pictures/LFS-3_LYSO_LuYAG_rus.eps>
+(epstopdf)             \includegraphics on input line 33.
 Package epstopdf Info: Output file is already uptodate.
-File: pictures/LuYAG_PMT_ER_factors_rus-eps-converted-to.pdf Graphic file (type
- pdf)
 
-<use pictures/LuYAG_PMT_ER_factors_rus-eps-converted-to.pdf>
-Package pdftex.def Info: pictures/LuYAG_PMT_ER_factors_rus-eps-converted-to.pdf
- used on input line 21.
-(pdftex.def)             Requested size: 207.27887pt x 198.90913pt.
+<pictures/LFS-3_LYSO_LuYAG_rus-eps-converted-to.pdf, id=1830, 821.0675pt x 817.
+0525pt>
+File: pictures/LFS-3_LYSO_LuYAG_rus-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use pictures/LFS-3_LYSO_LuYAG_rus-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/LFS-3_LYSO_LuYAG_rus-eps-converted-to.pdf use
+d on input line 33.
+(pdftex.def)             Requested size: 207.27887pt x 206.25737pt.
+
+Underfull \hbox (badness 4229) in paragraph at lines 39--39
+[]\T2A/cmr/m/n/12 Рис. 61. За-ви-си-мость соб-ствен-но-го
+ []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [44
+[45
 
 
  <D:/git_repositories/PhD/paper_1/pictures/PMT_Ham_big_950V_noise_vs_light-eps-
 converted-to.pdf> <D:/git_repositories/PhD/paper_1/pictures/PMT_Ham_big_950V_Am
-_rus-eps-converted-to.pdf>] [45 <D:/git_repositories/PhD/paper_1/pictures/LuYAG
-_PMT_ER_factors_rus-eps-converted-to.pdf>]
+_rus-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <pictures/Fano_LFS_LYSO_LuYAG_rus.eps>
+(epstopdf)                    date: 2016-02-12 15:51:41
+(epstopdf)                    size: 136930 bytes
+(epstopdf)             Output file: <pictures/Fano_LFS_LYSO_LuYAG_rus-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2016-02-12 15:51:52
+(epstopdf)                    size: 60143 bytes
+(epstopdf)             Command: <epstopdf --outfile=pictures/Fano_LFS_LYSO_LuYA
+G_rus-eps-converted-to.pdf pictures/Fano_LFS_LYSO_LuYAG_rus.eps>
+(epstopdf)             \includegraphics on input line 50.
+Package epstopdf Info: Output file is already uptodate.
+
+<pictures/Fano_LFS_LYSO_LuYAG_rus-eps-converted-to.pdf, id=1880, 822.07124pt x 
+834.11626pt>
+File: pictures/Fano_LFS_LYSO_LuYAG_rus-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use pictures/Fano_LFS_LYSO_LuYAG_rus-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/Fano_LFS_LYSO_LuYAG_rus-eps-converted-to.pdf 
+used on input line 50.
+(pdftex.def)             Requested size: 207.27887pt x 210.31041pt.
+Package epstopdf Info: Source file: <pictures/Nonlinear_LFS_LYSO_LuYAG_rus.eps>
+
+(epstopdf)                    date: 2016-02-12 15:55:31
+(epstopdf)                    size: 165935 bytes
+(epstopdf)             Output file: <pictures/Nonlinear_LFS_LYSO_LuYAG_rus-eps-
+converted-to.pdf>
+(epstopdf)                    date: 2016-02-12 16:00:07
+(epstopdf)                    size: 70964 bytes
+(epstopdf)             Command: <epstopdf --outfile=pictures/Nonlinear_LFS_LYSO
+_LuYAG_rus-eps-converted-to.pdf pictures/Nonlinear_LFS_LYSO_LuYAG_rus.eps>
+(epstopdf)             \includegraphics on input line 52.
+Package epstopdf Info: Output file is already uptodate.
+
+<pictures/Nonlinear_LFS_LYSO_LuYAG_rus-eps-converted-to.pdf, id=1881, 821.0675p
+t x 817.0525pt>
+File: pictures/Nonlinear_LFS_LYSO_LuYAG_rus-eps-converted-to.pdf Graphic file (
+type pdf)
+
+<use pictures/Nonlinear_LFS_LYSO_LuYAG_rus-eps-converted-to.pdf>
+Package pdftex.def Info: pictures/Nonlinear_LFS_LYSO_LuYAG_rus-eps-converted-to
+.pdf used on input line 52.
+(pdftex.def)             Requested size: 207.27887pt x 206.25737pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [46 <D:/git_repositories/PhD/paper_1/pictures/LuYAG_PMT_ER_factors_rus-eps-co
+nverted-to.pdf> <D:/git_repositories/PhD/paper_1/pictures/LFS-3_LYSO_LuYAG_rus-
+eps-converted-to.pdf>] [47 <D:/git_repositories/PhD/paper_1/pictures/Fano_LFS_L
+YSO_LuYAG_rus-eps-converted-to.pdf> <D:/git_repositories/PhD/paper_1/pictures/N
+onlinear_LFS_LYSO_LuYAG_rus-eps-converted-to.pdf>]
 (D:\git_repositories\PhD\paper_1\bibliography.tex
 Underfull \hbox (badness 10000) in paragraph at lines 9--10
 []\T2A/cmr/m/n/12 TOWARD A USER`S TOOLKIT FOR MODELING SCINTILLATOR
@@ -2600,10 +2827,10 @@ Underfull \hbox (badness 1708) in paragraph at lines 20--22
 Eckert, Hans-
  []
 
-) [46
+[48
 
 
-] [47] (D:\git_repositories\PhD\paper_1\main.aux
+]) [49] (D:\git_repositories\PhD\paper_1\main.aux
 (D:\git_repositories\PhD\paper_1\content_theory.aux)
 (D:\git_repositories\PhD\paper_1\content_experiment.aux)
 (D:\git_repositories\PhD\paper_1\content_crystal_er.aux)
@@ -2616,13 +2843,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5392 strings out of 493921
- 87505 string characters out of 3150556
- 143926 words of memory out of 3000000
- 8392 multiletter control sequences out of 15000+200000
+ 5450 strings out of 493921
+ 90603 string characters out of 3150556
+ 148076 words of memory out of 3000000
+ 8442 multiletter control sequences out of 15000+200000
  19913 words of font info for 51 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 42i,12n,28p,472b,277s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,12n,28p,472b,288s stack positions out of 5000i,500n,10000p,200000b,50000s
 {D:/LaTex/Full_TeX/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<D:/LaTex/
 Full_TeX/texmf/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/LaTex/Full_TeX/tex
 mf/fonts/type1/public/amsfonts/cmextra/cmex8.pfb><D:/LaTex/Full_TeX/texmf/fonts
@@ -2639,9 +2866,9 @@ TeX/texmf/fonts/type1/public/cm-super/sfbx2488.pfb><D:/LaTex/Full_TeX/texmf/fon
 ts/type1/public/cm-super/sfrm0800.pfb><D:/LaTex/Full_TeX/texmf/fonts/type1/publ
 ic/cm-super/sfrm1200.pfb><D:/LaTex/Full_TeX/texmf/fonts/type1/public/cm-super/s
 fti1200.pfb>
-Output written on main.pdf (47 pages, 5152266 bytes).
+Output written on main.pdf (49 pages, 5546925 bytes).
 PDF statistics:
- 1840 PDF objects out of 2073 (max. 8388607)
+ 2104 PDF objects out of 2487 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 296 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 336 words of extra memory for PDF output out of 10000 (max. 10000000)
 

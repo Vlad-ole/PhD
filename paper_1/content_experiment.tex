@@ -297,21 +297,21 @@ V(t) = V_0 - \frac{A}{2} \cdot \Bigg( \left\{ F(\sigma, \tau_{rec}^{fast}) - F(\
 Если послеимпульс произошел раньше, то его амплитуда будет мала и алгоритм не сможет отличить послеимпульс от шума.
 
 \begin{center}
-\begin{tabular}{|p{3cm}|p{3cm}|p{3cm}|p{3cm}|p{3cm}|}
+\begin{tabular}{|p{3cm}|p{3cm}|p{3cm}|p{3cm}|p{3cm}|p{3cm}|}
   \hline
-  Параметр / Тип SiPM  &  KETEK PM3325NP-SB0 Pin &  KETEK PM1125NS-SB0 & Hamamatsu S10362-33-025C & Hamamatsu S10362-11-100C  \\
+  Параметр / Тип SiPM  &  KETEK PM3325NP-SB0 Pin &  KETEK PM1125NS-SB0 & Hamamatsu S10362-33-025C & Hamamatsu S10362-11-100C & Hamamatsu S13360-3050CS \\
   \hline
-  $\tau_{rec}^{fast} $ [нс] &  & 42 & 12 & 0.9 \\
+  $\tau_{rec}^{fast} $ [нс] &  & - & - & 0.9 & - \\
   \hline
-  $\tau_{rec}^{slow} $ [нс] &  & - & - & 41 \\
+  $\tau_{rec}^{slow} $ [нс] &  & 42 & 12 & 41 & 51 \\
   \hline
-  $\tau_{rise} $ [нс] &  & 3 & 28 & 1.5 \\
+  $\tau_{rise} $ [нс] &  & 3 & 28 & 1.5 & 4.5 \\
   \hline
-  $\sigma$ [нс]&  & 1.1 & 1.4 & 0.6 \\
+  $\sigma$ [нс]&  & 1.1 & 1.4 & 0.6 & - \\
   \hline
-  $R_{slow}$  & - & - & - & 0.24 \\
+  $R_{slow}$  & - & - & - & 0.24 & - \\
   \hline
-  $\chi^2 / Dof$ & - & 5.5 & 0.26 & 9.2 \\
+  $\chi^2 / Dof$ & - & 5.5 & 0.26 & 9.2 & - \\
   \hline
 \end{tabular}
 \end{center}
@@ -582,11 +582,19 @@ Hamamatsu S10362-11-100C. Данные аппроксимированы линейной функцией (\ref{eq:Hz_
 \label{image:Hamamatsu_S10362-11-100C_dc_vs_V}}
 \end{figure}
 
+
 \begin{figure}[h]
-\center{\includegraphics[width=8cm]{Hamamatsu_S13360-3050CS_dc_vs_V_rus}}
-\caption{Зависимость частоты темнового тока от перенапряжения при фиксированной температуре для Hamamatsu S13360-3050CS.
+\includegraphics[width=0.47\textwidth]{Hamamatsu_S13360-3050CS_dc_vs_V_rus}
+\hfill
+\includegraphics[width=0.47\textwidth]{KETEK_PM1125NS_SB0_dc_vs_V_rus}
+\\
+\parbox[t]{0.47\textwidth}{\caption{Зависимость частоты темнового тока от перенапряжения при фиксированной температуре для Hamamatsu S13360-3050CS.
 Линии - аппроксимация частоты константой для разных температур.}
-\label{image:Hamamatsu_S10362-11-100C_303K_70V_dt_example}
+\label{image:Hamamatsu_S13360-3050CS_dc_vs_V_rus}}
+\hfill
+\parbox[t]{0.47\textwidth}{\caption{Зависимость частоты темнового тока от перенапряжения при фиксированной температуре для KETEK PM1125NS-SB0.
+Линия - аппроксимация частоты линейной функцией.}
+\label{image:KETEK_PM1125NS_SB0_dc_vs_V_rus}}
 \end{figure}
 
 Для Hamamatsu S13360-3050CS аппроксимация зависимости темнового тока от перенапряжения выполнена константой, поскольку в эксперименте не удалось набрать достаточно статистики для более точной аппроксимации.
@@ -658,11 +666,19 @@ Hamamatsu S10362-11-100C. Данные аппроксимированы линейной функцией.}
 \end{figure}
 
 \begin{figure}[h]
-\center{\includegraphics[width=8cm]{Hamamatsu_S13360-3050CS_xtalk_vs_V_rus}}
-\caption{Зависимость вероятности кросстока от перенапряжения при фиксированной температуре для
+\includegraphics[width=0.47\textwidth]{Hamamatsu_S13360-3050CS_xtalk_vs_V_rus}
+\hfill
+\includegraphics[width=0.47\textwidth]{KETEK_PM1125NS_SB0_x-tlak_vs_V_rus}
+\\
+\parbox[t]{0.47\textwidth}{\caption{Зависимость вероятности кросстока от перенапряжения при фиксированной температуре для
 Hamamatsu S13360-3050CS.}
-\label{image:Hamamatsu_S10362-11-100C_303K_70V_dt_example}
+\label{image:Hamamatsu_S13360-3050CS_xtalk_vs_V_rus}}
+\hfill
+\parbox[t]{0.47\textwidth}{\caption{Зависимость вероятности кросстока от перенапряжения при фиксированной температуре для
+KETEK PM1125NS-SB0.}
+\label{image:KETEK_PM1125NS_SB0_x-tlak_vs_V_rus}}
 \end{figure}
+
 
 Исходя из экспериментальных данных, можно сделать вывод, что вероятность кросстока не зависит от температуры.
 В тоже время вероятность кросстока должна иметь в первом приближении квадратичную зависимость от перенапряжения.
@@ -715,6 +731,13 @@ P_{x-talk}(\Delta V, T) = k_{x-talk} \cdot \Delta V^2
 \parbox[t]{0.47\textwidth}{\caption{Зависимость отношения экспериментальной вероятности срабатывания дополнительной ячейки из-за кросстока к
 теоретической вероятности от перенапряжения при фиксированной температуре для Hamamatsu S13360-3050CS.}
 \label{image:}}
+\end{figure}
+
+\begin{figure}[h]
+\center{\includegraphics[width=8cm]{KETEK_PM1125NS_SB0_xtalk_ratio_vs_V_rus}}
+\caption{Зависимость отношения экспериментальной вероятности срабатывания дополнительной ячейки из-за кросстока к
+теоретической вероятности от перенапряжения при фиксированной температуре для KETEK PM1125NS-SB0.}
+\label{image:KETEK_PM1125NS_SB0_xtalk_ratio_vs_V_rus}
 \end{figure}
 
 Как видно из графика, при низком перенапряжении модель работает. Но при повышении перенапряжения расхождение увеличивается.
@@ -796,6 +819,21 @@ Hamamatsu S13360-3050CS. Данные аппроксимированы квадратичной функцией.}
 Hamamatsu S13360-3050CS. Данные аппроксимированы константой.}
 \label{image:Hamamatsu_S13360-3050CS_tau_s_vs_V}}
 \end{figure}
+
+\begin{figure}[h]
+\includegraphics[width=0.47\textwidth]{KETEK_PM1125NS_SB0_p_f_vs_V_rus}
+\hfill
+\includegraphics[width=0.47\textwidth]{KETEK_PM1125NS_SB0_tau_f_vs_V_rus}
+\\
+\parbox[t]{0.47\textwidth}{\caption{Зависимость вероятности быстрой компоненты послеимпульса $p_{f}$ от перенапряжения при фиксированной температуре для
+KETEK PM1125NS-SB0. Данные аппроксимированы квадратичной функцией.}
+\label{image:KETEK_PM1125NS_SB0_p_f_vs_V_rus}}
+\hfill
+\parbox[t]{0.47\textwidth}{\caption{Зависимость времени быстрой компоненты послеимпульса $\tau_{f}$ от перенапряжения при фиксированной температуре для
+KETEK PM1125NS-SB0. Данные аппроксимированы константой.}
+\label{image:KETEK_PM1125NS_SB0_tau_f_vs_V_rus}}
+\end{figure}
+
 
 
 Вероятности послеимпульсов $p_{s}$ и $p_{f}$ при текущей точности измерения не зависят от температуры.

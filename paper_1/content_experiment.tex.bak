@@ -297,21 +297,21 @@ V(t) = V_0 - \frac{A}{2} \cdot \Bigg( \left\{ F(\sigma, \tau_{rec}^{fast}) - F(\
 Если послеимпульс произошел раньше, то его амплитуда будет мала и алгоритм не сможет отличить послеимпульс от шума.
 
 \begin{center}
-\begin{tabular}{|p{3cm}|p{3cm}|p{3cm}|p{3cm}|p{3cm}|}
+\begin{tabular}{|p{3cm}|p{3cm}|p{3cm}|p{3cm}|p{3cm}|p{3cm}|}
   \hline
-  Параметр / Тип SiPM  &  KETEK PM3325NP-SB0 Pin &  KETEK PM1125NS-SB0 & Hamamatsu S10362-33-025C & Hamamatsu S10362-11-100C  \\
+  Параметр / Тип SiPM  &  KETEK PM3325NP-SB0 Pin &  KETEK PM1125NS-SB0 & Hamamatsu S10362-33-025C & Hamamatsu S10362-11-100C & Hamamatsu S13360-3050CS \\
   \hline
-  $\tau_{rec}^{fast} $ [нс] &  & 42 & 12 & 0.9 \\
+  $\tau_{rec}^{fast} $ [нс] &  & - & - & 0.9 & - \\
   \hline
-  $\tau_{rec}^{slow} $ [нс] &  & - & - & 41 \\
+  $\tau_{rec}^{slow} $ [нс] &  & 42 & 12 & 41 & 51 \\
   \hline
-  $\tau_{rise} $ [нс] &  & 3 & 28 & 1.5 \\
+  $\tau_{rise} $ [нс] &  & 3 & 28 & 1.5 & 4.5 \\
   \hline
-  $\sigma$ [нс]&  & 1.1 & 1.4 & 0.6 \\
+  $\sigma$ [нс]&  & 1.1 & 1.4 & 0.6 & - \\
   \hline
-  $R_{slow}$  & - & - & - & 0.24 \\
+  $R_{slow}$  & - & - & - & 0.24 & - \\
   \hline
-  $\chi^2 / Dof$ & - & 5.5 & 0.26 & 9.2 \\
+  $\chi^2 / Dof$ & - & 5.5 & 0.26 & 9.2 & - \\
   \hline
 \end{tabular}
 \end{center}
@@ -589,6 +589,8 @@ Hamamatsu S10362-11-100C. Данные аппроксимированы линейной функцией (\ref{eq:Hz_
 \label{image:Hamamatsu_S10362-11-100C_303K_70V_dt_example}
 \end{figure}
 
+
+
 Для Hamamatsu S13360-3050CS аппроксимация зависимости темнового тока от перенапряжения выполнена константой, поскольку в эксперименте не удалось набрать достаточно статистики для более точной аппроксимации.
 Однако даже такая оценка позволяет понять, что уровень темновых токов для Hamamatsu S13360-3050CS в рассчете на 1 $мм^2$ на порядок меньше, чем, аналогичная характеристика для Hamamatsu S10362-11-100C.
 
@@ -708,7 +710,7 @@ P_{x-talk}(\Delta V, T) = k_{x-talk} \cdot \Delta V^2
 \hfill
 \includegraphics[width=0.47\textwidth]{Hamamatsu_S13360-3050CS_xtalk_ratio_vs_V_rus}
 \\
-\parbox[t]{0.47\textwidth}{\caption{Зависимость отношения экспериментальной вероятности срабатывания дополнительной ячейки из-за кросстока к 
+\parbox[t]{0.47\textwidth}{\caption{Зависимость отношения экспериментальной вероятности срабатывания дополнительной ячейки из-за кросстока к
 теоретической вероятности от температуры при фиксированном перенапряжении для Hamamatsu S10362-11-100C.}
 \label{image:Hamamatsu_S10362-11-100C_xtalk_ratio_vs_T}}
 \hfill
@@ -883,7 +885,7 @@ N_{p.e.}^{no \; x-talk} = N_{p.e.}^{led} - N_{p.e.}^{no \; led}
 \hfill
 \parbox[t]{0.47\textwidth}{\caption{Зависимость избыточного фактора шума от перенапряжения для Hamamatsu S13360-3050CS.
 Значения при разных температурах усреднены.}
-\label{image:}}
+\label{image:Hamamatsu_S13360-3050CS_ENF_vs_V_rus}}
 \end{figure}
 
 
